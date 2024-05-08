@@ -1,29 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>JWDS</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>JWDS</title>
 </head>
 <body>
-    <div id="app">
-        <h1>Hello1</h1>
-        <img src="./res/1.png" alt="">
-        <h1>Hi</h1>
-        <img src="./res/생생한 악몽.png" alt="">
-        <img src="./res/섬찟한 울음소리.png" alt="">
-        <h1>Hello2</h1>
-        <img src="1.png" alt="">
-        <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
-        <h1> {{firstName}} {{lastName}}</h1>
-        <h3>Email: {{email}}</h3>
-        <button v-on:click="getUser()" :class="gender">
-            Get Random User</button>
-    </div>
+  <div id="app">
+    <h1>Arya</h1>
+    <details> <summary>설정</summary>
+      <p>첫번째</p>
+      <ul>
+        <li>1. 윈도우10 설치후 c:드라이브에 AryaStark폴더를 복사한다</li>
+        <li>2. AryaStark폴더를 공유디렉토리로 만든다</li>
+        <ul class="ul2">
+          <li>2-1 폴더공유에서 everyone,guest 추가하고  네트워그및공유센터에서 암호보호공유끄기로 설정한다.</li>
+          <li>2-2 폴더공유에서 everyone,guest 추가하고  네트워그및공유센터에서 암호보호공유끄기로 설정한다.</li>
+        </ul>
+        <li>3. odt/arya.bat를 바탕화면으로 복사한다.</li>
+        <li>4. AryaStark/odt/bin/uac_disable.bat를 관리자 권한으로 실행</li>
+          <ul>
+            <li>->동영상 실행을 위해서 (게시자를 알수없는 이 앱이 디바이스를 변경하도록 허용하기 위해)</li>
+          </ul>
+        <li>5. 설정에서 전원관리 -> 고성능 -> 고급전원관리 -> </li>
+          <ul class="ul2">
+            <li>하드디스크끄기 0</li>
+            <li>디스플레이끄기 -> 해당없슴</li>
+            <li>화면끄기 ->없슴</li>
+            <li>디스플레이 밝기 -> 60%</li>
+          </ul>
+      </ul>
+    </details>
     
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-    <script src="app.js"></script>
+    <img src="./res/1.png" alt="">
+    <h1>Hi</h1>
+    <img src="./res/생생한 악몽.png" alt="">
+    <img src="./res/섬찟한 울음소리.png" alt="">
+    <h1>Hello2</h1>
+    <img src="1.png" alt="">
+    <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
+    <h1> {{firstName}} {{lastName}}</h1>
+    <h3>Email: {{email}}</h3>
+    <button v-on:click="getUser()" :class="gender">
+        Get Random User</button>
+  </div>
+  
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="app.js"></script>
 
 </body>
 </html>
