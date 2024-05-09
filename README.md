@@ -68,17 +68,14 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
     [2021_05_31_19_09_11][[KTC01_LPG_JWData_010031_900101-KTC01_LPG_JWData_010031_900101]]certs.dat
     \\jposnas\AS\프로그램_KIOSK\JPOS5000 uSD Card KTC인증서 디렉토리 참조
 
-2. http://otp.ktc.re.kr/ [참조링크]에서 기물추가(키오스크또는 일체형 등록)   
-
-4. 사이트<http://otp.ktc.re.kr/>에서 기물추가(키오스크또는 일체형 등록) 
-
-    [사이트 바로가기](http://otp.ktc.re.kr/)
+2. http://otp.ktc.re.kr/ 에서 기물추가(키오스크또는 일체형 등록)   
 
 3. 나머지는 기존(JPOS3000)과 동일합니다.
 
-[참조링크]: http://otp.ktc.re.kr/
-
 ```
+[![이미지 링크 정상이자만 글자는 안보인다](./res/정신의사슬.png)](http://otp.ktc.re.kr/)
+
+---
 
 참조링크테스트정상 [참조링크]
 
@@ -90,7 +87,6 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 
 구글 홈페이지 클릭테스트 정상<https://google.com>
 
-[![이미지 링크 정상이자만 글자는 안보인다](./res/정신의사슬.png)](http://otp.ktc.re.kr/)
 
 <!-- * 구글 홈페이지: https://google.com -->
 ### History
@@ -131,7 +127,7 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 
 ### 장위데이타시스템(주)
 
-서울시 노원구 공릉로 232 서울테크노파크 807호 장위데이타시스템(*주*)   
+서울시 노원구 공릉로 232 서울테크노파크 807호 *장위데이타시스템*(주)   
 TEL : 02-911-1002    
 FAX : 02-911-1004    
 사업자번호 : 209-81-10220  
