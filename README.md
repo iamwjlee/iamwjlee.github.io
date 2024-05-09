@@ -1,9 +1,8 @@
 <!-- # iamwjlee.github.io -->
 [![1](./res/생생한악몽.png)](http://www.j-pos.co.kr/)
 
-[Spirit Chains](./SpiritChains.md)
-[Waking Nightmare](./WakingNightmare.md)
-### [Deep Slumber](./DeepSlumber.md)
+## [Spirit Chains](./SpiritChains.md) | ## [Waking Nightmare](./WakingNightmare.md)
+## [Deep Slumber](./DeepSlumber.md)
 ## [FrightsomeHowl](./FrightsomeHowl.md)
 
 ## 터치보드 윈도우10 설정
