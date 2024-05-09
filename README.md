@@ -2,7 +2,7 @@
 [![1](./res/정신의사슬.png)](./hakkar.md)
 [![2](./res/생생한악몽.png)](./WakingNightmare.md)
 [![3](./res/깊은잠.png)](./DeepSlumber.md)
-
+[Spirit Chains](./SpiritChains.md)
 ## 터치보드 윈도우10 설정
 ```
 1. 윈도우10 설치후 c:드라이브에 AryaStark폴더를 복사한다
