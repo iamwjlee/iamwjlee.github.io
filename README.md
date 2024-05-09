@@ -1,8 +1,7 @@
 <!-- # iamwjlee.github.io -->
 [![1](./res/생생한악몽.png)](http://www.j-pos.co.kr/)
 
-
-
+<!-- 정신사슬 | 생생한악몽 | 깊은잠 | 섬찟한울음소리 | 우레와같은울부짖음  -->
 ## [SpiritChains](./SpiritChains.md) | [WakingNightmare](./WakingNightmare.md) | [DeepSlumber](./DeepSlumber.md) | [FrightsomeHowl](./FrightsomeHowl.md) | [BellowingRoar](./BellowingRoar.md)
 
 
@@ -129,22 +128,16 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 2024.05.07.  - 업데이트   충전화면 머핀로고변경,토스추가예정 
 
 ```
+
 ### 장위데이타시스템(주)
 
-서울시 노원구 공릉로 232 서울테크노파크 807호 장위데이타시스템(*주*)
-TEL : 02-911-1002 
-FAX : 02-911-1004 
-사업자번호 : 209-81-10220
+서울시 노원구 공릉로 232 서울테크노파크 807호 장위데이타시스템(*주*)   
+TEL : 02-911-1002    
+FAX : 02-911-1004    
+사업자번호 : 209-81-10220  
 
 See [Home Page Reference](http://www.j-pos.co.kr/).
 
 ---
 
-Welcome
-This is your new *vault*.
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
-
-
-
-[Atal'Hakkar](./hakkar.md)
