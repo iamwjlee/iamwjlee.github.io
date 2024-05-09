@@ -65,7 +65,7 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
     [사이트 바로가기](http://otp.ktc.re.kr/)
 3. 나머지는 기존(JPOS3000)과 동일합니다.
 ```
-
+[KTC 바로가기](http://otp.ktc.re.kr/)
 ### History
 ```
 2020.12.18.  - 스타트 
