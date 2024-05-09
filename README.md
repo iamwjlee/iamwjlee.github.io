@@ -3,8 +3,8 @@
 
 [Spirit Chains](./SpiritChains.md)
 [Waking Nightmare](./WakingNightmare.md)
-[##Deep Slumber](./DeepSlumber.md)
-[###FrightsomeHowl](./FrightsomeHowl.md)
+### [Deep Slumber](./DeepSlumber.md)
+## [FrightsomeHowl](./FrightsomeHowl.md)
 
 ## 터치보드 윈도우10 설정
 ```
