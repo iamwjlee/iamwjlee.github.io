@@ -21,6 +21,9 @@
     gpedit.msc  -> 관리템플릿->windows 구성요소 ->windows 업데이트->자동업데이트구성 -> 사용안함
     gpedit.msc  -> 관리템플릿->시스템->인터넷통신관리 ->인터넷통신설정->모든 windows 업데이트기능에 액세스안함 ->사용
     <a href="https://itshareit.tistory.com/3">참조</a> 
+
+    참조: <https://itshareit.tistory.com/3> 
+
     
 8. 최신터치SW로 업데이트 한다(main.exe를 AryaStark/odt/release 에 복사한다) 
 9. 부팅메뉴 Advanced->Miscellaneous Configuration->Restore AC Power Loss ->Power On 으로 셋팅
