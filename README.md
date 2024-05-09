@@ -109,5 +109,6 @@ Make a note of something, [[create a link]], or try [the Importer](https://help.
 
 
 ---
+[Configuration Reference](https://cli.vuejs.org/config/).
 
-[상대 참조](./test.md)
+[Atal'Hakkar](./hakkar.md)
