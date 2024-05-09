@@ -34,6 +34,7 @@
 11. NFC_dirver 디렉토리에 있는 usb 드라이버 설치
 
 ```
+
 원도우10 설정 참조 : <https://itshareit.tistory.com/3> 
 
 ### 유량계 FW업데이트및 셋팅변경사항
