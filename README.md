@@ -20,7 +20,7 @@
     services.msc -> windows update 사용안함으로 셋팅
     gpedit.msc  -> 관리템플릿->windows 구성요소 ->windows 업데이트->자동업데이트구성 -> 사용안함
     gpedit.msc  -> 관리템플릿->시스템->인터넷통신관리 ->인터넷통신설정->모든 windows 업데이트기능에 액세스안함 ->사용
-    
+
     <a href="https://itshareit.tistory.com/3">참조</a> 
 
     참조: <https://itshareit.tistory.com/3> 
@@ -74,19 +74,21 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 
 3. 나머지는 기존(JPOS3000)과 동일합니다.
 
+[참조링크]: http://otp.ktc.re.kr/
+
 ```
 
-참조링크테스트 [참조링크]
+참조링크테스트정상 [참조링크]
 
 [참조링크]: http://otp.ktc.re.kr/
 
-[KTC 링크 바로가기 테스트](http://otp.ktc.re.kr/)
+[KTC 링크 바로가기 테스트 정상](http://otp.ktc.re.kr/)
 
-구글 홈페이지 클릭테스트 오케이: <https://google.com>
+구글 홈페이지 클릭테스트 정상: <https://google.com>
 
-구글 홈페이지 클릭테스트 오케이<https://google.com>
+구글 홈페이지 클릭테스트 정상<https://google.com>
 
-[![이미지 링크 오케이](./res/정신의사슬.png)](http://otp.ktc.re.kr/)
+[![이미지 링크 정상이자만 글자는 안보인다](./res/정신의사슬.png)](http://otp.ktc.re.kr/)
 
 <!-- * 구글 홈페이지: https://google.com -->
 ### History
