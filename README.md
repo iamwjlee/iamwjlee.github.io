@@ -61,21 +61,28 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
     JPOS5000신형인 경우는 기존에 사용되던 인증서 대신 아래의 파일을 uSD카드에 읽혀서 갱신해야 합니다(JuUGi_Flash.exe사용하여)
     [2021_05_31_19_09_11][[KTC01_LPG_JWData_010031_900101-KTC01_LPG_JWData_010031_900101]]certs.dat
     \\jposnas\AS\프로그램_KIOSK\JPOS5000 uSD Card KTC인증서 디렉토리 참조
+
 2. http://otp.ktc.re.kr/ [참조링크]에서 기물추가(키오스크또는 일체형 등록)   
+
+4. 사이트<http://otp.ktc.re.kr/>에서 기물추가(키오스크또는 일체형 등록) 
+
     [사이트 바로가기](http://otp.ktc.re.kr/)
+
 3. 나머지는 기존(JPOS3000)과 동일합니다.
+
 ```
+
 참조링크테스트 [참조링크]
 
 [참조링크]: http://otp.ktc.re.kr/
 
 [KTC 링크 바로가기 테스트](http://otp.ktc.re.kr/)
 
-구글 홈페이지 클릭테스트: <https://google.com>
+구글 홈페이지 클릭테스트 오케이: <https://google.com>
 
-구글 홈페이지 클릭테스트 <https://google.com>
+구글 홈페이지 클릭테스트 오케이<https://google.com>
 
-[![이미지에 링크 삽입 테스트](./res/정신의사슬.png)](http://otp.ktc.re.kr/)
+[![이미지 링크 오케이](./res/정신의사슬.png)](http://otp.ktc.re.kr/)
 
 <!-- * 구글 홈페이지: https://google.com -->
 ### History
