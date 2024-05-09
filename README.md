@@ -42,13 +42,14 @@
 AryaStark/ezhelp: 원격
 AryaStark/MainBdupdate :
     인터페이스보드 FW: J5000Buffer.bin
-    Kiosk JPOS3000 FW: JPOS3000_NOSD.bin/JPOS3000_SD.bin
+    키오스크 JPOS3000 FW: JPOS3000_NOSD.bin/JPOS3000_SD.bin
     일체형메인보드 FW: flowmeter.bin
 AryaStark/MinGW : c++ 컴파일러
-AryaStark/mv : 비디오플레이어 실행파일
+AryaStark/mv : 동영상파일 실행 파일
 AryaStark/odt : 터치보드 어플리케이션 프로그램
-AryaStark/SDL2-2.0.7 : 그래픽라이브러리
-AryaStark/video : 동영상파일
+AryaStark/odt/release : dll 라이브러리,실행파일
+AryaStark/SDL2-2.0.7 : 라이브러리
+AryaStark/video : 홍보용 동영상파일
 AryaStark/PrgUploader : 원격다운로드를 위한 폴더::미사용
     Client.exe를 실행시키면 사무실컴퓨터(192.168.0.79)에서 파일을 읽어오고 터치SW를 재실행한다.
 AryaStark/NFC_driver : Nice NFC Payment usb s/w driver    
@@ -97,41 +98,6 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 2024.03.14.  - 업데이트  모바일간편결제용 이미지 추가,결제화면(자영) 변경 
 2024.03.18.  - 업데이트  모바일간편결제 이미지글자 변경(자영,직영),이미지변경,릴리즈변경 
 2024.05.07.  - 업데이트   충전화면 머핀로고변경,토스추가예정 
-
-<ul>
-    <li>2020.12.18.  - 스타트</li>
-    <li>2020.12.21.  - 업데이트 442버전 </li>
-    <li>2021.01.21.  - PrgUploader 폴더추가, 안쓰는 그림파일 삭제</li>
-    <li>2021.01.29.  - 업데이트예정 448버전, SameUploderV30,Pic 에 이미지파일 추가됨</li>
-    <li>2021.03.09.  - 업데이트 mv,Mediainfo.dat,Pic,res,J5000Buffer.bin(PR보내고 응답체크 추가)</li>
-    <li>2021.03.19.  - 업데이트 Pic,SKCC 일신충전소 설치용 실행파일</li>
-    <li>2021.03.25.  - 업데이트 OdtSetup1.bmp,4_PaymentICInsert.bmp</li>
-    <li>2021.04.02.  - 업데이트 NumberInputCash.bmp,일체형 메뉴그림2장추가</li>
-    <li>2021.04.27.  - 업데이트 DialogSave.bmp</li>
-    <li>2021.04.29.  - 업데이트 OdtSKMain.bmp  </li>
-    <li>2021.05.03.  - 업데이트 OdtSetup2.bmp 변경 </li>
-    <li>2021.05.10.  - 업데이트 Arya2.bat 추가 </li>
-    <li>2021.05.14.  - 업데이트 Arya3.bat 추가,일체형 무결성실패 이미지 추가 </li>
-    <li>2021.06.04.  - 업데이트 OdtSetup2.bmp,4_PaymentSKCC2.bmp</li>
-    <li>2021.06.08.  - 업데이트 OdtSKMain.bmp,8_MenuSK.bmp,</li>
-    <li>2021.06.15.  - 업데이트 DialogCustomCard.bmp,8_MenuJW.bmp </li>
-    <li>2021.06.25.  - 업데이트 SK4차연동 업데이트 </li>
-    <li>2021.08.03.  - 업데이트 1원차이 </li>
-    <li>2021.08.11.  - 업데이트 1원차이 디스플레이 수정</li>
-    <li>2021.90.02.  - 업데이트 거래처별단가 적용 수정(동해),금액설정후 재설정시 900원차이이상일때만 프리셋적용(장암) </li>
-    <li>2021.10.06.  - 업데이트 그림파일 업데이트 일체형2개 추가,인터페이스보드,메인보드,터치보드 </li>
-    <li>2021.10.07.  - 업데이트  </li>
-    <li>2022.02.11.  - 업데이트  기아레드포인트 추가로 이미지 3장 추가 </li>
-    <li>2022.07.26.  - 업데이트  그림파일 추가,컴퓨터 온도로깅 상용 프로그림(hwi) </li>
-    <li>2022.11.28.  - 업데이트   Buffer board fw 수정(영수증버퍼늘리고,VFD 초기화에 단가 0원) : JPOS5000Buffer-PR.bin 파일 </li>
-    <li>2023.09.20.  - 업데이트  모바일 간편결제,그림파일 다수및 NFC_driver 디렉토리 추가 </li>
-    <li>2024.01.09.  - 업데이트  skgas 1톤트럭 홍보 동영상으로 교체 </li>
-    <li>2024.01.26.  - 업데이트  video player 교체(택배.avi만 플레이함) </li>
-    <li>2024.03.14.  - 업데이트  모바일간편결제용 이미지 추가,결제화면(자영) 변경 </li>
-    <li>2024.03.18.  - 업데이트  모바일간편결제 이미지글자 변경(자영,직영),이미지변경,릴리즈변경 </li>
-    <li>2024.05.07.  - 업데이트   충전화면 머핀로고변경,토스추가예정 </li>
-</ul>
-
 
 ```
 ### Customize configuration
