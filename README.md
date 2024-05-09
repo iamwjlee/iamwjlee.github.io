@@ -29,7 +29,7 @@
 
 ```
     원도우10 설정 참조 : <https://itshareit.tistory.com/3> 
-    
+
 ### 유량계 FW업데이트및 셋팅변경사항
 ```
 1. AryaStark\MainBdupdate\JPOS3000.bin 사용
@@ -122,18 +122,20 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 2024.05.07.  - 업데이트   충전화면 머핀로고변경,토스추가예정 
 
 ```
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 장위데이타시스템(주)
+
+서울시 노원구 공릉로 232 서울테크노파크 807호 장위데이타시스템(주)
+TEL : 02-911-1002 FAX : 02-911-1004 사업자번호 : 209-81-10220
+
+See [Home Page Reference](http://www.j-pos.co.kr/).
+
+---
 
 Welcome
 This is your new *vault*.
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
-서울시 노원구 공릉로 232 서울테크노파크 807호 장위데이타시스템(주)
-TEL : 02-911-1004 FAX : 02-911-1004 사업자번호 : 209-81-10220
 
-[홈페이지](http://www.j-pos.co.kr/).
 
----
 
 [Atal'Hakkar](./hakkar.md)
