@@ -1,3 +1,3 @@
-#Sprit Chains
+# Sprit Chains
 
-###정신의 사슬
+### 정신의 사슬
