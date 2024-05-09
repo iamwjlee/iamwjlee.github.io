@@ -4,14 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+	<script src="https://unpkg.com/vue@3"></script>
   <title>JWDS</title>
 </head>
 <body>
   <div id="app">
+    <br>
+    <hr>
     <h1>AryaStark</h1>
     <br>
     <details> <summary><b>터치보드 윈도우10 설정</b></summary>
-      <ul>
+      <ul class="ul1">
         <li>1. 윈도우10 설치후 c:드라이브에 AryaStark폴더를 복사한다</li>
         <li>2. AryaStark폴더를 공유디렉토리로 만든다</li>
         <ul class="ul2">
@@ -51,7 +55,7 @@
     <br>
     <!-- <details> <summary><b>KIOSK 설치시 JPOS3000 유량계 FW업데이트및 셋팅변경사항</b></summary> -->
     <details> <summary><b>유량계 FW업데이트및 셋팅변경사항</b></summary>
-        <ul>
+      <ul class="ul1">
         <li>1. AryaStark\MainBdupdate\JPOS3000.bin 사용</li>
         <li>2. 디스펜서모드 -> 통신형(JPOS)로 셋팅</li>
         <li>3. 유량계의 설정메뉴에서 노즐스위치사용을 오프한다!</li>
@@ -59,7 +63,7 @@
     </details>
     <br>
     <details> <summary><b>AryaStark 디렉토리구조</b></summary>
-      <ul>
+      <ul class="ul1">
         <li>ezhelp: 원격</li>
         <li>MainBdupdate</li>
           <ul class="ul2">
@@ -76,11 +80,12 @@
           <ul class="ul2">
             <li>Client.exe를 실행시키면 사무실컴퓨터(192.168.0.79)에서 파일을 읽어오고 터치SW를 재실행한다.</li>
           </ul>
+        <li></li>  
       </ul>
     </details>
     <br>
     <details> <summary><b>신형 일체형(JPOS5000) uSD 갱신및 기물추가</b></summary>
-      <ul>
+      <ul class="ul1">
         <li>1. JPOS5000신형의 uSD카드 인증서</li>
           <ul class="ul2">
             <li>JPOS5000신형인 경우는 기존에 사용되던 인증서 대신 아래의 파일을 uSD카드에 읽혀서 갱신해야 합니다(JuUGi_Flash.exe사용하여) </li>
@@ -93,7 +98,7 @@
     </details>
     <br>
     <details> <summary><b>History</b></summary>
-      <ul>
+      <ul class="ul1">
         <li>2020.12.18.  - 스타트</li>
         <li>2020.12.21.  - 업데이트 442버전 </li>
         <li>2021.01.21.  - PrgUploader 폴더추가, 안쓰는 그림파일 삭제</li>
@@ -132,21 +137,83 @@
       </ul>
     </details>
     <br>
-    <img src="./res/1.png" alt="">
-    <h1>Hi</h1>
-    <img src="./res/생생한 악몽.png" alt="">
-    <img src="./res/섬찟한 울음소리.png" alt="">
-    <h1>Hello2</h1>
-    <img src="1.png" alt="">
-    <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
+    <br>
+    <a href="/call" target="_self"><img src="./res/1.png" alt=""></a>
+    <!-- <img src="./res/1.png" alt=""> -->
+    <br>
+    <br>
+    <hr>
+    <h1>Atal'Hakkar</h1>
+    <br>
+    <ul>
+      <li class="li2"><img src="./res/생생한 악몽.png" alt=""> <span>생생한 악몽</span></li>
+      <li class="li2"><img src="./res/섬찟한 울음소리.png" alt="">섬찟한 울음소리</li>
+      <li class="li2"><img src="./res/우레와같은 울부짖음.png" alt="">우레와같은 울부짖음</li>
+      <li class="li2"><img src="./res/정신의 사슬.png" alt="">정신의 사슬</li>
+      <li class="li2"><img src="./res/깊은 잠.png" alt="">깊은 잠</li>
+    </ul>
+
+    <h1>Hello App!</h1>
+    <!-- <p>
+      <router-link to="foo">Go to Foo</router-link>
+    </p>
+    <router-view></router-view> -->
+    {{message}}
+
+
+
+    <a href="https://shouts.dev">
+      <img class="img-fluid mx-auto d-block mb-4" src="https://cdn.shouts.dev/images/shoutsdev.png" alt="shouts.dev" style="max-width: 170px;">
+    </a>
+  
+    <nav class="navbar navbar-expand navbar-light" style="background-color: #e3f2fd;">
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li> <router-link class="nav-link" to="/"> Home </router-link> </li>
+        <li> <router-link class="nav-link" to="about"> About </router-link> </li>
+        <li> <router-link class="nav-link" to="contact"> Contact </router-link> </li>
+        </ul>
+      </div>
+    </nav>
+  
+    <div class="text-center" style="margin-top: 20px;">
+      <router-view></router-view>
+    </div>
+
+
+    <!-- <h1>Here are many child components!</h1> -->
+    <!-- <ButtonCounter />
+    <MyComponent></MyComponent> -->
+    <!-- <h1>Hello2</h1> -->
+
+    <!-- <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
     <h1> {{firstName}} {{lastName}}</h1>
     <h3>Email: {{email}}</h3>
     <button v-on:click="getUser()" :class="gender">
-        Get Random User</button>
+        Get Random User</button> -->
   </div>
-  
+
+    <!-- vue components -->
+
+
+  <script type="importmap">
+    {
+      "imports": {
+        "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
+      }
+    }
+  </script>
+
   <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-  <script src="app.js"></script>
+  <script src="https://unpkg.com/vue-router@3/dist/vue-router.js"></script>
+
+
+
+  <script type="module" src="app.js"></script>
+
+
+
+
 
 </body>
 </html>
