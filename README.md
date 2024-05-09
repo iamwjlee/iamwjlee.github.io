@@ -1,10 +1,11 @@
 <!-- # iamwjlee.github.io -->
 [![1](./res/생생한악몽.png)](http://www.j-pos.co.kr/)
 
-## [SpiritChains](./SpiritChains.md) | ## [WakingNightmare](./WakingNightmare.md) | ## [DeepSlumber](./DeepSlumber.md)
-## [DeepSlumber](./DeepSlumber.md)
-## [FrightsomeHowl](./FrightsomeHowl.md)
-## [BellowingRoar](./BellowingRoar.md)
+
+
+## [SpiritChains](./SpiritChains.md) | [WakingNightmare](./WakingNightmare.md) | [DeepSlumber](./DeepSlumber.md) | [FrightsomeHowl](./FrightsomeHowl.md) | [BellowingRoar](./BellowingRoar.md)
+
+
 ## 터치보드 윈도우10 설정
 ```
 1. 윈도우10 설치후 c:드라이브에 AryaStark폴더를 복사한다
