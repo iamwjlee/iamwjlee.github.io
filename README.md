@@ -29,4 +29,4 @@ Welcome
 This is your new *vault*.
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
-[상대적 참조](./me.md)
+[상대적 참조](./test.md)
