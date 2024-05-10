@@ -10,4 +10,4 @@
 제출 <input type="submit" value="제출"/>
 
 <script>
-<script/>
+</script>
