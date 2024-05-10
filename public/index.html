@@ -6,16 +6,25 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <!-- <title><%= htmlWebpackPlugin.options.title %></title> -->
-    <script src="https://unpkg.com/vue@3"></script>    
+    <link rel="stylesheet" href="./src/style.css">
+
     <title>empty</title>
   </head>
   <body>
     <!-- <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript> -->
-    <!-- <div id="app"></div> -->
     <h1>Hello empty </h1>
+    <div id="app">
+      <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
+      <h1> {{firstName}} {{lastName}}</h1>
+      <h3>Email: {{email}}</h3>
+      <button v-on:click="getUser()" :class="gender">
+          Get Random User</button>
+    </div>
+
     <!-- built files will be auto injected -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <script src="./src/app.js"></script>
   </body>
 </html>
