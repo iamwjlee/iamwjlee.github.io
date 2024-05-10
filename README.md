@@ -13,6 +13,8 @@
 
 
 <a href="myFile.js" download>Click to Download</a>
+   
+[myFile.js](https://iamwjlee.github.io/res/myFile.js)   
 
 
 ### 장위데이타시스템(주)
