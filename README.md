@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <br/>
-   
+
 ![1](./res/1.png) 
    
 <br/>
@@ -23,7 +23,7 @@
 <!-- <a href="mainU.rpm" download>Click to Download</a> -->
    
 
-[DownLoad mainU.exe](https://iamwjlee.github.io/res/mainU.rpm)   
+[DownLoad Arya](https://iamwjlee.github.io/res/mainU.rpm)   
 
 
 ### 장위데이타시스템(주)
