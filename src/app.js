@@ -2,6 +2,7 @@
 
 // https://www.youtube.com/watch?v=qZXt1Aom3Cs
 const app=Vue.createApp({
+    // template: '<h1> Hello World</h1>',
     data() {
         return {
             firstName: 'John',
@@ -17,11 +18,14 @@ const app=Vue.createApp({
             this.firstName='John2'
             this.lastName= 'Doe2'
             this.email= 'john2@gmail.com'
-            this.gender='male'
+            this.gender='female'
             this.picture='https://randomuser.me/api/portraits/men/10.jpg'
 
             
-        }
+        },
+        // test() {
+        //     const res=a
+        // }
     },
 })
 app.mount('#app')
