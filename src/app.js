@@ -24,9 +24,23 @@ const app=Vue.createApp({
             
         },
         async test() {
+            /*
+            Javascript Fetch Api to make asynchronous HTTP requests
+            네트워크의 리소스를 쉽게 비동기적으로 취득할 수 있다
+            it is a great alternative to XMLHttpRequest 
+            */
             const res=await fetch('https://iamwjlee.github.io/res/wj.json')
-            const data= await res.json()
-            console.log(data)
+            console.log(res.status)
+            console.log(res.statusText)
+            if(res.status===200) {
+                const jsonData= await res. json()
+                console.log('배열의 갯수=', jsonData.length)
+                console.log(jsonData)
+            }
+            else {
+                console.log('Not Okay=', res.status)
+
+            }
         }
     },
 })
