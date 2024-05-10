@@ -24,7 +24,7 @@ const app=Vue.createApp({
             
         },
         async test() {
-            const res=await fetch('https://iamwjlee@github.io/res/wj.json')
+            const res=await fetch('https://iamwjlee.github.io/res/wj.json')
             const data= await res.json()
             console.log(data)
         }
