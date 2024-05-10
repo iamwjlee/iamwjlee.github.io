@@ -4,23 +4,21 @@
 <!-- 정신사슬 | 생생한악몽 | 깊은잠 | 섬찟한울음소리 | 우레와같은울부짖음  -->
 ## [SpiritChains](./SpiritChains.md) | [WakingNightmare](./WakingNightmare.md) | [DeepSlumber](./DeepSlumber.md) | [FrightsomeHowl](./FrightsomeHowl.md) | [BellowingRoar](./BellowingRoar.md)
 
-a   
 <br/>
 <br/>
-b   
-</br>   
-</br> 
-c
-   
+<br/>
    
 ![1](./res/1.png) 
    
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-
-<a href="mainU.exe" download>Click to Download</a>
+<a href="mainU.rpm" download>Click to Download</a>
    
-[DownLoad mainU.exe](https://iamwjlee.github.io/res/mainU.exe)   
+[DownLoad mainU.exe](https://iamwjlee.github.io/res/mainU.rpm)   
 
 
 ### 장위데이타시스템(주)
