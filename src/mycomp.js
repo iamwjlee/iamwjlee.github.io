@@ -1,9 +1,12 @@
 export default {
     props: ['title'],
     name: 'my-component1',
-    template: `<div>
+    template: 
+    `
+    <div>
     This is the component with name {{title}} {{componentName}} 
-    </div>`,
+    </div>
+    `,
     data() {
         return {
             componentName: 'MyComponent',
