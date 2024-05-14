@@ -1,16 +1,38 @@
 
+// route components
+// 1. 라우트 컴포넌트를 정의하세요.
+// 아래 내용들은 다른 파일로부터 가져올 수 있습니다
+const Home = { template: `<div><h1>Home  </h1><p>This is home page</p></div>`}
 
+// define routes
+const routes = [
+    { path: '/', component: Home },
+    { path: '/about', component: About },
+    { path: '/contact', component: Contact },
+]
+// router instance and pass the `routes` option
+const router = VueRouter.createRouter({
+    history: VueRouter.createWebHashHistory(),
+    routes, // short for `routes: routes`
+})
+    
+
+
+import Mycomp from './mycomp.js'
 // https://www.youtube.com/watch?v=qZXt1Aom3Cs
 const app=Vue.createApp({
     // template: '<h1> Hello World</h1>',
     data() {
         return {
-            firstName: 'John',
+            firstName: 'John', 
             lastName: 'Doe',
             email: 'john@gmail.com',
             gender:'male',
             picture:'https://randomuser.me/api/portraits/men/10.jpg',
         }
+    },
+    components: {
+        Mycomp
     },
     methods: {
         getUser() {
@@ -44,4 +66,5 @@ const app=Vue.createApp({
         }
     },
 })
+app.use(router)
 app.mount('#app')

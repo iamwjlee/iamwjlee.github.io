@@ -6,20 +6,48 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Randon User Gen</title>
+	<script src="https://unpkg.com/vue@3"></script>
+	<script src="https://unpkg.com/vue-router@4"></script>
+
 </head>
 <body>
     <div id="app">
-        <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
+        {{firstName}}
+        <a href="https://www.youtube.com/watch?v=UNfkkXxBbZA">Create the Vue Project using CDN Links</a>
+        <br>
         <h1> {{firstName}} {{lastName}}</h1>
+        <br>
+        <div> <Mycomp title="abcd"/></div>
+        <br>
+        
+        <!-- <nav class="navbar navbar-expand navbar-light" style="background-color: #e3f2fd;">
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+              <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                  <li> <router-link class="nav-link" to="/"> Home </router-link> </li>
+                  <li> <router-link class="nav-link" to="about"> About </router-link> </li>
+                  <li> <router-link class="nav-link" to="contact"> Contact </router-link> </li>
+              </ul>
+            </div>
+        </nav>
+        <div class="text-center" style="margin-top: 20px;">
+            <router-view></router-view>
+        </div> -->
+          
+        <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
         <h3>Email: {{email}}</h3>
+        <h2> PP</h2>
         <button v-on:click="getUser()" :class="gender">
             Get Random User</button>
 
         <button @click="test()" > Test       </button>            
     </div>
     
-    <script src="https://unpkg.com/vue@3.0.5"></script>
-    <script src="app.js"></script>
+    <!-- <script src="https://unpkg.com/vue@3.0.5"></script> -->
+<!-- vue components -->
+    <script src="pages/about.vue.js"></script>
+    <script src="pages/contact.vue.js"></script>
+
+    <script src="app.js" type="module"></script>
 
 </body>
 </html>
