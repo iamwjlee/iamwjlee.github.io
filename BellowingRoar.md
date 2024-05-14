@@ -5,6 +5,8 @@
 
 <br/>
 
+## Season of Discovery
+
 ### Emerald Wardens(에메랄드 감시자)
 ### Dusk wood(그늘숲 Level 25)
 ### Ashen vale(잿빛골짜기 Level 40)
