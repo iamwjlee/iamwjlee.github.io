@@ -10,14 +10,14 @@ h1,h3 {
 }
 
 #app {
-    width: 400;
+    /* width: 400;
     height: 100vh;
     margin: auto;
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
 }
 
 img {
@@ -45,4 +45,11 @@ button:hover {
 .female {
     border-color: pink;
     background-color: pink;
+}
+.my-module {
+    background-color: antiquewhite;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* border-color: blue; */
 }

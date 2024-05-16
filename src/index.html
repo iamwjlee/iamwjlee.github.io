@@ -12,12 +12,23 @@
 </head>
 <body>
     <div id="app">
-        {{firstName}}
+        <h1>Hello App!</h1>
+        <p>
+            <router-link to="/">Home</router-link> <span> | </span>
+            <router-link to="/about">About</router-link> <span> | </span>
+            <router-link to="/contact">Contact</router-link>
+        </p>
+        <br>
+        <router-view></router-view>
+        <br>
+        <hr>
+        
+        <!-- {{firstName}} -->
         <a href="https://www.youtube.com/watch?v=UNfkkXxBbZA">Create the Vue Project using CDN Links</a>
         <br>
-        <h1> {{firstName}} {{lastName}}</h1>
+        <!-- <h1> {{firstName}} {{lastName}}</h1> -->
         <br>
-        <div> <Mycomp title="abcd"/></div>
+        <div class="my-module"> <Mycomp title="abc"/></div>
         <br>
         
         <!-- <nav class="navbar navbar-expand navbar-light" style="background-color: #e3f2fd;">
@@ -33,13 +44,13 @@
             <router-view></router-view>
         </div> -->
           
-        <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
+        <!-- <img :class="gender" v-bind:src="picture" :alt="`${firstName} ${lastName}`">
         <h3>Email: {{email}}</h3>
         <h2> PP</h2>
         <button v-on:click="getUser()" :class="gender">
             Get Random User</button>
 
-        <button @click="test()" > Test       </button>            
+        <button @click="test()" > Test       </button>             -->
     </div>
     
     <!-- <script src="https://unpkg.com/vue@3.0.5"></script> -->

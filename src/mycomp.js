@@ -4,12 +4,12 @@ export default {
     template: 
     `
     <div>
-    This is the component with name {{title}} {{componentName}} 
+    {{componentName}} with para is {{title}} 
     </div>
     `,
     data() {
         return {
-            componentName: 'MyComponent',
+            componentName: 'TestComponent',
         }
     },
     components: {

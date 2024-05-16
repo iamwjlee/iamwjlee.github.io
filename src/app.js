@@ -4,11 +4,12 @@
 // 아래 내용들은 다른 파일로부터 가져올 수 있습니다
 const Home = { template: `<div><h1>Home  </h1><p>This is home page</p></div>`}
 
+
 // define routes
 const routes = [
-    { path: '/', component: Home },
+    { path: '/', component: Home2 },
     { path: '/about', component: About },
-    { path: '/contact', component: Contact },
+    { path: '/contact', component: Contact2 },
 ]
 // router instance and pass the `routes` option
 const router = VueRouter.createRouter({
@@ -16,6 +17,8 @@ const router = VueRouter.createRouter({
     routes, // short for `routes: routes`
 })
     
+import Contact2 from './about.js'
+import Home2 from './home.js'
 
 
 import Mycomp from './mycomp.js'
