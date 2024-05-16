@@ -76,15 +76,7 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 
 ---
 
-참조링크테스트정상 [참조링크]
 
-[참조링크]: http://otp.ktc.re.kr/
-
-[KTC 링크 바로가기 테스트 정상](http://otp.ktc.re.kr/)
-
-구글 홈페이지 클릭테스트 정상: <https://google.com>
-
-구글 홈페이지 클릭테스트 정상<https://google.com>
 
 
 <!-- * 구글 홈페이지: https://google.com -->
@@ -120,7 +112,8 @@ AryaStark/NFC_driver : Nice NFC Payment usb s/w driver
 2024.01.26.  - 업데이트  video player 교체(택배.avi만 플레이함) 
 2024.03.14.  - 업데이트  모바일간편결제용 이미지 추가,결제화면(자영) 변경 
 2024.03.18.  - 업데이트  모바일간편결제 이미지글자 변경(자영,직영),이미지변경,릴리즈변경 
-2024.05.07.  - 업데이트   충전화면 머핀로고변경,토스추가예정 
+2024.05.07.  - 업데이트  충전화면 머핀로고변경,토스추가예정 
+2024.05-16.  - 업데이트  토스,앱결제 로고추가및 자영복합결제 할부셋팅추가
 
 ```
 
