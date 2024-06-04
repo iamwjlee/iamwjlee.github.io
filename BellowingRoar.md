@@ -60,6 +60,7 @@ Upper Blackrock Spirs(UBRS);검은바위첨탑
 
 ### 사냥꾼 펫
 ```
+    https://m.inven.co.kr/board/wow/5518/443?my=post
     공속이 1.2인 희귀등급 살쾡이
     부송(황야의땅) 출몰지역 근처 은신 하고 있는 살괭이류 
     긴울음 안개늑대 공속1.3
