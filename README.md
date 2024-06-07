@@ -2,7 +2,7 @@
 <!-- [![1](./res/생생한악몽.png)](http://www.j-pos.co.kr/) -->
 
 <!-- 정신사슬 | 생생한악몽 | 깊은잠 | 섬찟한울음소리 | 우레와같은울부짖음  -->
-## [SpiritChains](./SpiritChains.md) | [WakingNightmare](./WakingNightmare.md) | [DeepSlumber](./DeepSlumber.md) | [FrightsomeHowl](./FrightsomeHowl.md) | [BellowingRoar](./BellowingRoar.md)
+## [SpiritChains](./SpiritChains.md) | [WakingNightmare](./WakingNightmare.md) | [DeepSlumber](./DeepSlumber.md) | [FrightsomeHowl](./FrightsomeHowl.md) | [BellowingRoar](./BellowingRoar.md) | [Hawezar](./Hawezar.md)
 
 <br/>
 <br/>

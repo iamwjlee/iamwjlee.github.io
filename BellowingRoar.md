@@ -4,7 +4,6 @@
 ![우레와같은울부짖음](./res/우레와같은울부짖음.png)
 
 ![FireBall](./res/D4/화염구.png)
-![FireBall](./res/화염구.png)
 
 <br/>
 
