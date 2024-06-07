@@ -10,6 +10,9 @@
 
 ## 참조링크테스트
 
+D4 아이콘참조: <https://diablo4.life/builds/planner/6660766bd6913ac48dd58b11>
+
+
 참조링크테스트정상 [참조링크]
 
 [참조링크]: http://otp.ktc.re.kr/
