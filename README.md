@@ -21,7 +21,9 @@
 <br/>
 <!-- 아래사용시 다운로드시 사이트에서 사용할수 없는 파일로 에러나옴 -->
 <!-- <a href="mainU.rpm" download>Click to Download</a> -->
-   
+
+[SoD workspace](http://106.245.87.140:1604/)
+
 [Toss Core workspace](https://tossteam.slack.com/)
 <br/>
 

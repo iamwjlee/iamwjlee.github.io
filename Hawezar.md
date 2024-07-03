@@ -11,6 +11,19 @@
 ![번개창](./res/D4/LightningSpear.png)
 ![화염탄](./res/D4/FireBolt.png)
 
+
+### [그라핀 원소술사 인벤](https://www.inven.co.kr/board/diablo4/6033/26444)
+```
+머리 샤코
+갑옷 충격타의 위상
+장갑 가속하는 위상(기술이 극대화로 적중하면 공속) 
+바지 요행의 보조위상(보호막있을때 행운의적중확률)
+반지 주는 피해 10%증가 서있으면 3배
+마법봉 얼음궤도
+  
+중심점 자만하는 공격위상(보호막 피해증가)
+
+```
 ### [우버 두리엘,안다리엘 소환법 PoEasy](https://www.youtube.com/watch?v=ctDVJntKOJo) 
 ### [디아블로4 보스위치및 고행 200레벨소환 재료 플레잇](https://blog.naver.com/winsweet/223458332207) 
 
