@@ -69,7 +69,34 @@
 
 
 ```
+## JPOS5000
+```
+1. Board Information
+    유량계 메인보드: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
+    인터페이스 보드: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
+    터치 마더보드: Intel Bay trail Soc Chipset INX-N29 Motherboard
 
+2. 메인보드 부트로더및 메인코드
+    <b>Boot download:</b> using atmel sam-ice with Sam70BootJPos_main, Sam70BootJPos_buffer 
+    실행파일:Sam70Boot.bin,Sam70Boot_main.bin
+    위치:A.PROJECTS\jpos5000\Sam70BootJPosV1.3_485_ID1_Main\Sam70Boot\Debug
+    App download: using SAmUploaderV40.exe in the Kiosk
+    실행파일:flowmeter-ads1118.bin
+    위치:A.PROJECTS\J.jpos5000.main.ads1118\flowmeter\Release
+3. Interface B'd boot & App(kiosk와 동일)
+    <li> <b>Boot download:</b> using atmel sam-ice with Sam70BootJPos_buffer </li>
+    <li>실행파일:Sam70Boot.bin,Sam79BootJos_bufer.bin <b>??확인요망??</b></li>
+    <li>위치:A.PROJECTS\jpos5000\Sam70BootJPosV1.3_Com3_ID2_Buffer\Sam70Boot\Debug</li>
+
+    <li> <b>App download:</b> using SAmUploaderV40.exe in the Kiosk</li>    
+    <li>실행파일:J5000Buffer.bin,J5000Buffer-PR.bin</li>
+    <li>위치:A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug</li>
+4. Touch B'd App
+    <li> J.odt: latest </li>
+    <li>main.exe is updated with mainU.exe</li>
+
+
+```
 
 <!-- ### Input form in markdown -->
 
