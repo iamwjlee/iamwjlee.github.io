@@ -106,6 +106,18 @@
     main.exe is updated if mainU.exe is exist 
 
 ```
+## Arya How to Compile and Execute
+
+```
+on the Command Prompt
+D:\wj\Gnomeregan\J.odt>setenv
+D:\wj\Gnomeregan\J.odt>make clean_all
+D:\wj\Gnomeregan\J.odt>make 
+실행파일은 D:\wj\Gnomeregan\J.odt\release\mainU.exe
+
+```
+
+
 
 <!-- ### Input form in markdown -->
 
@@ -115,4 +127,5 @@
 
 
 <script>
+    
 </script>
