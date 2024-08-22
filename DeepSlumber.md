@@ -6,31 +6,46 @@
 
 ## JPOS3000
 ```
+0. Configuration
+    디스펜서
+    -메인보드
+    -통신보드(External Interface Board)
+        (mainA[rxA.txA,txEnablA]+mainB[rxB,txB,txEnablB]) -> rs485/422 Transceivers x2 ->rs422A,rs422B,rs485(x) 
+    -쪽보드(485/232컨버터) 
+    -232/USB 컨버터 
+    -사무실PC
 1. Board Information
     Main B'd : S3C44B0X(160-QFP)
     Daughter B'd(for KTC uSD) : AT91 ARM Thumb-based Microcontrollers AT91SAM7X256 100-lead LQFP  
     422/485 B'd
 
 2. Main B'd boot & app download    
-    bootdownload - using hw test room or factory using jtag?
+    bootdownload - using hw jtag in the test lab or factory 
     application download -using dnw.exe + dispenser's setup menu(9+0000)    
 
 3. Released Firmware(밴사 통합된 버전)    
     메인 소스: D:\wj\A.PROJECTS\J.jpos3001
     부트 소스: 소스=?? download by hw PC
-    컴파일러: ARM ADS1.2 installed at C:\Program Files\ARM\ADSv1_2 
+    컴파일러: CodeWarrior ARM ADS1.2 installed at C:\Program Files\ARM\ADSv1_2 
+             CodeWarrior project filename is JPOS3000.mcp
     컴파일러 위치:  \\Jposnas\hw\_wjlee\ARM ADS(ARM Developer Suite) 1.2
-    다운로드 by dnw.exe
-    현재릴리즈 버전 + 모바일단말기(FM) 대응
+    펌웨어 다운로드 by serial communication application dnw.exe in external PC 
+    현재릴리즈 버전은 모바일단말기(FM) 대응
 
 4. Old Firmware(밴사별 IC-CARD 릴리즈 버전)    
     입사전 오리지널 펌웨어 소스: D:\wj\JPOS3000\이전버전  
     입사후 약간 수정된 펌웨어 소스: D:\wj\A.PROJECTS\J.jpos3000.ic.version 
 
 5. jpos3000-KTC인증받은 uSD카드 업보드
-    메인 소스: JPOS3000\uSD_Ver39_Rtc_인증버젼
+    메인 소스 : JPOS3000\uSD_Ver39_Rtc_인증버젼
+        - 부트로더 ? 
+        - refer to \\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50 
+        - 시리얼통신 다운로드툴 ? 
+        - 컴파일및 기타 정보없슴 AT91SAM7X256.h,AT91SAM7X256.inc
     생산용실행파일: ? how to download ? 지금은 오리지널 JPOS3000 충전기를 생산하지 않는다.
     컴파일러및 마이컴( 미관리 대상, 이용민 이사님/장차장 문의해 봐야)
+    [확인]\\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50\BootBodyF2F
+    AT91SAM7X256.h,AT91SAM7X256.inc 
 
 ```
 ## JPOS3000-Kiosk
