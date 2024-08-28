@@ -6,22 +6,35 @@
 
 ## JPOS3000
 ```
-0. Configuration
-    디스펜서
+A. 디스펜서 하드웨어 구성
     -메인보드
-    -통신보드(External Interface Board)
+    -통신보드(External Interface Board) : 
         (mainA[rxA.txA,txEnablA]+mainB[rxB,txB,txEnablB]) -> rs485/422 Transceivers x2 ->rs422A,rs422B,rs485(x) 
     -쪽보드(485/232컨버터) 
     -232/USB 컨버터 
     -사무실PC
-1. Board Information
-    Main B'd : S3C44B0X(160-QFP)
-    Daughter B'd(for KTC uSD) : AT91 ARM Thumb-based Microcontrollers AT91SAM7X256 100-lead LQFP  
-    422/485 B'd
+B. 디스펜서와 장위포스프로그램 연결
+    테스트장위포스프로그램위치 D:\wj\vm-win7shared\ZJPOSCOMM_SD_V1.0
+        포스설정프로그램의 콤포트와 보레이트(19200)확인,JPOS3000의 보레이트확인 
 
-2. Main B'd boot & app download    
-    bootdownload - using hw jtag in the test lab or factory 
-    application download -using dnw.exe + dispenser's setup menu(9+0000)    
+1. 하드웨어 정보
+    -메인 보드 : S3C44B0X(160-QFP)
+    -업 보드(for KTC uSD) : AT91 ARM Thumb-based Microcontrollers AT91SAM7X256 100-lead LQFP  
+    -통신인터페이스보드: 422/485 B'd
+
+    
+
+2. 메인보드 부트및 메인프로그램 다운로드    
+    부트프로그램 다운로드 - using hw jtag in the test lab or factory 
+    메인프로그램 다운로드 - 
+        DNW v0.51A 윈도프로그램(dnw.exe)를 실행하고 
+        1. Configuration -> 컴포트설정,속도는 115200
+        2. Serial Port-> Connect 
+        3. 디스펜서의 키패드에서 "설정+5+0000"을 눌러 프로그램 다운로드모드로 진입한다.
+        4. dnw의 화면에 1.Flash Write 2.Running 3. Reset 메뉴가 보인다
+        5. 1(Flash Write) 을 입력하고,Serial Port-> Transmit를 선택후 파일창에서 JPOS3OOO.bin파일을 선택하여 다운로드를 진행한다
+        6. 진행이 끝나면 2(Running)를 입력하면 완료!
+
 
 3. Released Firmware(밴사 통합된 버전)    
     메인 소스: D:\wj\A.PROJECTS\J.jpos3001
