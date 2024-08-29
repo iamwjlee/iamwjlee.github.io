@@ -30,11 +30,22 @@
     Output:
         IspA(6pin) for MainA download
         IspB(6pin) for MainB download
-        RS422A for Daisy Chain
-        RS422B for Daisy Chain
+        RS422A for Round Robin Polling 
+        RS422B for Round Robin Polling 
         RS485 -NA
+
+    *422통신(마스터/슬레이브 모드,1:N 모드,멀티드롭,다중분기방식)
+    마스터는 사무실통신프로그램이고 
+    마스터는 항시 tx,rx가 인에블되어있다.
+    슬레이브의 수신은 항시온되어 있고  
+    슬레이브는 송신은 전송후 디스에이블 되어야
+      
 
 ## JPOS3000 485/232 쪽보드 for PC
 ![422쪽보드](./res/422To232.png)
+
+    uSD카드에 ktc 인증서를 넣는방법
+    refer to D:\wj\ktc test\uSD 정보 업데이트 소프트웨어 활용 가이드.pptx
+    uSD카드에 기타 필요 정보를 넣는 방법
 
 
