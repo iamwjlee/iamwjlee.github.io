@@ -18,6 +18,8 @@
 
 ## JPOS3000 업보드
 ![업보드](./res/upboard.png)
+    serial monitering(5pin): 115200baud, activated by press 'P' and then 'U' in TeraTerm
+
 
 ## JPOS3000 485/422 통신보드
 ![422통신보드](./res/ext-interface.png)
@@ -28,10 +30,11 @@
     Output:
         IspA(6pin) for MainA download
         IspB(6pin) for MainB download
-        RS422A
-        RS422B
-        RS485
+        RS422A for Daisy Chain
+        RS422B for Daisy Chain
+        RS485 -NA
 
 ## JPOS3000 485/232 쪽보드 for PC
-![422쪽보드](./res/485To232.png)
+![422쪽보드](./res/422To232.png)
+
 
