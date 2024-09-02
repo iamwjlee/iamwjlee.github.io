@@ -40,7 +40,13 @@
     마스터는 항시 tx,rx가 인에블되어있다.
     슬레이브의 수신은 항시온되어 있고  
     슬레이브는 송신은 전송후 디스에이블 되어야
-      
+
+## JPOS3000 ext-interface 통신보드
+![422통신보드](./res/ext-int.png)
+
+    How to re-entering BootLoader Menu in dnw.exe
+    4번핀(리셋) 5번핀(부트) 6번핀(그라운드)
+    6핀커넥터의 5,6번 쇼트된상태에서 6번핀을 4번핀에 쇼트시키고 분리하면 DNW의 부트로더메뉴(Flash Write)로 재진입된다
 
 ## JPOS3000 485/232 쪽보드 for PC
 ![422쪽보드](./res/485To232.png)
