@@ -21,6 +21,13 @@
 
     serial monitering(5pin): 115200baud, activated by press 'P' and then 'U' in Tera
 
+    KTC OTP 전자봉인관련 개발문서:
+        D:\wj\A.PROJECTS\KTC OTP
+  
+
+    KTC로 부터 인증후 받은 인증서를 uSD카드에 갱신해서 사용해야 한다. 여기에 인증시받은 소스코드의 해시가
+    들어 있고 무결성과 관련된다        
+
 
 ## JPOS3000 485/422 통신보드
 ![422통신보드](./res/ext-interface.png)
@@ -42,7 +49,7 @@
     슬레이브는 송신은 전송후 디스에이블 되어야
 
 ## JPOS3000 ext-interface 통신보드
-![422통신보드](./res/ext-int.png)
+![422통신보드](./res/ext-int.jpg)
 
     How to re-entering BootLoader Menu in dnw.exe
     4번핀(리셋) 5번핀(부트) 6번핀(그라운드)
@@ -51,13 +58,7 @@
 ## JPOS3000 485/232 쪽보드 for PC
 ![422쪽보드](./res/485To232.png)
 
-    KTC OTP 전자봉인관련 개발문서:
-        D:\wj\A.PROJECTS\KTC OTP
-  
-
-    KTC로 부터 인증후 받은 인증서를 uSD카드에 갱신해서 사용해야 한다. 여기에 인증시받은 소스코드의 해시가
-    들어 있고 무결성과 관련된다        
-
+    422 마스터용
 
 
 
