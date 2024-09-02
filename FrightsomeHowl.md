@@ -18,7 +18,8 @@
 
 ## JPOS3000 업보드
 ![업보드](./res/upboard.png)
-    serial monitering(5pin): 115200baud, activated by press 'P' and then 'U' in TeraTerm
+
+    serial monitering(5pin): 115200baud, activated by press 'P' and then 'U' in Tera
 
 
 ## JPOS3000 485/422 통신보드
@@ -42,10 +43,15 @@
       
 
 ## JPOS3000 485/232 쪽보드 for PC
-![422쪽보드](./res/422To232.png)
+![422쪽보드](./res/485To232.png)
 
-    uSD카드에 ktc 인증서를 넣는방법
-    refer to D:\wj\ktc test\uSD 정보 업데이트 소프트웨어 활용 가이드.pptx
-    uSD카드에 기타 필요 정보를 넣는 방법
+    KTC OTP 전자봉인관련 개발문서:
+        D:\wj\A.PROJECTS\KTC OTP
+  
+
+    KTC로 부터 인증후 받은 인증서를 uSD카드에 갱신해서 사용해야 한다. 여기에 인증시받은 소스코드의 해시가
+    들어 있고 무결성과 관련된다        
+
+
 
 
