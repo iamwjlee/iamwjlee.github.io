@@ -10,7 +10,8 @@
 
   [도려내기 바바](https://www.inven.co.kr/board/diablo4/6029/47096)
 
-  [크리티컬딜러](https://www.youtube.com/watch?v=tfp9E8xOmbs)
+  [도려내기 야만 크리티컬딜러](https://www.youtube.com/watch?v=tfp9E8xOmbs)
+  
     철갑피부 무제한
     도려내기 맥스
 
