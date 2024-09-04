@@ -117,8 +117,8 @@ B. 디스펜서와 장위포스프로그램 연결
 ```
 ## JPOS5000
 
-[메인](./res/jpos5000main.png)
-[버퍼](./res/jpos5000int.png)
+[메인보드](./res/jpos5000main.jpg)
+[인터페이스보드](./res/jpos5000int.jpg)
 
 ```
 1. 보드 정보
