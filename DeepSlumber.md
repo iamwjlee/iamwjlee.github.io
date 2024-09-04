@@ -119,6 +119,7 @@ B. 디스펜서와 장위포스프로그램 연결
 
 ![메인](./res/jpos5000main.png)
 ![버퍼](./res/jpos5000int.png)
+
 ```
 1. 보드 정보
     유량계 메인보드: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
