@@ -49,7 +49,7 @@
     슬레이브는 송신은 전송후 디스에이블 되어야
 
 ## JPOS3000 ext-interface 통신보드
-![422통신보드](./res/ext-int.jpg)
+![422통신보드](./res/ext-int.png)
 
     How to re-entering BootLoader Menu in dnw.exe
     4번핀(리셋) 5번핀(부트) 6번핀(그라운드)
