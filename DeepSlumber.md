@@ -5,28 +5,6 @@
 
 
 ## JPOS3000
-```
-How to debug/maintenance regacy jpos3000 firmware 
-A. 하드웨어 구성에 대한 이해
-    -메인보드+업보드(uSD카드)
-    -통신보드(External Interface Board) : 
-        (mainA[rxA.txA,txEnablA]+mainB[rxB,txB,txEnablB]) -> rs485/422 Transceivers x2 ->rs422A,rs422B,rs485(x) 
-
-    -쪽보드(485/232컨버터 폴링방식의 마스터용),232/USB 컨버터,개발용 PC
-
-B. 펌웨어 유지보수
-    위와 같이 하드웨어 구성이 되었으면  
-        1. 개발용 PC에서 dnw.exe을 실행해 연결한다
-            - 디스펜서의 통신보드상에 해당메인보드의 ISP_A또는B 포트에 시리얼케이블을 연결한다(펌웨어업데이트용)
-                현재 PC에서는 COM3,1152OO 셋팅, 디스펜서에서 설정+5+0000 눌러 Flash Write 메뉴가 나오면 정상 
-        2. 가상머신에서 장위포스시리얼통신버전(ZJPOSCOMM_SD_V1.0)를 열고 디스펜서와 포스와의 시리얼통신을 확인한다.
-            - 포스설정프로그램의 콤포트와 보레이트(19200)확인,JPOS3000의 보레이트확인 
-            - 또는 윈도11에서 D:\wj\vm-win7shared\ZJPOSCOMM_SD_V1.0 직접실행해도
-        3. 디스펜서의 펌웨어 로그내용을 보려면 업보드에 232통신라인을 연결후 테라텀으로 확인한다
-            - 디버깅 로그모드진입을 하려면  'P'->'U' 을 눌러준다.
-        4. 펌웨어소스는 CodeWarrior 프로젝트파일(jpos3000.mcp)을 열어 컴파일을 한다.            
-
-```
 
 ```
 
@@ -34,8 +12,7 @@ B. 펌웨어 유지보수
     -메인 보드 : S3C44B0X(160-QFP)
     -업 보드(for KTC uSD) : AT91 ARM Thumb-based Microcontrollers AT91SAM7X256 100-lead LQFP  
     -통신인터페이스보드: 422/485 B'd
-
-    
+    -pc용 쪽보드(422/485 to 232)
 
 2. 메인보드 부트및 메인프로그램 다운로드    
     부트프로그램 다운로드 - using hw jtag in the test lab or factory 
@@ -74,12 +51,38 @@ B. 펌웨어 유지보수
     AT91SAM7X256.h,AT91SAM7X256.inc 
 
 ```
+```
+How to debug/maintenance regacy jpos3000 firmware 
+A. 하드웨어 구성에 대한 이해
+    -메인보드+업보드(uSD카드)
+    -통신보드(External Interface Board) : 
+        (mainA[rxA.txA,txEnablA]+mainB[rxB,txB,txEnablB]) -> rs485/422 Transceivers x2 ->rs422A,rs422B,rs485(x) 
+
+    -쪽보드(485/232컨버터 폴링방식의 마스터용),232/USB 컨버터,개발용 PC
+
+B. 펌웨어 유지보수
+    위와 같이 하드웨어 구성이 되었으면  
+        1. 개발용 PC에서 dnw.exe을 실행해 연결한다
+            - 디스펜서의 통신보드상에 해당메인보드의 ISP_A또는B 포트에 시리얼케이블을 연결한다(펌웨어업데이트용)
+                현재 PC에서는 COM3,1152OO 셋팅, 디스펜서에서 설정+5+0000 눌러 Flash Write 메뉴가 나오면 정상 
+        2. 가상머신에서 장위포스시리얼통신버전(ZJPOSCOMM_SD_V1.0)를 열고 디스펜서와 포스와의 시리얼통신을 확인한다.
+            - 포스설정프로그램의 콤포트와 보레이트(19200)확인,JPOS3000의 보레이트확인 
+            - 또는 윈도11에서 D:\wj\vm-win7shared\ZJPOSCOMM_SD_V1.0 직접실행해도
+        3. 디스펜서의 펌웨어 로그내용을 보려면 업보드에 232통신라인을 연결후 테라텀으로 확인한다
+            - 디버깅 로그모드진입을 하려면  'P'->'U' 을 눌러준다.
+        4. 펌웨어소스는 CodeWarrior 프로젝트파일(jpos3000.mcp)을 열어 컴파일을 한다.            
+
+```
+
 ## JPOS3000-Kiosk
 ```
 1. board information
     기존에 디스펜서에 사용중인 Main B'd: S3C44B0X(160-QFP)
-    기존에 디스펜서에 적용중인 Daughter B'd(for KTC uSD): AT91 ARM Thumb-based Microcontrollers AT91SAM7X256 100-lead LQFP
+    기존에 디스펜서에 적용중인 업보드(for KTC uSD): AT91 ARM Thumb-based Microcontrollers AT91SAM7X256 100-lead LQFP
+    기존에 디스펜서에 사용중인 통신보드(422/485보드)
+
     키오스크에서 추가된 Interface B'd: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
+        - 프린터와카드리더기,QR리더기가 연결되어 있고 디스펜서와 485통신을 한다
     키오스크에서 추가된 Touch B'd: Intel Bay trail Soc Chipset INX-N29 Motherboard
 
 2. 키오스크 인터페이스(버퍼)보드 부트로더및 펌웨어
