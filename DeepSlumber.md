@@ -59,7 +59,7 @@ B. 디스펜서와 장위포스프로그램 연결
         - 부트로더 ? 
         - refer to \\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50 
         - 시리얼통신 다운로드툴 ? 
-        - 컴파일및 기타 정보없슴 AT91SAM7X256.h,AT91SAM7X256.inc
+        - 컴파일및 기타 정보 미확인 AT91SAM7X256.h,AT91SAM7X256.inc
     생산용실행파일: ? how to download ? 지금은 오리지널 JPOS3000 충전기를 생산하지 않는다.
     컴파일러및 마이컴( 미관리 대상, 이용민 이사님/장차장 문의해 봐야)
     [확인]\\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50\BootBodyF2F
@@ -74,31 +74,37 @@ B. 디스펜서와 장위포스프로그램 연결
     키오스크에서 추가된 Interface B'd: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
     키오스크에서 추가된 Touch B'd: Intel Bay trail Soc Chipset INX-N29 Motherboard
 
-2. 키오스크 인터페이스(버퍼)보드 boot & app
-    1-1. Boot download: using atmel sam-ice with Sam70BootJPos_buffer
-        실행파일:Sam70Boot.bin,Sam79BootJos_bufer.bin 미확인
-        위치:D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_Com3_ID2_Buffer\Sam70Boot\Debug
-    1-2. Application download:using SAmUploaderV40.exe in the Kiosk          
+2. 키오스크 인터페이스(버퍼)보드 부트로더및 펌웨어
+    1-1. 부트 다운로드: using atmel sam-ice with Sam70BootJPos_buffer
+        실행방법:
+           PC에서 Atmel SAM-ICE와 Atmel Studio 7.0 이용하여 다운로드
+        실행파일: Sam70Boot.bin 혹은 Sam79BootJos_bufer.bin 미확인
+        소스위치:D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_Com3_ID2_Buffer\Sam70Boot\Debug
+    1-2. 펌웨어 다운로드:using SAmUploaderV40.exe in the Kiosk          
+        실행방법:
+            키오스크에서 c:\AryaStark\MainBdupdate\SAmUploaderV40.exe 실행
         실행파일:J5000Buffer.bin(사용중),J5000Buffer-PR.bin(버퍼늘린버전,미적용)
-        위치:D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
+        소스위치:D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
 
-3. 키오스크 충전기보드 boot & app
+3. 키오스크 충전기보드 부트및 펌웨어
     1-0. 
         충전기메인보드에 별도의 부트를 먼저다운로드 하는 이유는 키오스크에서 SamUploaderV40.exe를 이용해
         펌웨어를 다운로드 하기 위함. 
-        부트없이 기존처럼 그냥 펌웨어를 다운로드해서 사용해도 무관
+        부트없이 기존처럼 그냥 펌웨어를 통신보드를 통해 다운로드해서 사용해도 무관.
     1-1. Boot download: BootLoader.bin downloading by dnw.exe(press 1 and then 2) 
-        실행 방법:
-            통신보드에 시리얼연결 노트북으로
+        실행방법:
+            노트북에서 통신보드로 시리얼연결후 dnw.exe사용 
         실행파일:
             BootLoader.bin 
-        파일위치: 
+        소스위치: 
             D:\wj\A.PROJECTS\jpos3000-Kiosk\S3C44B0X_Boot_Ver15_MPr10004_80004\Boot_Job\JPos3000_BootF_Data\Release 
     1-2. Application download: using SAmUploaderV40.exe in the Kiosk
+        실행방법:
+            키오스크에서 c:\AryaStark\MainBdupdate\SAmUploaderV40.exe
         실행파일:
             JPOS3000_210808_SD.bin : SD카드사용하는 버전
             JPOS3000_210808_NoSD.bin : SD카드사용안하는 버전
-        파일위치: 
+        소스위치: 
             D:\wj\A.PROJECTS\J.jpos3000.kiosk.main\JPOS3000_Data\Release
 
 4. 키오스크 터치보드      
@@ -106,10 +112,9 @@ B. 디스펜서와 장위포스프로그램 연결
     운영체제: Windows 10 Enterprise LTSC   
     컴파일러: gcc-6.3.0 + SDL2-2.0.7/i686-w64-mingw32
     jpos3000키오스크와 jpos5000일체형 터치보드 소프트웨어(공용)
-    실행파일:
-        main.exe
-    파일위치:
-        D:\wj\Gnomeregan\J.odt\release   
+
+    실행파일위치:
+        D:\wj\Gnomeregan\J.odt\release\main.exe   
 
 5. jpos3000-KTC인증
     uSD카드사용하기위한 업보드는 기존과 동일
