@@ -117,6 +117,7 @@ B. 펌웨어 유지보수
             JPOS3000_210808_NoSD.bin : SD카드사용안하는 버전
         소스위치: 
             D:\wj\A.PROJECTS\J.jpos3000.kiosk.main\JPOS3000_Data\Release
+            기존의 3000펌웨어에서 키오스크3000펌웨어는 시리얼통신처리부분이 완전히 바뀌었다
 
 4. 키오스크 터치보드      
     Touch B'd: Intel Bay trail Soc Chipset INX-N29 Motherboard
