@@ -2,11 +2,14 @@
 
 ![디아4](../res/D4/디아4.png)
 
+
+### Diablo 4 Druid - Season 5
+  자격산사태 빌드 - 자연의 격노 산사태 ,번개폭풍산사태와 동일 
+  [자격산사태] (https://www.inven.co.kr/board/diablo4/6030/30342)
+
 ### Diablo 4 Barbarian - Season 5
 
-
-
-  
+ 
 
   [도려내기 바바](https://www.inven.co.kr/board/diablo4/6029/47096)
 
