@@ -8,8 +8,24 @@
   [자격산사태] (https://www.inven.co.kr/board/diablo4/6030/30342)
 
 ### Diablo 4 Barbarian - Season 5
+  
+  [출혈은 기본,메인스킬(소돌,도려,후려)은 선택](https://www.inven.co.kr/webzine/news/?news=297419&site=diablo4)
 
- 
+  방어구 3개에서 모저 2부분,방어도1부위를 확보해야
+  고단등반시 향으로 최대저항를 맞출수도
+  바지,장화는 스킬(후려치기)레벨 ! + 모저어픽이면 저세상가격...
+  바지의 후려치기 어픽템 확보및 명품화 저격 1순위
+
+  장갑+액세서리
+  극확어픽 1순위
+  장갑은 고통참식자 (고유옵 200%필수)
+
+  취약, 저주받은손길위상항시채용해서 상시취약유지
+  무기는 생명력대신 공격력
+
+
+  [쌍수 출혈후려](https://www.inven.co.kr/board/diablo4/6029/45282)
+
 
   [도려내기 바바](https://www.inven.co.kr/board/diablo4/6029/47096)
 

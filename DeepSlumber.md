@@ -40,6 +40,7 @@
     입사후 약간 수정된 펌웨어 소스: D:\wj\A.PROJECTS\J.jpos3000.ic.version 
 
 5. jpos3000-KTC인증받은 uSD카드 업보드
+    KTC인증관련 작업 디렉토리: D:\wj\JPOS3000 (이용민이사님)
     메인 소스 : JPOS3000\uSD_Ver39_Rtc_인증버젼
         - 부트로더 ? 
         - refer to \\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50 
@@ -49,6 +50,9 @@
     컴파일러및 마이컴( 미관리 대상, 이용민 이사님/장차장 문의해 봐야)
     [확인]\\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50\BootBodyF2F
     AT91SAM7X256.h,AT91SAM7X256.inc 
+
+
+
 
 ```
 ```
@@ -164,6 +168,9 @@ B. 펌웨어 유지보수
     위치: D:\wj\Gnomeregan\J.odt
     메인코드 다운로드: 
         컴파일된  mainU.exe를 키오스크의 \\odt01\AryaStark\odt\release 로 카피
+
+5. KTC인증 관련자료
+    위치: D:\wj\vm-win7shared\KTC_JPOS5000소프트인증완료프로그램       
 
 ```
 ## Arya How to Compile and Execute
