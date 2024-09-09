@@ -3,6 +3,10 @@
 ![디아4](../res/D4/디아4.png)
 
 ### Diablo 4 Necromancer
+
+  [강령 입문가이드 절단 강령은 어케싸우나요](https://gall.dcinside.com/mgallery/board/view/?id=diablo4&no=142458)
+  [강령술사 이중 속성 궁극기 고찰](https://roomerkim.tistory.com/109)
+
   [시즌4 미친 성능의 1티어 빌드! 암흑 마법학자](https://www.youtube.com/watch?v=5RCxZLn11sw)
     해골되살리기 시전효과  - 피바람과 무광효과
     정복자보드 묘지기,망자사육사,마법학자,통제,심연,증폭,정수
