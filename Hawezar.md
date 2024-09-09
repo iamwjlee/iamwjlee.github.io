@@ -2,6 +2,10 @@
 
 ![디아4](../res/D4/디아4.png)
 
+### Diablo 4 Necromancer
+  [시즌4 미친 성능의 1티어 빌드! 암흑 마법학자] (https://www.youtube.com/watch?v=5RCxZLn11sw)
+    해골되살리기 시전효과  - 피바람과 무광효과
+    정복자보드 묘지기,망자사육사,마법학자,통제,심연,증폭,정수
 
 ### Diablo 4 Druid - Season 5
   자격산사태 빌드 - 자연의 격노 산사태 ,번개폭풍산사태와 동일 
