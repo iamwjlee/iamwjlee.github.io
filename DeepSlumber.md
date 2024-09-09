@@ -52,8 +52,6 @@
     AT91SAM7X256.h,AT91SAM7X256.inc 
 
 
-
-
 ```
 ```
 How to debug/maintenance regacy jpos3000 firmware 
@@ -74,8 +72,13 @@ B. 펌웨어 유지보수
             - 또는 윈도11에서 D:\wj\vm-win7shared\ZJPOSCOMM_SD_V1.0 직접실행해도
         3. 디스펜서의 펌웨어 로그내용을 보려면 업보드에 232통신라인을 연결후 테라텀으로 확인한다
             - 디버깅 로그모드진입을 하려면  'P'->'U' 을 눌러준다.
-        4. 펌웨어소스는 CodeWarrior 프로젝트파일(jpos3000.mcp)을 열어 컴파일을 한다.            
+        4. 펌웨어소스는 CodeWarrior 프로젝트파일(jpos3000.mcp)을 열어 컴파일을 한다.    
 
+    현재 PC에서 시리얼 설정상황
+        DNW  - COM3
+        로그 모니터링 - COM4
+        VMware - Serial Port2 - using COM6
+            Z:\vm-win7shared\ZJPOSCOMM_SD_V1.0\설정프로그램 COM2,19200
 ```
 
 ## JPOS3000-Kiosk
