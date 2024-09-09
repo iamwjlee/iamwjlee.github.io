@@ -16,7 +16,7 @@
 
 2. 메인보드 부트및 메인프로그램 다운로드    
     부트프로그램 다운로드 - using hw jtag in the test lab or factory 
-    메인프로그램 다운로드 - 
+    메인펌웨어 프로그램 다운로드 - 
         DNW v0.51A 윈도프로그램(dnw.exe)를 실행하고 
         1. Configuration -> 컴포트설정,속도는 115200
         2. Serial Port-> Connect 
@@ -102,18 +102,18 @@ B. 펌웨어 유지보수
         소스위치:D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
 
 3. 키오스크 충전기보드 부트및 펌웨어
-    1-0. 
+    A0. 
         충전기메인보드에 별도의 부트를 먼저다운로드 하는 이유는 키오스크에서 SamUploaderV40.exe를 이용해
         펌웨어를 다운로드 하기 위함. 
         부트없이 기존처럼 그냥 펌웨어를 통신보드를 통해 다운로드해서 사용해도 무관.
-    1-1. Boot download: BootLoader.bin downloading by dnw.exe(press 1 and then 2) 
+    A1. Boot download: BootLoader.bin downloading by dnw.exe(press 1 and then 2) 
         실행방법:
             노트북에서 통신보드로 시리얼연결후 dnw.exe사용 
         실행파일:
             BootLoader.bin 
         소스위치: 
             D:\wj\A.PROJECTS\jpos3000-Kiosk\S3C44B0X_Boot_Ver15_MPr10004_80004\Boot_Job\JPos3000_BootF_Data\Release 
-    1-2. Application download: using SAmUploaderV40.exe in the Kiosk
+    A2. Application download: using SAmUploaderV40.exe in the Kiosk
         실행방법:
             키오스크에서 c:\AryaStark\MainBdupdate\SAmUploaderV40.exe
         실행파일:
@@ -122,6 +122,13 @@ B. 펌웨어 유지보수
         소스위치: 
             D:\wj\A.PROJECTS\J.jpos3000.kiosk.main\JPOS3000_Data\Release
             기존의 3000펌웨어에서 키오스크3000펌웨어는 시리얼통신처리부분이 완전히 바뀌었다
+
+    B1. 부트없이 이전방법으로 펌웨어 다운로드
+        JPOS3000과동일 하게 dnw.exe로 통신보드에 시리얼 연결하여 아래 펌웨어중 한개를 다운로드한다
+            JPOS3000_210808_SD.bin : SD카드사용하는 버전
+            JPOS3000_210808_NoSD.bin : SD카드사용안하는 버전
+        셋팅변경
+            셋업+2에서 디스펜서모드 V10->장위통신모드로 변경한다.
 
 4. 키오스크 터치보드      
     Touch B'd: Intel Bay trail Soc Chipset INX-N29 Motherboard
