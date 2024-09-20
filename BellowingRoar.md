@@ -10,12 +10,18 @@
 ## The War Within Season 1 begins on September 10th,2024
 
 ### 용의포효
+![격노](./res/Wow/격노.jpg)
+![칼날폭풍](./res/Wow/칼날폭풍.jpg)
 ![용의포효](./res/Wow/용의포효.jpg)
 [용의포효](./res/Wow/용의포효.jpg)
+
+[격노](./res/Wow/격노.jpg)
 
 
 ```
 Heroic and Mythic 0 Dungeons
+칼날폭풍: (분노) 멈출 수 없는 파괴의 소용돌이가 되어 6초동안 주위의 모든적에게 물리피해.
+[칼날폭풍]이 피해를 2회 입힐 때 마다 [피의갈증]이 자동으로 사용되고 [격노]상태에서는 [격노]의 지속시간을 1초 증가.
 ```
 
 
