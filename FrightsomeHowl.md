@@ -65,3 +65,8 @@
     LED2: 메인루프
     LED3: 온도센서(ADS1118) 루프
 
+    개발및 업데이트
+    PC에서 AtmelStudio에서 컴파일후 flowmeter.bin 파일을 터치윈도우의 C:\\AryaStark\MainBdupdate\SameUploderV40.exe에서 다운로드 한다.
+    유량계 메인보드는 부트가 들어있으므로  atmel sam-ic로 다운로드 하면 안되고 SameUploderV40.exe를 사용해야
+
+    D:\wj\A.PROJECTS\J.jpos5000.main.ads1118\flowmeter\Debug\flowmeter.bin
