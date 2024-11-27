@@ -60,10 +60,10 @@
 
     422 마스터용
 
-## JPOS5000 메인보드 상단PCB
+## JPOS5000 메인보드
     LED1: 항시온 
-    LED2: 메인루프
-    LED3: 온도센서(ADS1118) 루프
+    LED2: 메인루프 : 항시깜빡
+    LED3: 온도센서(ADS1118)루프 :항시깜빡 
 
     개발및 업데이트
     PC에서 AtmelStudio에서 컴파일후 flowmeter.bin 파일을 터치윈도우의 C:\\AryaStark\MainBdupdate\SameUploderV40.exe에서 다운로드 한다.
