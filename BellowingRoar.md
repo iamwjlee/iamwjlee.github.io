@@ -25,7 +25,7 @@
 [포탈 위치및 노선](https://www.inven.co.kr/board/wow/17/38702?category=_%EA%B8%B0%ED%83%80)
 
 
-## 고술
+## 고술.
 
 [고술 기초 가이드](https://www.inven.co.kr/board/wow/44/99948)
 ![고술스킬](./res/Wow/고술스킬.png)
