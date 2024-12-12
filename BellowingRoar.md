@@ -5,12 +5,14 @@
 
 
 ## POE2
-
+Create PullRequest,Merge PullRequest 하지마!
+branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 파렛에 가서 git delete branch 쳐봐!
 
 
 [패시브 스킬 연습 ](https://poe2db.tw/kr/)
 
 [추봉이 패스 오브 엑자일2 보면서 따라하기 - 소서리스 1장](https://www.youtube.com/watch?v=CbEeFKMQFeA)
+
 [소서리스-스톰위버! 시작 ~ 액트/레벨링 가이드](https://www.youtube.com/watch?v=oag2qWGi76I)
 
 1. 먼저
