@@ -10,6 +10,9 @@
 CTRL+ALT+click 하면 대화창에 띄워줘!
 [패시브 스킬 연습 ](https://poe2db.tw/kr/)
 
+[추봉이 패스 오브 엑자일2 보면서 따라하기 - 소서리스 1장](https://www.youtube.com/watch?v=CbEeFKMQFeA)
+[소서리스-스톰위버! 시작 ~ 액트/레벨링 가이드](https://www.youtube.com/watch?v=oag2qWGi76I)
+
 
 무기옵션
     양손무기 둔기 , 물리피해 50%
