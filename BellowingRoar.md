@@ -12,6 +12,7 @@ CTRL+ALT+click 하면 대화창에 띄워줘!
 
 [추봉이 패스 오브 엑자일2 보면서 따라하기 - 소서리스 1장](https://www.youtube.com/watch?v=CbEeFKMQFeA)
 [추봉이 소서리스-스톰위버! 시작 ~ 액트/레벨링 가이드](https://www.youtube.com/watch?v=oag2qWGi76I)
+poe branch
 
 
 무기옵션
