@@ -5,6 +5,8 @@
 
 
 ## POE2
+![불씨일제사격](./res/불씨일제사격.png)
+
 Create PullRequest,Merge PullRequest 하지마!
 branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 파렛에 가서 git delete branch 쳐봐!
 
