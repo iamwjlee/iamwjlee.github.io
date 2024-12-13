@@ -66,6 +66,9 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 - 서리구체 - 다중투사체 와 자유(가탈)
 - 한파 - 촉발,제어된 파괴, 효과집중   :메인딜 
 
+4. maxroll  
+    * [maxroll](https://maxroll.gg/poe2)
+
 3. Zen_M Sorceress
     * [Stormweaver/Sorceress Comet 15th campain Leveling Guide](https://www.youtube.com/watch?v=i9ApSVoEy7E) 
 2. 추봉이 소서리스 
