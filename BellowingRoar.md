@@ -66,6 +66,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 - 서리구체 - 다중투사체 와 자유(가탈)
 - 한파 - 촉발,제어된 파괴, 효과집중   :메인딜 
 
+3. Zen_M Sorceress
+    * [Stormweaver/Sorceress Comet 15th campain Leveling Guide](https://www.youtube.com/watch?v=i9ApSVoEy7E) 
 2. 추봉이 소서리스 
     * [소서리스-스톰위버 패시브 스킬](https://buly.kr/5q6KXvL)
     * [소서리스-스톰위버 패시브 스킬- 보호막없이 생명력사용 - 보호막장비 맞추어지면 한번에 바꾸는걸 추천 ](https://buly.kr/G3CIDPp)
