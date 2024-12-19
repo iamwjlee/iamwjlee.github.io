@@ -13,6 +13,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 <!-- ![불씨일제사격](./res/불씨일제사격.png) -->
 ![액잘티드오브](./res/액잘티드오브.png)
 
+[POE2 TRADE SITE ](https://poe.game.daum.net/trade2/search/poe2/Standard)
+
 [패시브 스킬 연습 ](https://poe2db.tw/kr/)
 
 [추봉이 패스 오브 엑자일2 보면서 따라하기 - 소서리스 1장](https://www.youtube.com/watch?v=CbEeFKMQFeA)
