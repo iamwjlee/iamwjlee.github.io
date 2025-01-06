@@ -10,6 +10,14 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## POE2
 
+1. Eldritch Battery 
+    * EB 는 자기가 가진 모든 에쉴을 마나로 전환
+2. Mind Over Matter 
+    *  MON 는 생명력대신 마나가 먼저 까이도록 변경함,대신 마나 재생이 절반이 된다(50% LOSS) 
+3. Chaos Inoculation
+    - CI는 생명력이 1이 되는 대신,카오스 데미지에 면역이 됨    
+
+
 [푸들멈머의 패스오브엑자일2 소서리스 화염구](https://www.youtube.com/watch?v=v4AoH7jiiCs)
     화염구: 난사,촉발,난무하는 파편,비전의속도
     불씨일제사격: 신중한시전,효과집중,원소집중,화염숙련
