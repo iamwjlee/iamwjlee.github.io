@@ -9,6 +9,9 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 
 ## POE2
+
+[개굴덱의 데드아이 레인저 번개화살 스타터](https://www.youtube.com/watch?v=f9TXpxa0ngg)
+
 [PoEasy 위치 스타터빌드 가이드  노드리뷰](https://www.youtube.com/watch?v=fxbCzHk-85U)
 1. 소환수 저항과 치명타노드는 비추
 1. 해골방화범은 
