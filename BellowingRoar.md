@@ -11,15 +11,18 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 ## POE2
 [큐브파파의 레인저 스타터 1~60](https://www.youtube.com/watch?v=wg3jteoziy4&t=102s)
 1. 번개화살에는 전기처형 넣어줘서 전기처형축적해 준다, 보스는 폭풍소환사사용, 스킬 참조
-[큐브파파의 레인저 스타터 1~70](https://www.youtube.com/watch?v=bvVQ1Z9nXSU)
 
+[큐브파파의 레인저 스타터 1~70](https://www.youtube.com/watch?v=bvVQ1Z9nXSU)
 1. 키토코의 흐름 보석 박힌 장갑(전기처형 축적)  전기처형 보조젬 사용안해도 
 2. 석궁으로 변경: 충격파편,감전파열탄환 스킬사용 기절(전기처형)걸고 따발총, 피뢰침사용가능
+
 [큐브파파의 레인저 스타터 84](https://www.youtube.com/watch?v=rM_5RhWo19g)
 1. '우두머리의 울부짖음 장갑을 두른 모자' 
+
 [개호 레인저 번개화살](https://www.youtube.com/watch?v=6n09VXynn7k)
 1. 번개화살 감전시시전에 구형번개
 [견우직녀의 Ranger Deadeys Gas Arrow Build](https://www.youtube.com/watch?v=EojRSjnmLdg)
+
 1. 가스 화살 설명 잘되 있슴 
     * 1~35레벨구간의 스킬트리 확인
     * 4레벨 정신력 젬으로 '천둥의전령'말고 '재의전령'으로!
