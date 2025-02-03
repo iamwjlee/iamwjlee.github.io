@@ -182,7 +182,38 @@ B. 펌웨어 유지보수
         컴파일된  mainU.exe를 키오스크의 \\odt01\AryaStark\odt\release 로 카피
 
 5. KTC인증 관련자료
-    위치: D:\wj\vm-win7shared\KTC_JPOS5000소프트인증완료프로그램       
+    위치: D:\wj\vm-win7shared\KTC_JPOS5000소프트인증완료프로그램     
+
+6. KTC uSD 등록및 갱신
+	uSD 정보 업데이트 소프트웨어 활용 가이드.pptx 참조해야
+
+	1. 주유기 전원 오프후 온시
+		화면에 주유기 인증서 버전을 디스플레이 창을 통해 확인할 수 있어야 한다
+			(예) 동화는 0003, 소모는 000004, 다쓰노는 0005, 이엔이는 000006,  
+		장위는 000011(제조사 아이디)로 표기된다
+	2. ktc에서 공급받은 uSD를 사용하려면 먼저 http://otp.ktc.re.kr/ 사이트에서 등록을 해주어야한다.
+		id=jpos1002 pw=jpos1004
+		'기물번호/SD카드연결' 항목의 바로가기를 눌러 기물추가를 해주어야 한다
+			uSD 일련번호: 220209092(고유 번호)
+			기물번호: 00250004(주유기 고유번호)
+			종류: LPG충전기
+			펌웨어: 장위데이터 LPG v.010031(JPOS3000용)
+			펌웨어: 장위데이터 LPG v.010016(JPOS5000용)
+	3. uSD카드를 pc에 연결 			
+	4. uSD카드에 인증서를 쓰기 위해서는 JuUGi_Flash.exe를 사용한다	
+		인증서 파일은 \\jposnas\AS\프로그램_KIOSK\JPOS5000 uSD Card KTC인증서 디렉토리에 있다
+		인증서 파일(JPOS5000)은 [2021_05_31_19_09_11][[KTC01_LPG_JWData_010031_900101-KTC01_LPG_JWData_010031_900101]]certs.dat
+		인증서 파일을 uSD카드에 쓰기 위해서는 JuUGi_Flash.exe를 실행하고 uSD카드를 선택하고 인증서 파일을 선택하여 쓰기를 한다
+			1. JuUGi_Flash.exe실행후 사용자ID와 사용자PS에 1을 입력후 '발급기능 접근' 버튼을 누른다
+			2. 'uSD 연결' 버튼을 누른다.(연결실패시 'SDGetList 수행실패'라는 로그가 나타난다 )
+			3. 'DV 인증서(NEW) 아래에 있는 '읽기'버튼을 누른다. 여기서 적절한 인증서를 선택해주어야 한다.  
+				example) [2019_04_30_10_49_10][[KTC01_JWData_010016_900101-KTC01_JWData_010016_900101]]certs.dat
+			4. '갱신'버튼을 눌러 인증서를 갱신한다('인증서 갱신 성공' 이라는 문구가 나와야 한다)
+	5. 	uSD 카드를 pc에서 읽어보면 SDINFO.SYS,SDNFC.SYS,SDSE.SYS 파일이 보인다
+		인증서파일도 보인다(?)
+		처음으로 KTC에서 uSD를 구매하면 위의 3개 파일(SDINFO.SYS,SDNFC.SYS,SDSE.SYS)이 디폴트로 들어있다(확인해야?)
+		마지막으로 JPOS.SET 파일을 만들고 기물번호	'00210416'을 입력하고 저장해야 한다.(JPOS3000,JPOS5000 공통?)
+
 
 ```
 ## Arya How to Compile and Execute
