@@ -10,7 +10,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## POE2
 
-[데드아이 번개화살빌드 가이드 활/화살통 선택참조해](https://www.youtube.com/watch?v=zKU5vIKxCZM)
+[데드아이 번개화살빌드 가이드 활/화살통 검색 활용](https://www.youtube.com/watch?v=zKU5vIKxCZM)
 [냉기 플리커 데드아이](https://www.youtube.com/watch?v=uNIKSwTc29w)
 [점멸타격(플리커) 데드아이](https://www.youtube.com/watch?v=uliEwrh2VsQ)
 1. Flicker Strike Deadeye 
