@@ -9,6 +9,15 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 
 ## POE2
+[몽크(인보커) 초보자용](https://www.youtube.com/watch?v=xGm2rU1ZTcI)
+[스태킹이전의 몽크 인보커 얼음타격빌드](https://www.youtube.com/watch?v=o_FxHtRXBTw)
+
+1. 로나의 게임채널 : 차분히 살펴봐
+2. 육척봉빌드,짖발가락 아님, '무너지는 지평선' 고유템(요구사항 레벨65)  
+    * 치명타+모든 원소 스킬레벨+4,발동스킬이 100%의 확률로 소모한 에너지의 절반을 반환
+    * 지혜와 행동의 손아귀 장갑  
+    * 스킬 비교해봐 
+3. 
 
 [스태킹 질풍](https://www.youtube.com/watch?v=w0jCDrwOofU)
 1. 대표 3직업 가능 젬링,인보커,데드아이 
