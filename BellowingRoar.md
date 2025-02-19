@@ -10,6 +10,12 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## POE2
 
+[개굴덱 데드아이 번개화살](https://www.youtube.com/watch?v=NJs_LCueZGA)
+
+목걸이에 '보수적인시전(패시브스킬:마나재생 20%증가,스킬마나소모 8%감소)'을 할당(주입)해야 
+활은 접두에 물리dps 240이상+ 냉기플랫 7티어이상, 접미에 투사체스킬레벨/공격속도
+보호막대신 회피로 - 개굴덱
+
 [EasyBabi poe2 부캐 육성 3탄](https://www.youtube.com/watch?v=9SRUuJlFNnw)
 0. 1~28레벨: 스킬세팅(떨어지는 천둥,얼음의 전령)
 1. '갇힌 신의 기둥'육척봉
