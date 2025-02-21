@@ -7,7 +7,10 @@ Create PullRequest,Merge PullRequest 하지마!
 여기서는 branch 만들면 안돼!!!
 branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 파렛에 가서 git delete branch 쳐봐!
 
-
+1. 국민연금
+    * 10년 가입기간을 채웠다면
+    * 이미 가입기간을 채운 경우 연금개시 연령 이후에는 임의계속가입보다 연기연금을 이용하는것이 유리 하다. 
+    * 연기연금과 임의계속가입은 중복이 불가하며 연기연금의 효율이 더 높다(연기연금을 이용하면 매년 7.2%씩 연금액이 상승한다)
 ## POE2
 
 [르네 새시즌 액트가이드 레인저 몽크 머셔너리 헌트리스 맨땅플에리](https://www.youtube.com/watch?v=UTkKG8tAnGE)
