@@ -161,18 +161,21 @@ B. 펌웨어 유지보수
 
 2. 메인보드 부트로더및 메인코드
     부트로더 다운로드: using atmel sam-ice with Sam70BootJPos_main
-        실행파일:Sam70Boot.bin,Sam70Boot_main.bin ?
-        위치:D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_485_ID1_Main\Sam70Boot\Debug
+        실행파일: Sam70Boot.bin,Sam70Boot_main.bin ?
+        위치: D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_485_ID1_Main\Sam70Boot\Debug
+        오리진위치: \\Jposnas\hw\_Lym\_JobSync\_SamBoot\Sam70BootJPosV1.3_485_ID1
+
     메인코드 다운로드: using SAmUploaderV40.exe in the Kiosk
         실행파일:flowmeter-ads1118.bin
         위치:D:\wj\A.PROJECTS\J.jpos5000.main.ads1118\flowmeter\Release
 
-3. 인터페이스보드 부트및 메인코드(키오스크와 동일)
+3. 버퍼보드 부트및 버퍼코드(키오스크와 동일)
     부트로더 다운로드: using atmel sam-ice with Sam70BootJPos_buffer
         실행파일:Sam70Boot.bin,Sam79BootJos_bufer.bin 확인요망??
         위치:D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_Com3_ID2_Buffer\Sam70Boot\Debug
+        오리진위치: \\Jposnas\hw\_Lym\_JobSync\_SamBoot\Sam70BootJPosV1.3_Com3_ID2
 
-    메인코드 다운로드: using SAmUploaderV40.exe in the jpos5000 touch screen
+    버퍼코드 다운로드: using SAmUploaderV40.exe in the jpos5000 touch screen
         실행파일:J5000Buffer.bin,J5000Buffer-PR.bin
         위치:D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
 
