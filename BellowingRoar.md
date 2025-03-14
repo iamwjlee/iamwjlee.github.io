@@ -13,6 +13,9 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     * 연기연금과 임의계속가입은 중복이 불가하며 연기연금의 효율이 더 높다(연기연금을 이용하면 매년 7.2%씩 연금액이 상승한다)
 ## POE2
 
+[천득 맨땅 위치 해골저격수](https://www.youtube.com/watch?v=PDVZyFNXXTo&t=920s)
+1. 해골저격수 - 가스화살 
+2. 이동은 마우스 qwer 스킬사용
 
 [신들의 망치 크로노맨서](https://www.youtube.com/watch?v=grrM1erf8no)
 1. 
