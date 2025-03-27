@@ -13,6 +13,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     * 연기연금과 임의계속가입은 중복이 불가하며 연기연금의 효율이 더 높다(연기연금을 이용하면 매년 7.2%씩 연금액이 상승한다)
 ## POE2
 
+[카키카키의 몽크빌드 맨땅스타터](https://www.youtube.com/watch?v=tfToX2NGyF0)
+
 [똥템으로 17티어 개사기 빌드](https://www.youtube.com/watch?v=tpGoG-rDS58)
 1. 레벨 88, 힘,민첩,지능:79,170,155
     * 생명력: 1564
