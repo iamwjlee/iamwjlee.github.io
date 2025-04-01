@@ -11,11 +11,12 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     * 10년 가입기간을 채웠다면
     * 이미 가입기간을 채운 경우 연금개시 연령 이후에는 임의계속가입보다 연기연금을 이용하는것이 유리 하다. 
     * 연기연금과 임의계속가입은 중복이 불가하며 연기연금의 효율이 더 높다(연기연금을 이용하면 매년 7.2%씩 연금액이 상승한다)
+
 ## LLM 
 
 [Transformers,explained: Understand the model behind ChatGPT](https://www.youtube.com/watch?v=Pnd8bCJ4Z3A)
 
-[But what is a neural network?|Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+[But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## POE2
 
@@ -24,10 +25,10 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [개굴덱의 폭풍파도 몽크스타터](https://www.youtube.com/watch?v=xdSY78MvCKg&t=480s)
 1. 액트1
     * 첫번째 스킬잼 - 빙하폭포(끝에 맞추어야,무도의속도와 효과집중사용) , 두번째 스킬잼은 전염 
-    * 폭풍의 질풍 - 무도의 속도,효과집중
-    * 폭풍의 종- 무자피
-    * 폭풍의 종- 처형
-    * 폭풍의 종- 격노
+    * 폭풍의 질풍|무도의 속도,효과집중
+    * 폭풍의 종| 무자피
+    * 폭풍의 종| 처형
+    * 폭풍의 종| 격노
     * 방패돌진
     * 바람의 무희
 2. 액트2
