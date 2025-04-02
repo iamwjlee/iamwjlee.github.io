@@ -14,6 +14,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## LLM 
 
+[딥러닝 자연어처리 RNN 개념 first-order Markov Model](https://www.youtube.com/watch?v=Hn3GHHOXKCE)
+
 [Transformers,explained: Understand the model behind ChatGPT](https://www.youtube.com/watch?v=Pnd8bCJ4Z3A)
 
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
