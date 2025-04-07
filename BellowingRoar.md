@@ -26,7 +26,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 1. Huntress
     * Explosive Spear(폭발창)
     * Lightning Spear(번개창)
-    * Storm Lance(폭풍창)  -f키
+    * Storm Lance(폭풍창:전기처형(electrocute)사용 트리거용)  -f키
     * Primal Strikes(원시타격) -좌
     * Thunderous Leap(천둥같은도약) -우
 
@@ -46,7 +46,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     * 
     * 폭발창: expedite,과잉,효과집중
     * 폭풍의창: 무두의속도,난사,자극
-    * 폭풍창2개 깔고 구위에 폭풍의창 쓰는 패턴으로 딜
+    * 폭풍창2개 깔고 구위에 폭발의창 쓰는 패턴으로 딜
     * 정신력스킬은 천둥의전령,재의전령
     * 패시브는 "다가오는 대재난"
 
