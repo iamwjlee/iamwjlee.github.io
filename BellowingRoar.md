@@ -22,9 +22,21 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## POE2 시즌2 헌트리스
 
+[Pohz Kappa Huntress](https://www.youtube.com/watch?v=H1xoZAGiEms)
+1. Huntress
+    * Explosive Spear(폭발창)
+    * Lightning Spear(번개창)
+    * Storm Lance(폭풍창)  -f키
+    * Primal Strikes(원시타격) -좌
+    * Thunderous Leap(천둥같은도약) -우
+
+    * frenzy charge(격분(광란)충전)
+
 1.  스킬잼 '짐승길들이기'를 슬롯에 넣는다. - 르네
     * 액트3 들끊는 불모지(굴렁쇠,맷돼지) / 밀림유적(쿼드릴라,구데기) /키메랄습지대(거미)
     * 곤경에 처한 야영지 - '가속오라' '무적오라'  '시간의거품' 리스폰해서 나올때까지
+
+[Pohx Kappa POE2 Lightning Zon Deletes maps](https://www.youtube.com/watch?v=RnbFMsd5w8M&t=86s)
 
 [인벤 헌트리스](https://www.inven.co.kr/board/poe/6333/3811?category=%ED%97%8C%ED%8A%B8%EB%A6%AC%EC%8A%A4)
 1. 스킬 폭발창(2회잼 필수),폭풍창(출혈 50%필수),번개창,창던지기,볼테릭마크 이거면 다잡음
