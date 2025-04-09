@@ -24,6 +24,9 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ![barrage](./res/poe2/barrage.png)
 
+[헌트리스](https://www.youtube.com/watch?v=y817jK58vp0)
+1. 갈퀴질:  짓밟는지대,포악함,처형
+
 [Pohz Kappa Huntress](https://www.youtube.com/watch?v=H1xoZAGiEms)
 1. Huntress
     * Explosive Spear(폭발창)
