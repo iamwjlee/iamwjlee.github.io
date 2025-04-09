@@ -22,6 +22,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## POE2 시즌2 헌트리스
 
+![barrage](./res/poe2/barrage.png)
+
 [Pohz Kappa Huntress](https://www.youtube.com/watch?v=H1xoZAGiEms)
 1. Huntress
     * Explosive Spear(폭발창)
