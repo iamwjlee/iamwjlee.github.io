@@ -12,6 +12,18 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     * 이미 가입기간을 채운 경우 연금개시 연령 이후에는 임의계속가입보다 연기연금을 이용하는것이 유리 하다. 
     * 연기연금과 임의계속가입은 중복이 불가하며 연기연금의 효율이 더 높다(연기연금을 이용하면 매년 7.2%씩 연금액이 상승한다)
 
+2. LLM API의 가격 구조 (Input /1M Tokens,Output/1M Tokens)
+    * 현재 인기있는  API는 널리사용되는 ChatGPT(OpenAI),기능적 우수성을 제공하는 Gemini(Google), 혁신적인 Claude(Anthropic), 그리고 네이버의 HyperCLOVA,
+    그리고 메타의 LLaMa3(Meta)
+    * 자체서버에서 모델을 호스팅
+
+    * LLM API는 입력토큰과 출력토큰에 따라 가격이 책정
+3. RNN, Transformer model(GPT),attention
+    * Llama2는 2조개의 토큰으로 학습. 트랜스포머 아키텍쳐,7B~65B(빌리언 10억)의 파라미터로 훈련,비공개모델은 수천억개의 파라미터사용하는데 반해 GPT4 1조개의 매개변수,라마는 공개 소스 모델로 고가의 컴퓨팅시간이나 인프라 투자없이도 스타트업이나 소규모조직에서 Llama 기반 모델의 로컬 인스턴스를 배포할수 있다.
+
+    * [Llama 2란](https://www.ibm.com/kr-ko/think/topics/llama-2)
+
+4. 트랜스포머 구조 Attention Is All You Need, 2017. deep learning architecture Known as the transformer, base on attention mechanism proposed in 2014 
 ## LLM 
 
 [딥러닝 자연어처리 RNN 개념 first-order Markov Model](https://www.youtube.com/watch?v=Hn3GHHOXKCE)
