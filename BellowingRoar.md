@@ -21,7 +21,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 3. RNN, Transformer model(GPT),attention
     * Llama2는 2조개의 토큰으로 학습. 트랜스포머 아키텍쳐,7B~65B(빌리언 10억)의 파라미터로 훈련,비공개모델은 수천억개의 파라미터사용하는데 반해 GPT4 1조개의 매개변수,라마는 공개 소스 모델로 고가의 컴퓨팅시간이나 인프라 투자없이도 스타트업이나 소규모조직에서 Llama 기반 모델의 로컬 인스턴스를 배포할수 있다.
 
-    * [Llama 2란](https://www.ibm.com/kr-ko/think/topics/llama-2)
+    * [오픈소스LLM Llama 2란](https://www.ibm.com/kr-ko/think/topics/llama-2)
 
 4. 트랜스포머 구조 Attention Is All You Need, 2017. deep learning architecture Known as the transformer, base on attention mechanism proposed in 2014 
 ## LLM 
