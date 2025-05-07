@@ -32,6 +32,26 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
+## Diablo4 시즌8
+
+[르네의 죽덫도적입문](https://www.youtube.com/watch?v=55ojXPSMk_o)
+
+`살아있는강철`,`정제된공포`
+
+```
+두리엘(고통의파편2/미끄러운 점액질달걀2) & 안다리엘(바늘꽂이인형3/모래그을음의굴레2) - 도적의 건달의가죽옷
+증오의사도(혐오스러운 심장3) - 도적의 건달의가죽옷
+얼음속의야수(정제된공포12) - 야수내림장화
+우리바르(심판관의가면12) - 어둠속의눈(바지)
+바르샨(악의심장12) - 어둠속의눈(바지)
+
+지르(극상의피12)
+그리구아르(살아있는강철12)
+
+고통의파편은 그리구아르를 소환하여 획득
+바늘꽂이 인형은 얼음속의 야수를 소환
+```
+
 ## POE2 시즌2 헌트리스
 
 [아스테 아크블메 피카추](https://www.youtube.com/watch?v=IOiEngEEMdw&t=1165s)
