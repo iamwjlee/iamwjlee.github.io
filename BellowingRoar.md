@@ -33,6 +33,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 시즌8 죽덫
+
 [5분안에 벼락불 확정으로 먹는법](https://www.youtube.com/watch?v=1_rhFIaRYHQ)
 ```
 매쿠나의 올린영상:  서약의 두루마리 59개 필요(환영의재 14750개, 로구매) 부캐가 받아서 사용
