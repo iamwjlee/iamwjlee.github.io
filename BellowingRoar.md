@@ -33,6 +33,15 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 시즌8 죽덫
+[5분안에 벼락불 확정으로 먹는법](https://www.youtube.com/watch?v=1_rhFIaRYHQ)
+```
+매쿠나의 올린영상:  서약의 두루마리 59개 필요(환영의재 14750개, 로구매) 부캐가 받아서 사용
+ 두루마리 1개당 환의 재 250개 
+
+farm 30,000 spectral ashes, this is seasonal currenvy and it is dropped by bosses and the new incursion event
+The best way to farm spectral ash is by killing Supreme Bille on Torment 4 difficulty
+```
+
 `야수내림장화`(얼음속의야수/정제된공포)가 `제일 중요`!!!! `최대자원`,`궁극기재감`
 ```
 아후 전설룬 : 행운의 적중: 부상을 당한 적에게 최대 100% 확률.
