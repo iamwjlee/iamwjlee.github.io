@@ -33,6 +33,11 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 시즌8 죽덫
+
+[Rob2628의 빌드](https://d4builds.gg/rob2628/builds/)
+
+
+
 독연막탄을 이용해 `연금술의 우위` 패시브를 활성화 공속을 위해
 스킬트리에서 `뒤섞인 암흑주입` -> 암흑주입사용
 
