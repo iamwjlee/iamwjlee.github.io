@@ -34,6 +34,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 시즌8 죽덫
 
+[Maxroll](https://maxroll.gg/)
+
 [Rob2628의 빌드](https://d4builds.gg/rob2628/builds/)
 
 
