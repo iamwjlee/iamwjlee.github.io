@@ -32,9 +32,11 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
-## Diablo4 시즌8 죽덫
+
+## Diablo4 시즌8 번개창 원소술사
 
 [번개창 딜못넣으시는 분](https://www.inven.co.kr/board/diablo4/6033/40596)
+
 1. # 번개창 빌드는 캐우침 스택(100쌓아야) 
     - 스냅샷 적용 100단이후에나
     - 극확100%
@@ -70,9 +72,6 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     시전 모션도 소각이나 운석, 화염벽보다 훨씬 빠르기 때문에
     화염 기술 중에서는 화염구를 대체할 다른 스킬이 없음
 ```
-
-
-[군세를 편하게 망울+중심점(갈라지는,지능,최생,재감/극피,번개창두배)](https://www.inven.co.kr/board/diablo4/6033/40603)
 
 [크리티컬딜러 원소술사](https://www.youtube.com/watch?v=fyWnkke4wu0)
 ```
@@ -127,6 +126,11 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 얼음칼날(냉기피해) 사용 흰서리(오한적에게 피해증가) 3개찍어야    
 
 ```
+
+[군세를 편하게 망울+중심점(갈라지는,지능,최생,재감/극피,번개창두배)](https://www.inven.co.kr/board/diablo4/6033/40603)
+
+## Diablo4 시즌8 죽덫
+
 
 [Maxroll](https://maxroll.gg/)
 
