@@ -185,6 +185,7 @@ The cornerstone of your build is Fractured Winterglass.
 ```
 
 [크리티컬딜러 원소술사](https://www.youtube.com/watch?v=fyWnkke4wu0)
+
 ```
 위상: 지팡이에 큰불
 번개창 
@@ -207,6 +208,7 @@ The cornerstone of your build is Fractured Winterglass.
 반지: 탈라샤(재감 어픽)
 목걸이: 원소의 지능 극확 재감/피하기 재감 불안정한전류재감
 ```
+
 [크리티컬딜러 원소술사2](https://www.youtube.com/watch?v=JJGLOf1f3wA)
 
 1. 스킬 `얼음칼날` `구상번개` `번개창` `얼음갑옷`  `궁극기` `화염보호막`
@@ -235,7 +237,6 @@ The cornerstone of your build is Fractured Winterglass.
 태고의속박(활성화된 소환하나당 중첩보너스를 최대 10충첩(소환수피해,이동속도,마나재생))을 마구 올려야
     -> 시드헤 구속구 장갑에서 명품화 저격해야!!!
 얼음칼날(냉기피해) 사용 흰서리(오한적에게 피해증가) 3개찍어야    
-
 ```
 
 [군세를 편하게 망울+중심점(갈라지는,지능,최생,재감/극피,번개창두배)](https://www.inven.co.kr/board/diablo4/6033/40603)
@@ -253,6 +254,7 @@ The cornerstone of your build is Fractured Winterglass.
 스킬트리에서 `뒤섞인 암흑주입` -> 암흑주입사용
 
 [르네의 영벌죽덫가이드](https://www.youtube.com/watch?v=H_PQqHebr9A)
+
 ```
 궁극기쿨 10초이하 : 야수내림의 장화의 궁재감+자원 2어픽이어야 ,궁재감 2번, 반지2개 죽덫재감 2번 해야
 자원 150셋팅 : 야수내림 최대자원 2번이상 명품화 궁재감 0~1명품화 
@@ -269,8 +271,8 @@ The cornerstone of your build is Fractured Winterglass.
 극확: 기본5% + 영벌29% + 지능(700) 14% + 속임수공격 15% + 덫숙련12% + 쇠못덫20% + 정복자 4% = 99%
 쌍도검사용하고 질주로 기세를 쌓는다, 활을 쓰는이유는 취약보다는 극피가 낳다.
 불안정한비약 10초물약,피하기 사용
-
 ```
+
 ```
 석궁을 쓰는 이유 : 특정무기가 지정되지 않은 스킬의 경우 마지막에 사용한 무기 기준의 데미지가 책정된다
 죽덫전에 그림자걸음(암살),꿰사(명사수)를 써야함(백병전 발동, 8초마다 한번씩)
@@ -283,12 +285,12 @@ The cornerstone of your build is Fractured Winterglass.
 꿰사 스로틀링 걸리면 죽덫쿨이 안돎, 이때 꿰사 한두발
 
 읽어볼거리: 극확셋팅등...
-
 ```
 
 전설노드의 `소름돋는 전리품`을 사용해 해당원소의 피해를 증가시긴다. 독/암흑주입
 
 [5분안에 벼락불 확정으로 먹는법](https://www.youtube.com/watch?v=1_rhFIaRYHQ)
+
 ```
 매쿠나의 올린영상:  서약의 두루마리 59개 필요(환영의재 14750개, 로구매) 부캐가 받아서 사용
  두루마리 1개당 환의 재 250개 
@@ -298,6 +300,7 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 ```
 
 `야수내림장화`(얼음속의야수/정제된공포)가 `제일 중요`!!!! `최대자원`,`궁극기재감`
+
 ```
 아후 전설룬 : 행운의 적중: 부상을 당한 적에게 최대 100% 확률.
 죽덫이 조금씩 끈김이 있을시 - 그림자십자검 사용 맹독덫 사용 또는 장미장갑사용후 내면의시야사용하여 맹독덫 8개
@@ -320,7 +323,6 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 - 정복자노드의 덫 재감
 - 핵심기술 레벨 업
 - 야수내림장화의 궁재감
-
 ```
 
 ```
@@ -344,13 +346,12 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 
  약점노출 - 폭발성 (라이더,핑크쿠마)
 라이더 - 은신사용안함
-
-
-
 ```
+
 ## Diablo4 시즌8
 
 [메피스토의 고행진입후](https://www.youtube.com/watch?v=e2glfYGmEgk)
+
 ```
 급습을 할필요가 없다 초반에만 보스능력 1~2개하고 스탑
 고행가서 보스잡고 환영의 재(보스능력 업글재료) 먹으면된다,
@@ -371,25 +372,23 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 6. 문양을 70까지
 7. 군세돌아서 명품화 12강까지
 8
-
-
 ```
 
 [해피의 원소술사 맨땅](https://www.youtube.com/watch?v=rCNwXoe6kFQ)
+
 ```
 1레벨에서 25레벨까지 : 환영급습과 시즌퉤스트
 25레벨부터는 50레벨 : 지옥물결(상자깡은 높은 난이도에서) 
 50레벨~60렙: 모든 지역의 보루런 : 
 60레벨에 악몽던전 1회클리어후 명공의돌을 획득후 나락 10단계 도전 클리어 해서 고행1에 진입
 이후에는 번개창
-
-
 ```
 
 [디아4 뉴캐릭 무한획득](https://www.youtube.com/shorts/s4Z2XrJiB-Y)
 케드바르두 아래의 부패의사원(보루) 반짝이는 퀘작 무한대로 획득
 
 [PoEasy 죽덫 도적 고행4가능](https://www.youtube.com/watch?v=KQ0CiZTBEz8)
+
 ```
 극대화셋팅 -> 추방목 제압
 섬광관련위상 5종 : 교활한 계획의,기회주의자의,동상에 걸린,말성꾼의,불시의
@@ -439,7 +438,6 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
     3. 목격자 제거 :  매복
     4. 비열한 습격 : 폭발성
     4. 죽음의 무도 : 영리함
-
 ```
 [르네의 죽덫도적입문](https://www.youtube.com/watch?v=55ojXPSMk_o)
 
@@ -462,6 +460,7 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 ## POE2 시즌2 헌트리스
 
 [아스테 아크블메 피카추](https://www.youtube.com/watch?v=IOiEngEEMdw&t=1165s)
+
 ```
 블러드메이지(힘 127,민첩 30,지능 205) 
 전기불꽃과 폭풍보주로 
@@ -486,7 +485,9 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 
 전도성징표는 안써도 됨!
 ```
+
 [푸들멈머 데드아이 번개창 초중급자](https://www.youtube.com/watch?v=tC-5pOSfxy0&t=1059s)
+
 ```
 목걸이 '압도적인 타격'
 보조젬 '식인(15)'필수
@@ -510,6 +511,7 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 치명타시시전: 저격수의징표,기발함,탄력,영감,서리구체
     마나감당이 된다면 서리구체를 넣어줘(레벨이 제일 낮은걸로)
 ```
+
 [라이더 데드아이 번개창 바람독사](https://www.youtube.com/watch?v=g3JPTVsvej0)
 
 ```
@@ -532,6 +534,7 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 ```
 
 [PoEasy 번개창 중요한 질문 10](https://www.youtube.com/watch?v=smtrjQXAMMI)
+
 ```
 액트 3장 마녀까지 할퀴기+짓밟는 지대로 패스브참조,이후에 전투격분정신력젬으로 꼬인혀로 변경한다
 바다유리창  치확 13.5%
@@ -552,6 +555,7 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 
 
 [사이온귀엽잖아 빙하창](https://www.youtube.com/watch?v=_K6pulIQtW4)
+
 ```
 빙하창: 윈시적인병기, 냉기주입, 영속적인 충전, (무리:기절이 잘걸려) (무도의 속도)
 번개창(냉기전령 터트리는 용도로): 얼음쇄기,자극,빙하작용,(무도의속도) , 폭풍연쇄='감전된 적에게 연쇄됨'
@@ -581,6 +585,7 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 [인생은 솔로인 스미스오브키타바 번개창](https://www.youtube.com/watch?v=NmHYooNDehQ)
 
 [김학구의 갈퀴질 블러드메이지(위치)](https://www.youtube.com/watch?v=wP2K-cwocAg&t=71s)
+
 ```
 꼬인혀
 눈알왕관+집중구
@@ -597,9 +602,9 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 점멸:기발함,버전의속도
 배합보조잼,암브로시아 
     생명력플라스크 3초동안 1623 회복. 충전70%
-
 ```
 [르네의 부케 번개창 데드아이](https://www.youtube.com/watch?v=RVhrGI09IXg)
+
 1. 10렙까지는 키우고 싶은데로 활/석궁/창(6렙부터 갈퀴질가능) 
     * `여우 그림자` `성벽렙터` `로라타 창` `역병손가락`
     * 상점활에 폭풍룬2개 끼워서 사용 번개화살-무도의속도-전압-번개주입
@@ -647,7 +652,6 @@ The best way to farm spectral ash is by killing Supreme Bille on Torment 4 diffi
 번개창-전압-무도의속도-갈래(투사체가 많아짐)-영속적인충전-번개주입(보스전시)
 폭풍의창(보스전)-원시적인병기-무리-신중-근접전투-밀려오는폭풍
 폭풍보주(보스전)-격노의샘-(강해진효과)마나의샘-지속성-광장
-
 ```
 
 ![barrage](./res/poe2/barrage.png)
