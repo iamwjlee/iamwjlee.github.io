@@ -33,7 +33,24 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 
-## Diablo4 시즌8 번개창 원소술사
+## Diablo4 Season8 Belial's Return  번개창 원소술사(Frozen Orb Sorcerer) 
+This build focuses on using Frozen Orb to summon Lightning Spear.
+
+The cornerstone of your build is Fractured Winterglass.
+
+[얼음보주 번개창](https://www.inven.co.kr/board/diablo4/6033/39449)
+
+[maxroll Frozen Orb Sorcerer Endgame Guide](https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide)
+
+1. 고행1 시르+가르, 네오+세흐 
+[고행1 원소술사 얼음보주 번개창 스킬시뮬](https://diablo4.inven.co.kr/db/skilltree/55649)
+2. 신화 시르+벡스, 쳄+산
+    - 장갑(원소의위상) 극피,극확,공속 / 극피,순간이동회오리
+    - 바지(눈의장막위상) 모저,지능,최생 /총방어도,보호막 생성
+    - 장화(정신각성의위상) 지능,최생,초당마나 / 피하기 재감,보호막 생성
+    - 지팡이(갈라지는 마력의 위상) 지능,최생,극피/ 번개창두배, 극피
+    - 마법부여: 순간이동 사역마
+
 
 [번개창w겨울목빌드, 번개창스타터,빌드업속도/효율이 좋음,나락고점은 구상번개](https://graphene-insight.blogspot.com/2025/05/4-8-w.html)
 ```
