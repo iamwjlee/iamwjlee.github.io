@@ -34,8 +34,27 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 
 ## Diablo4 Season8 Belial's Return  번개창 원소술사(Frozen Orb Sorcerer) 
-This build focuses on using Frozen Orb to summon Lightning Spear.
 
+[르네의 번개창 텍스트 정리본](https://www.youtube.com/watch?v=nHB42PrRVHA)
+
+1. 스냅샷 : 짜릿한에너지8스택이면 포효하는 번개창, 이걸위해 구상번개 4번 허공에 시전 + 화보켜고, 적들에게 화보터트리고 곧바로 8스택번개창을 사용한다
+    - 포효하는 번개창(짜릿한 에너지를 습득하면 다음 번개창시전으로 주는 피해가 20%만큼 최대 160%가지 증가)
+    - 신비한 화염 보호막(화염보호막이 끝나면 주변 적이 3초동안 기절하고 다음기술이 확정적으로 극대화로 적중)
+    - 3%확률의 제압이 번개창에 스냅샷 되면 ㅎㅎ 무한 확정 제압딜 
+
+2. 재감의 노예
+3. 깨우침    
+4. 태고의속박
+5. 사역마
+6. 짜릿한에너지  격동(피해가 15%),포효하는번개창(짜릿한에너지 습득시 번개창피해 20%),원기의도관(짜릿한에너지로 마나회복),마법사의 구상번개(짜릿한에너지 2개생성)
+7. 갈라지는 마력의위상: 극대화피해보너스 200%
+8. 쿨감 샤코가 짱
+    - 번개창의 마을 쿨감: 6.5초 이하
+    - 마부창 피하기 재감: 1.9초 이하
+    - 벡스룬?
+    - 할리퀀 재감, 탈 라샤 재감,목걸이의 피하기재감(담금질),신발의 피하기 재감(담금질)과 고유효과(공격시피하기재감!!!!)
+
+This build focuses on using Frozen Orb to summon Lightning Spear.
 The cornerstone of your build is Fractured Winterglass.
 
 [얼음보주 번개창](https://www.inven.co.kr/board/diablo4/6033/39449)
