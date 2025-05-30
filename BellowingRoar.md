@@ -54,10 +54,13 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     - 벡스룬?
     - 할리퀀 재감, 탈 라샤 재감,목걸이의 피하기재감(담금질),신발의 피하기 재감(담금질)과 고유효과(공격시피하기재감!!!!)
 
-This build focuses on using Frozen Orb to summon Lightning Spear.
-The cornerstone of your build is Fractured Winterglass.
 
 [얼음보주 번개창](https://www.inven.co.kr/board/diablo4/6033/39449)
+
+```
+This build focuses on using Frozen Orb to summon Lightning Spear.
+The cornerstone of your build is Fractured Winterglass.
+```
 
 [maxroll Frozen Orb Sorcerer Endgame Guide](https://maxroll.gg/d4/build-guides/frozen-orb-sorcerer-guide)
 
@@ -176,6 +179,7 @@ The cornerstone of your build is Fractured Winterglass.
     - 내몸을 감싸는 빨간링이 사라졌다면 화염구 연타(얼칼,구상번개 계속돌리고 화염구 다다다)
 
 2. ### 번개창: 번개기술이 주력(피하기,구상,번개창) 거기에 얼음칼날,화염구/화염보막를 사용해야
+
 ```
 현재 번개창 빌드는
 주력 시전 기술(피하기,구상)이 전부 번개 속성인데다
