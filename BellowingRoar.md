@@ -33,6 +33,11 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 
+## Diablo4 Season8 Belial's Return 지진 바바,Upheaval Barbarian
+1. focuses on creating as many as Earthquakes as possible with 위상 불카토스의, 위상 지진의, 위상 거인의 발걸음의  : 도약 주스킬 
+2. 돌진(한손무기)공격시 출혈피해로 아샤바의 독숨결 적용
+3. 지각변동(양손무기)
+
 ## Diablo4 Season8 Belial's Return  번개창 원소술사(Frozen Orb Sorcerer) 
 
 [르네의 번개창 텍스트 정리본](https://www.youtube.com/watch?v=nHB42PrRVHA)
