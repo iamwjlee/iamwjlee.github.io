@@ -35,6 +35,9 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season8 Belial's Return 지진 바바,Upheaval Barbarian
 
+[maxroll.gg Minion Barbarian](https://maxroll.gg/d4/build-guides/minion-barbarian-guide)
+1. 스킬: 외침3개+선조의귀환, 돌진, 파열 
+
 [개굴덱 소돌 지진야만](https://www.youtube.com/watch?v=5CtEn9ru0UA&t=302s)
 1. 무기: 분노관리 위상(분노가 40보다 많을시 광폭화)
 2. 한손무기는 검으로: 극대화피해
