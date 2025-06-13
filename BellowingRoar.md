@@ -35,6 +35,12 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season8 Belial's Return 지진 바바,Upheaval Barbarian
 
+**광폭화** 란:피해량이 25%곱으로 증가,이동속도가 15%합으로 증가,5초동안
+머리는 **못생긴놈** 손은 **운명의주먹** 필수인듯
+
+1. **산의분노(Mountain's Fury)**가 있으면 요거먼저 해보자 : 달려들기로 지진을 충첩시켜서 선망으로 폭발시킨다.(산의분노,Mountain's Fury)  
+2. **하로가스(Harrogath)**와 **세번째칼날(The Third Blade)**이 있으면 소돌,파열로 출혈생성하여 쿨다운을 줄여서 선조를 발동
+
 [크리티컬 딜러 선조귀환 빌드](https://www.youtube.com/watch?v=QjtnbKCvsgI)
 
 0. 스킬: 함성3+선조+소돌+파열
@@ -52,6 +58,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [게임하는 무드 지진 선망빌드](https://www.youtube.com/watch?v=I6cDVRBdMns&t=12s)
 0. 스킬: 함성3+선조+달려들기+선망 : 선조를 무한으로 소환(선조의 지진이 메인딜!)
 1. 하로가스->산의분노,명멸걸음장화 
+
 
 [게임하는 무드 영벌 선조빌드](https://www.youtube.com/watch?v=EwwWHhNq0Ls)
 
