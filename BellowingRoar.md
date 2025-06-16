@@ -35,6 +35,7 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season8 Shred Druid(B Tier)
 [maxroll Shred Druid Leveling](https://maxroll.gg/d4/build-guides/shred-druid-leveling-guide)
+
 [wowhead shred Druid Leveling](https://www.wowhead.com/diablo-4/build/shred-druid-leveling-37908)
 1. If you enjoy aggressive, up-close combat, this build is for you!
 2. Stormclaw's,스톰클로의 위상(분열된 봉우리),Retaliation(보복의 위상,건조한 초원)
