@@ -34,6 +34,21 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 
 ## Diablo4 Season8 Shred Druid(B Tier)
+
+[백범로 칼날발톱](https://www.youtube.com/watch?v=bVfSdsyweSw)
+
+1. 
+
+[크리티컬딜러 칼날 고인돌 디4 시즌4](https://www.youtube.com/watch?v=PmUA1DwFZoU)
+
+2. 싹쓸바람스킬에 바위를 얹어 돌리면서 폭딜을 하는 방식(고인돌 고유 목걸이+ 변형 돌의 위상,깨진돌 위상,티볼트의의지,자연의 위상)
+    - 티볼트의 저지불가효과는  대지방벽으로 3초동안 저지불가효과,짖밟기(돌진,저지불가)
+    - 자연의격노: 대지기술인 바위와 대지방벽을 사용시 확률적으로 싹쓸바람의 쿨이 돈다
+    - 기술 석화,대지방벽,싹쓸,짖밟기(돌지),바위,칼날
+    - 자연의 야만성 위상(늑대인간기술이 폭풍기술로,곰인간기술이 대지기술로,그래서 칼날스킬이 폭풍기술로 취급)
+    - 자원소모없이 더많은 돌덩이를 돌릴수 있다
+    - 자원관련 고유템 폭풍의 표효 투구와 정복자 대학살의 욕망 전설노드, 내면의 야수 노드  
+    - 자원생성과 자원소모감소할 수있는 여러 수단 , 어스름위상
 [maxroll Shred Druid Leveling](https://maxroll.gg/d4/build-guides/shred-druid-leveling-guide)
 
 [wowhead shred Druid Leveling](https://www.wowhead.com/diablo-4/build/shred-druid-leveling-37908)
