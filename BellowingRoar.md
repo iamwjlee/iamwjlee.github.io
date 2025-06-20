@@ -46,6 +46,12 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     - 우두머리 상대로 늑대에게 탱킹시키고 거리벌려서 딜
     - 쿠에룬으로 대지방벽을 사용할수 있다,단 대지방벽스킬을 찍어야,스킬창에 없어도
 
+[maxroll Shred Druid 엔드게임 가이드](https://maxroll.gg/d4/build-guides/shred-druid-guide)
+1. Mythic Skills: 대지방벽,피의울부짖음,쇠약해지는포효,Maul,Shred
+2. Paragon Boards: 시작(아웃매치)-대학살에 대한욕망(감전) -고조된 악의(정령) - 내면의야수(골키퍼) - 조상의 안내(송곳니와 발톱)
+3. 멸망의 후계자(핵심기술+7), 폭풍발톱의지팡이,신발(와일드하트 배고픔) ,별반지(핵심기술+3)
+
+
 [라이더 디4시즌7 대격변 드루이드](https://www.youtube.com/watch?v=epxbE1ARC4Q)
 
 1. 묠니르의 반지
@@ -84,7 +90,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [wowhead shred Druid Leveling](https://www.wowhead.com/diablo-4/build/shred-druid-leveling-37908)
 
 1. If you enjoy aggressive, up-close combat, this build is for you!
-2. Stormclaw's,스톰클로의 위상(분열된 봉우리),Retaliation(보복의 위상,건조한 초원)
+2. Stormclaw's,스톰클로의 위상(분열된 봉우리): 메인핸드에적용,Retaliation(보복의 위상,건조한 초원,목걸이에 )
+3. 자원관련 위상 : Calm Breeze(잔잔한 산들바람의 위상,반지에) and Unsatiated(만족하지 못하는 것의 양상,반지에)
 
 ## Diablo4 Season8 Belial's Return 지진 바바,Upheaval Barbarian
 
