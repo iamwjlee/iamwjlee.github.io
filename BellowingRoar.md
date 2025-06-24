@@ -38,8 +38,24 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     - 철갑가죽(화신),역습/와류(화신),참화,사냥꾼(궁극기),유린자(화신),깃털일제사격
     - 무기 케펠레케의 막대    
 
+## Diablo4 Season8 Rushing Claw Spritborn Endgame Build Guide
+### maxroll.gg 의 Spritborn Speedfarming Builds Tier List
+0. Gorilla and Jaguar spirit halls
+1. 독성피부(5/5)는 이빌드의 핵심기술 : 수많은 쿨다운 감소로 항시 적용
+2. Ferocity(포악함,사나움) -> Mystic circle(평원의 위상)
+3. Dodge chance(회피기회)
+
+4. 철갑가죽(화신),역습(화신)은 측두절개의 위상으로 인해 영구적으로 활성화.
+5. 패러곤
+    - 시작 (민첩->지네기술피해)
+    - **끈적이는 보호막**<장벽으로 최대생명력의 3%를 유지시 피해1%증가>(민첩->치명타피해)
+    - 군중제어피해 30%(힘->독피해)  
+    - 6가지속성중 2가지피해의 20% 추가피해(영리한,지능->비물리피해)
+    - **쇠약**동일한 정신으로 고릴라 재규어 독수리 지네의 스킬을 3개연속 시전시 5초간 활력과데미지 증가(민첩->치명타피해)
 
 ## Diablo4 Season8 Shred/Rushing Claw Druid(B Tier)
+
+
 
 1. 위상
     - 목걸이: 굳센 타격의 위상(고릴라기술시전시 방어도에 따라 공격력 증가)
