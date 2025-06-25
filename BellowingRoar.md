@@ -38,6 +38,10 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
     - 철갑가죽(화신),역습/와류(화신),참화,사냥꾼(궁극기),유린자(화신),깃털일제사격
     - 무기 케펠레케의 막대    
 
+## Stinger Centipede 독침지네
+    - focuses on th Poison from Pestilent Swarms
+    - Gather enemies with Vortex and Activate Scourge then Spam Stinger to deal damage
+
 ## Diablo4 Season8 Rushing Claw Spritborn Endgame Build Guide
 ### maxroll.gg 의 Spritborn Speedfarming Builds Tier List
 0. Gorilla and Jaguar spirit halls
