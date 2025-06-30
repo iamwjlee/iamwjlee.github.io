@@ -32,6 +32,12 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
+## Diablo4 Season9 Horadric Spell
+### Season9 theme is ths Sins of the Horadrim.
+1. Balazan Rake(갈퀴발톱) Spritborn
+2. Balazan Thrash(후리기) Spritborn
+3. Evade Spritborn(독수리,독수리)
+4. Stinger Spritborn Leveling(독수리,재규어)
 ## Diablo4 Season8 Quill Volley Eagle Druid(A Tier)
 
 1. 기술
