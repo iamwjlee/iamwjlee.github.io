@@ -33,8 +33,22 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
+[Evade Spiritborn Leveling Guide](https://maxroll.gg/d4/build-guides/evade-spiritborn-leveling-guide)
 
 [Quill Volley Spiritborn Leveling Guide](https://maxroll.gg/d4/build-guides/quill-volley-spiritborn-leveling-guide)
+1. 촉매:
+2. 스킬: 철갑가죽,역습은 놀라운 생존력을 제공합니다. 비상(Soar)은 초반에 
+3. SHIFT를 누르고 회피(피하기)를 누른다. "위치유지" 보장및 타겟이 없어도 썬더스파이크가 계속 시전된다.
+4. 위상
+    - 고릴라 스킬을 사용하면 3초동안 무기 공격력이 방어력의 30%만큼 증가
+    - 방어확률의 70%만클 치명타 피해증가, 방어시 2배
+5. 담금질
+    - 방어구: 매초 보호막 축적 최대10%
+    - 손,반지: +40% 폭풍깃털 효능
+    - 신발,목걸이: 치확, 피하기 재감
+    - 신발: 공격시 회피 재사용 대기시간 감소
+    - 무기:+30% 주독수리 영혼전당 효능
+
 
 [Rock Splitter Thorns Spritborn Leveling Guide](https://maxroll.gg/d4/build-guides/thorns-spiritborn-leveling-guide)
 
