@@ -33,6 +33,25 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
+
+[고통받는 메피스토 히드라 원소](https://www.youtube.com/watch?v=rztJwyHU_1Y)
+
+1. 레벨 112에 고행4 ㅋ
+
+[르네 물총](https://www.youtube.com/watch?v=7wjU6q-TbUc)
+
+0. 피하기 재감 : 목걸이와신발에 담금질
+0. 스킬: 비상,철갑,역습,유린자,사냥꾼,천둥쐐기
+1. 고행4(나락 55단) 권장커트라인 800세파 8강/정복자 150렙 이상/문양 평균 40레벨 이상
+2. 폭풍깃털위력 담금질 - 장갑,반지
+3. 굳센타격의 위상 쿨 돌리기: 철갑->사냥꾼 with 교묘함 패시브 쿨이 도는 동안 유린자/역습 유지 ...반복
+    - 굳센 위상: 고릴라 기술시전ㅅ 3초 동안 방어도에 따른 무기 공격력 증가
+    - 적황색 갑각 고유템=쿨 리셋,쳄+쿠에룬으로 보호막
+    - 충의투구
+    - 세파존텍 : 기본기술이 항상 3번째 공격 사용(천둥쐐기 3타 효과인 피하기 쿨 5초감소 상시 적용)
+        - 두리엘 , 안다리엘 ,증오의 사도, 벨리알
+    - 
+
 [Evade Spiritborn Leveling Guide](https://maxroll.gg/d4/build-guides/evade-spiritborn-leveling-guide)
 
 [Quill Volley Spiritborn Leveling Guide](https://maxroll.gg/d4/build-guides/quill-volley-spiritborn-leveling-guide)
