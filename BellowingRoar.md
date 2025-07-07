@@ -37,7 +37,8 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [개굴덱 히드라 원소술사](https://www.youtube.com/watch?v=5FmedKg4xwY)
  
 1. 전설노드 마법부여전문가 먼저, 방화광,정령술사,전술가 - 15레벨 우선으로  
-2. 106레벨에 고행3단 클리어
+2. 106레벨에 고행3단 클리어,무기 8강
+3. 110렙에 고행4단 , 고유템 뱀의홍채,탈라샤 
 
 [고통받는 메피스토 히드라 원소](https://www.youtube.com/watch?v=rztJwyHU_1Y)
 
