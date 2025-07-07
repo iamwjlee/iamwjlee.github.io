@@ -34,6 +34,11 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
 
+[개굴덱 히드라 원소술사](https://www.youtube.com/watch?v=5FmedKg4xwY)
+ 
+1. 전설노드 마법부여전문가 먼저, 방화광,정령술사,전술가 - 15레벨 우선으로  
+2. 106레벨에 고행3단 클리어
+
 [고통받는 메피스토 히드라 원소](https://www.youtube.com/watch?v=rztJwyHU_1Y)
 
 1. 레벨 112에 고행4 ㅋ
