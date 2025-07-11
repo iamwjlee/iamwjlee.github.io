@@ -33,6 +33,12 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
+
+#### CDR(Evade Cooldown Reduction)  [maxroll](https://maxroll.gg/d4/build-guides/hydra-sorcerer-guide) Why aren't you stacking Crit Chance?
+#### Starter Ancestral Mythic
+#### Conjurer Glyph 
+
+#### 중요사항
 1. 순간이동은 스킬창에 없어도 마법부여로 지정했다면 
 2. 피하기 누르고 공격을 해봐 얼마나 빨리 피하기 쿨이 돌아오는지 확인!
 3. 뱀의홍채는 히드라를 핵심기술로 가능하게 해준다! 그래서 별반지와 장갑에 핵심기술 명품화!
