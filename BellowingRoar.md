@@ -34,6 +34,14 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
 
+[크리티컬딜러 얼음파편 히드라 100단 널널](https://www.youtube.com/watch?v=-DNeNirlhrU)
+1. 반지: 내면의(3초동안) 별반지 대체 : 쉬프트키를 누르고 피하기를 누르면 "가만히 서 있는 동안 주는 피해가 상당히 증가합니다" 아이콘이 고정이 된다(계속 유지가 된다)!!!!! - 필수 확인
+    - 쉬프트를 항시 누르고 피하기로만 이동해야(재자리 판정,내면의 유지된다) + 기술트리의 영혼의불꽃(3/3)
+2. 가슴 정신집중으로 수의대체   
+3. 스킬: 얼음파편,구렁이,지옥불,칼날,얼음갑옷,사역마 // 순간이동이 없다! 
+    - 얼음파편을 계속눌러 피하기쿨을 줄인다
+    - 명멸걸음의 피하기 - 궁그기 쿨감
+
 #### CDR(Evade Cooldown Reduction)  [maxroll](https://maxroll.gg/d4/build-guides/hydra-sorcerer-guide) Why aren't you stacking Crit Chance?
 #### Starter Ancestral Mythic
 #### Conjurer Glyph 
