@@ -34,6 +34,15 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
 
+[푸들멈머 원소술사 맨땅 히드라 나락70](https://www.youtube.com/watch?v=YqPuNLhYlMY)
+
+1. 마법부여: 히드라,화염구
+2. 궁극기없이 히드라만 : 번개창,히드라,순간,사역,얼음,칼날 
+3. 내가 정독해야!!!
+
+[푸들멈머 원소술사 플리커 히드라 버전2: 정복자 셋팅참조하시라](https://www.youtube.com/watch?v=nU4COULQmjc)
+
+
 [크리티컬딜러 얼음파편 히드라 100단 널널](https://www.youtube.com/watch?v=-DNeNirlhrU)
 1. 반지: 내면의(3초동안) 별반지 대체 : 쉬프트키를 누르고 피하기를 누르면 "가만히 서 있는 동안 주는 피해가 상당히 증가합니다" 아이콘이 고정이 된다(계속 유지가 된다)!!!!! - 필수 확인
     - 쉬프트를 항시 누르고 피하기로만 이동해야(재자리 판정,내면의 유지된다) + 기술트리의 영혼의불꽃(3/3)
