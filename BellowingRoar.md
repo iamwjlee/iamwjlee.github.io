@@ -34,6 +34,10 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
 
+[게임하는무드 야만용사 달려들기](https://www.youtube.com/watch?v=cEgiYPbRI6g)
+- 190레벨에 나락70단
+- 달려들기에 출혈을 이용해 하로가스의 재감을 이용한다
+
 [메쿠나 원소술사 빌드   설명](https://www.youtube.com/watch?v=bT9mod9BEvU)
 [Mekuna 고행1~4](https://mobalytics.gg/diablo-4/profile/488e94b2-25a8-4b09-95aa-f74e532482cc/builds/e379f0b6-8797-43de-93de-65e23005b90e)
 
