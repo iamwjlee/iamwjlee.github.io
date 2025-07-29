@@ -33,6 +33,11 @@ branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 �
 [But what is a neural network? Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Diablo4 Season9 theme is ths Sins of the Horadrim.
+[더큐 독가시 발라잔 짓손 혼령사](https://www.youtube.com/watch?v=EKssHexC-EQ&t=23s)
+- 결투사의 장화: 짓이기는 손에 명품화 저격, 방어도 어픽
+- 스킬: 유린자,독성피부,역습 -> 와류 -> (사냥꾼) -> 짓손
+- 가시 + 중독 + 독기공명 + 재규어 + 포악한예언자 
+- 마을 공속 93 권장, 별반,서슬판금,운명의 주먹이 선행되어야
 
 [크딜의 세파존텍 파밍세팅](https://www.youtube.com/watch?v=xxAalFejzfA)
 - 세파존텍(듀리엘,안다,사도),충의의어깨걸이(그리구아르),신발
