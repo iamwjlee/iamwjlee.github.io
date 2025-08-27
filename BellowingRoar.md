@@ -6,14 +6,15 @@
 ## Poe2 Season3 Starter
 
 [지베이스 스타터](https://www.youtube.com/watch?v=ECzWtCbuujw)
-[르네 스타터](https://www.youtube.com/watch?v=fJA2QHDiJg8)
 
 1. 리치 스타터
     * ED(정수흡수)로 액트를 편하게
     * 충격파편 최후의한탄 유니크
 2. 데드아이 블러드메이지    
 
-3. 직업
+[르네 스타터](https://www.youtube.com/watch?v=fJA2QHDiJg8)
+
+1. 직업
     * 위치 (블러드 메이지,인퍼널리스트) : 초반ED(정수흡수+전염)
     * 레인저 (데드아이, 패스파인더)
     * 몽크 (인보커,차율라)
