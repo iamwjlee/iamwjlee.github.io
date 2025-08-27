@@ -3,6 +3,23 @@
 ### 우레와같은 울부짖음 
 ![우레와같은울부짖음](./res/우레와같은울부짖음.png)
 
+## Poe2 Season3 Starter
+
+[지베이스 스타터](https://www.youtube.com/watch?v=ECzWtCbuujw)
+[르네 스타터](https://www.youtube.com/watch?v=fJA2QHDiJg8)
+
+1. 리치 스타터
+    * ED(정수흡수)로 액트를 편하게
+    * 충격파편 최후의한탄 유니크
+2. 데드아이 블러드메이지    
+
+3. 직업
+    * 위치 (블러드 메이지,인퍼널리스트)
+    * 레인저 (데드아이, 패스파인더)
+    * 소서리스 (스톰위버,크로노맨서)
+    * 몽크 (인보커,차율라)
+    * 머서너리 (위치헌터, 젬링 리저네어)
+
 Create PullRequest,Merge PullRequest 하지마!
 여기서는 branch 만들면 안돼!!!
 branch 지우고자 하면, 현재의 branch를 바꾸고 vsc에서 커맨드 파렛에 가서 git delete branch 쳐봐!
