@@ -5,7 +5,9 @@
 
 ## Poe2 Season3 Starter
 
-[지베이스 스타터](https://www.youtube.com/watch?v=ECzWtCbuujw)
+[김학구 블메 스타터](https://www.youtube.com/watch?v=-C5aMPoK2ds)
+
+[지베이스 리치 스타터](https://www.youtube.com/watch?v=ECzWtCbuujw)
 
 1. 리치 스타터
     * ED(정수흡수)로 액트를 편하게
