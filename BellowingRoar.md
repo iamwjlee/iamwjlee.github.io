@@ -5,8 +5,16 @@
 
 
 ## 디아4 시즌10
+1. 회사컴 : 
+    * 가상메모리 15232mb
+    * i7-8700 cpu @3.2ghz
+    * ram 16gb
+    * windows 11 home(12h2)
+    * nbidia geforce gtx 1060 6gb
+
 1. 디아블로4 저사양 설정
     * 작업관리자 - 세부사항 - 디아블로 우클릭 - 선호도 설정에서 CPU를 한두개 체크 해제
+
 
 ## Poe2 Season3 Starter
 [아즈메리 서판사용법](https://www.youtube.com/watch?v=NbgGxUliyPA&t=10s)
