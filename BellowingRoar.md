@@ -5,6 +5,9 @@
 
 
 ## 디아4 시즌10
+
+[WusMoon의 맹독 칼춤 도적 엔드셋팅](https://www.youtube.com/watch?v=mzLI0HgkCGQ)
+
 1. amd 궁극의 매끄러운 게임플레이를 위한 권장 설정
     * FreeSync ON
     * Radeon Anti-lag ON
