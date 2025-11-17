@@ -14,7 +14,7 @@
 7. 포탈 주문서 사용 - 지정해 줘야 - 죽을꺼 같으면 눌러 
 8. 2돌,3돌 총포런?
 9. 공허석 수집
-
+[poe1  뉴비 입문 가이드](https://www.youtube.com/watch?v=rdxpTSh5Iuk)
 
 ```
 https://poedb.tw/kr/
