@@ -14,13 +14,14 @@
 7. 포탈 주문서 사용 - 지정해 줘야 - 죽을꺼 같으면 눌러 
 8. 2돌,3돌 총포런?
 9. 공허석 수집
-[poe1  뉴비 입문 가이드](https://www.youtube.com/watch?v=rdxpTSh5Iuk)
 
 ```
 https://poedb.tw/kr/
 크롬 웹스토어의 나랏말서미누기 poe 는 poe닌자와 웰시엑자일에서 한글번역으로 만들어준다
 poe1.ninja
 ```
+
+[poe1  뉴비 입문 가이드](https://www.youtube.com/watch?v=rdxpTSh5Iuk)
 
 ## 디아4 시즌10
 
