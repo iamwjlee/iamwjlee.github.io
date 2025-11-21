@@ -5,6 +5,22 @@
 
 ## POE1 3.27 리그 Keepers of the Flames(불길의 수호자들)
 
+1. 3.27 추천 스타터빌드 게이머비누
+    * 완더 워든/엘리 - 역학폭발!
+    * 지면분쇄 버서커(슬레이어,치프틴,저거넛)
+    * RF 치프틴
+    * 반동의 독성 혼합물
+    * 엘리 물리도트
+    * 데드아이 아쳐
+    * 데드아이 클로맨(독액선회,코브라 채찍)
+    * 출혈 슬램 슬레이어
+2. 3.27 시즌에 새롭게 추가된 기원의 나무 스킬 트리
+
+3. Righteous Fire Chieftain Build
+
+[Pohx's RF 빌드](https://www.poe-vault.com/guides/righteous-fire-chieftain-build-guide)
+[개굴덱의 RF가이드 보충자료](https://riseweb.tistory.com/83#:~:text=RF%20%EC%A6%89%20%EC%A0%95%EC%9D%98%EC%9D%98%20%ED%99%94%EC%97%BC%EC%9D%80%20%EC%BA%90%EB%A6%AD%ED%84%B0%20%EC%A3%BC%EC%9C%84%EC%9D%98%20%EC%A0%81%EC%9D%84%20%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C,%EC%A0%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC%20%EB%94%B0%EB%9D%BC%EC%98%A4%EA%B8%B0%EB%B3%B4%EB%8B%A8%20%EC%9B%90%EC%9E%91%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%A5%BC%20%EB%B3%B4%EC%8B%9C%EB%8A%94%EA%B1%B8%20%EA%B6%8C%EC%9E%A5%20%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.)
+
 1. 데드아이,워든,역폭스타터,전광판,버서커 지면분쇄,완더 스타터를 성능 픽으로 할 수있다는거 자체가 너무 매력,완더/어센,레인저 충격화살-기세보조
 
 2. 1차 전직 적정레벨은 33 19개의 전직클래스가 있다, 직업마다 고유한 추가 전직 트리, 군주의미궁을 첨 완료시 현재 클래스와 연관된 세 개의 전직 클래스 중 하나를 선택할 수,
