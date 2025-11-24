@@ -5,6 +5,10 @@
 
 ## POE1 3.27 리그 Keepers of the Flames(불길의 수호자들)
 
+[PoEasy의 치프틴 RF](https://www.youtube.com/watch?v=phNquX8EL78)
+1. 2장에서 오라 명상,활력
+2. 방열 에 잔혹 연결(빨빨)
+
 1. 3.27 추천 스타터빌드 게이머비누
     * 완더 워든/엘리 - 역학폭발!
     * 지면분쇄 버서커(슬레이어,치프틴,저거넛)
