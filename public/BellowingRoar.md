@@ -1,5 +1,3 @@
-# Download: <a href="/public/BellowingRoar.zip" download>Download BellowingRoar.zip</a>
-
 # Bellowing Roar
 
 ### 우레와같은 울부짖음 
