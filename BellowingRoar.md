@@ -1,4 +1,6 @@
+<!--
 # Download: <a href="/public/BellowingRoar.zip" download>Download BellowingRoar.zip</a>
+-->
 
 # Bellowing Roar
 
@@ -6,7 +8,18 @@
 ![우레와같은울부짖음](./res/우레와같은울부짖음.png)
 
 ## Diablo 시즌11 시작일: 2025년 12월 11일
-## POE2 12월 13일 새시즌 시즌4
+## POE2(0.4.0) 12월 13일 새시즌 시즌4
+[담연의 위치 스타터](https://www.youtube.com/watch?v=ZyyS_-e7Lrk&t=4s)
+1. 정수흡수 - 시전속도증가 - 관통 - 고통격화
+2. 전염 - 효과범위 - 격렬한 고통(2티어보조젬)
+3. 절망 - 조고된 저주
+4. 고사시키는 존재(버프 정신력) - 지속시간 증폭
+5. 3:07 패스브스킬
+6. 마법봉에서는 모든카오스주문스킬레벨 +2
+7. 엑트1에서는 셉터,이후 집중구
+
+[김학구의 위치 스타터](https://www.youtube.com/watch?v=Bv5AI2anWz8)
+
 [르네의 스타트추천](https://www.youtube.com/watch?v=fJA2QHDiJg8)
 1. 추천 레인저 데드아이- 아이스 활계열 + 얼어붙은포화+저격
 2. 추천 위치(초반ED 이후 블메)
