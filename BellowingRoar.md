@@ -9,6 +9,9 @@
 
 ## Diablo 시즌11 시작일: 2025년 12월 11일
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
+
+[김학구의 리치에서 블메로 위치 스타터#2](https://www.youtube.com/watch?v=Bv5AI2anWz8&t=784s)
+[겜창의삶 카오스 제웅 리치 가이드](https://www.youtube.com/watch?v=A1mX-zCnJlU&t=563s)
 [담연의 위치 스타터](https://www.youtube.com/watch?v=ZyyS_-e7Lrk&t=4s)
 1. 정수흡수 - 시전속도증가 - 관통 - 고통격화
 2. 전염 - 효과범위 - 격렬한 고통(2티어보조젬)
