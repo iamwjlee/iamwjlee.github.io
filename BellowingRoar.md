@@ -10,9 +10,35 @@
 ## Diablo 시즌11 시작일: 2025년 12월 11일
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
 
+[디디 악마인퍼널 ED 뼈폭풍 스타터](https://www.youtube.com/watch?v=GtVwA2EKpi8)
+1. 엔드게임진입후 15티어진입
+2. 악마의 형상에 압도적인 기동력사용 리치대신 사용
+3. 빌드의 핵심
+    - 뼈폭풍(Bonestorm) : 꿰뚫기(Penetration)+추출(Extraction)
+    - 살아있는번개(Living Lighting)
+    - 전염과 정수흡수
+4. 작동원리 : 뼈폭풍,꿰뚫기스택중첩 -> 살아있는 번개소환 -> 살아있는 번개 소환수의 꿰뚫기 스택을 추출하여 데미지 유발 (폭풍보주에 살아있는번개를 연결하여 사용)
+5. Support Gem Priority : 촉발->빠른시전1->연쇄->고통격화1->포악함1->살아있는번개1->연쇄2->격렬한고통->신중한시전
+
+6. 액트1 지오너백작 : 
+    - 뼈폭풍(5레벨스킬젬):빠른시전+포악함
+        - 뼈폭풍시전후 다시시전하면 이속패널티없이 무빙샷가능
+    - 폭풍보주:살아있는번개+촉발
+    - 정수흡수:연쇄+고통격화
+    - 시전속도아이템이 많으면 전염에 아니면 뼈폭풍에 퀄리티를 올려준다.
+7. 액트2
+8. 액트3  33렙이후에 이속20%장화와 36렙렐부터 +3스킬마법봉
+9. 보스들의 경우 페이즈 변환시점에서 캐릭터 선택창을 다녀오면 보스피가 그대로 유지
+10. [스킬트리링크](https://drive.google.com/file/d/1jsW0DkOALQnfq5-JHYZ94gD3z4ZZ6RtT/view)
+11. [문서링크](https://drive.google.com/file/d/1HGpSvu2BpHwcqRaMcKGctM5nhIWkMawG/view)
+12. [체크리스트](https://drive.google.com/file/d/1-VK17ml-k6WP-WDlEm3GYTbL4HQyUwIH/view)
+
 [김학구의 리치에서 블메로 위치 스타터#2](https://www.youtube.com/watch?v=Bv5AI2anWz8&t=784s)
 [겜창의삶 카오스 제웅 리치 가이드](https://www.youtube.com/watch?v=A1mX-zCnJlU&t=563s)
+
 [담연의 위치 스타터](https://www.youtube.com/watch?v=ZyyS_-e7Lrk&t=4s)
+
+
 1. 정수흡수 - 시전속도증가 - 관통 - 고통격화
 2. 전염 - 효과범위 - 격렬한 고통(2티어보조젬)
 3. 절망 - 조고된 저주
@@ -20,6 +46,8 @@
 5. 3:07 패스브스킬
 6. 마법봉에서는 모든카오스주문스킬레벨 +2
 7. 엑트1에서는 셉터,이후 집중구
+
+
 
 [김학구의 위치 스타터](https://www.youtube.com/watch?v=Bv5AI2anWz8)
 
