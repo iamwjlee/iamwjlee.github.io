@@ -10,6 +10,8 @@
 ## Diablo 시즌11 시작일: 2025년 12월 11일
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
 
+[석쓰의 독 패스파인더](https://www.youtube.com/watch?v=VKJAFDdcgcs)
+
 [디디 악마인퍼널 ED 뼈폭풍 스타터](https://www.youtube.com/watch?v=GtVwA2EKpi8)
 1. 엔드게임진입후 15티어진입
 2. 악마의 형상에 압도적인 기동력사용 리치대신 사용
