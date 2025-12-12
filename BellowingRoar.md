@@ -10,6 +10,11 @@
 ## Diablo 시즌11 시작일: 2025년 12월 11일
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
 
+[Fubgun 0.4 Posionburst Pathfinder Leveling Guide](https://mobalytics.gg/poe-2/builds/fubgun-poisonburst-pathfinder-leveling)
+
+1. A will auto proc your B : A가 B를 자동으로 처리한다  가스애로우->독성성장
+2. Herald of Blood(피의전령)
+
 [석쓰의 독 패스파인더](https://www.youtube.com/watch?v=VKJAFDdcgcs)
 
 [디디 악마인퍼널 ED 뼈폭풍 스타터](https://www.youtube.com/watch?v=GtVwA2EKpi8)
