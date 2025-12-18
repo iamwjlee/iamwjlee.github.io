@@ -51,6 +51,12 @@
     보조장비 중독확률 99% ? 확인해봐
     주얼: 상태이상의 강도 %증가
 ```
+[석쓰의 독 패스파인더](https://www.youtube.com/watch?v=VKJAFDdcgcs&t=201s)
+1. 독폭발화살 - 출혈3,치명적인중독2,터져나오는 역병,폭발투사체,거역2
+2. 피의전령에서  독과출혈
+3. 맹독성 종양 - 긴퓨즈2,극기2/치명적인중독2,범위집중,아라칼리,
+4. 가스화살 - 폭발투사체1,유지되는 대지3,치명적인중독2,극기2
+5. 바람의유희 - 원소병기2,중독3,치명적인 중독2,출혈3
 
 [kuro의 원버튼 중독 패스파인더](https://www.youtube.com/watch?v=2F4MVF3f9RY)
 [원버튼 세팅 문서](https://docs.google.com/spreadsheets/d/1TGx2oKwnbIZaWUYNQa1IKAdO4kuuTsdAnrGfsE1Quxw/edit?gid=2048696002#gid=2048696002)
