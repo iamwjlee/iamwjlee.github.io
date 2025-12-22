@@ -17,6 +17,7 @@
 1. 활 dps 300, 450~500, 600이상+치명타
 1. 카디로(Cadiro's Gambit)의 책략 화살통
 1. *** 하이리(Hyrri's Ire)의 노여움 가슴
+
 [석쓰의 중독 패스파인더](https://www.youtube.com/watch?v=-4-Fsi8PMIw)
 
 [청운하의 가성비 미쳐버린 중독빌드](https://www.youtube.com/watch?v=okEJA7tgpI0)
