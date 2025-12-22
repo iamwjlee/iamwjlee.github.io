@@ -9,7 +9,16 @@
 
 ## Diablo 시즌11 시작일: 2025년 12월 11일
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
+
+[김학구 중독패스파인더 총정리](https://www.youtube.com/watch?v=MW8YaCeSpFM)
+1. *** 역병손가락 Plaguefinger 거즈 싸개(3딥이 넘어)/전도성균열(1딥이하) 
+1. 생명력: 1575,보호막: 2686 마나:626 정신력: 205 회피:71%
+1. 갑옷회피 2000 투구에쉴 400 
+1. 활 dps 300, 450~500, 600이상+치명타
+1. 카디로(Cadiro's Gambit)의 책략 화살통
+1. *** 하이리(Hyrri's Ire)의 노여움 가슴
 [석쓰의 중독 패스파인더](https://www.youtube.com/watch?v=-4-Fsi8PMIw)
+
 [청운하의 가성비 미쳐버린 중독빌드](https://www.youtube.com/watch?v=okEJA7tgpI0)
 ```
 패시브스킬 : 9:53
