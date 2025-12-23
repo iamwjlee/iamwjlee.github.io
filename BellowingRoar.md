@@ -42,6 +42,8 @@ POE2 '적대적 영역(Hostile Takeover)' 퀘스트는 액트 4의 필수 퀘스
 처음 시작할때 솔로 모드로 하면 그렇게되요 ㅎㅎ
 케릭터 선택창으로 가셔서 리그 이전 누르면 해결되요    
 
+해안선 은신처로 가야 된대
+
 ```
 
 [전리품의 패스파인더 엔드게임](https://www.youtube.com/watch?v=QIqlN1WsIqg)
