@@ -10,10 +10,23 @@
 ## Diablo 시즌11 시작일: 2025년 12월 11일
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
 
-[웅키둥키의 냉기팡팡 폭발성 사격](https://www.youtube.com/watch?v=vLIzgtpNMv8)
-
+```bash
+git init YOUR-REPOSITORY
+```
 [!TIP] 보여!
 [!NOTE] 팁여
+
+```javascript 
+const copyMe = true
+```
+```cpp 
+const copyMe = true
+```
+
+
+[웅키둥키의 냉기팡팡 폭발성 사격](https://www.youtube.com/watch?v=vLIzgtpNMv8)
+
+
 
 1. 컨셉은 냉기팡팡 폭발성 사격, 보스용 딜링은 태풍파열볼트
 2. 폭발성사격: 라타의 공격,아르준의 메달,혹독,다중사격2,라키아타의 흐흠
