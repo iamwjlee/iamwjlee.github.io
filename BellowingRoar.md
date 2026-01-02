@@ -23,6 +23,7 @@ const copyMe = true
 const copyMe = true
 ```
 [미러빌드의 패스파인더 석궁 충격파편,빙하볼트 가이드](https://www.youtube.com/watch?v=eNJJsNP9tLU&t=569s)
+1. 무기는 공격속도와 레벨+3 먼저!
 1. 신기루궁수: 1번 무기
 2. 빙하볼트: 2번무기
 3. 영구결빙볼트: 사용무
