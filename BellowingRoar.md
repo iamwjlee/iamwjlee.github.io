@@ -22,7 +22,15 @@ const copyMe = true
 ```cpp 
 const copyMe = true
 ```
-
+[미러빌드의 패스파인더 석궁 충격파편,빙하볼트 가이드](https://www.youtube.com/watch?v=eNJJsNP9tLU&t=569s)
+1. 신기루궁수: 1번 무기
+2. 빙하볼트: 2번무기
+3. 영구결빙볼트: 사용무
+4. 천둥의전령: 1번만
+5. 삼위일체: 2번
+6. 전투격분: 1,2번
+7. 충전제어: 1,2번
+8. 마람의무희: 1,2번
 
 [웅키둥키의 냉기팡팡 폭발성 사격](https://www.youtube.com/watch?v=vLIzgtpNMv8)
 
