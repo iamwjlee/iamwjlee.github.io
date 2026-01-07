@@ -2,7 +2,8 @@
 
 
 ### 우레와같은 울부짖음 
-![전염](./res/WitchContagion.png)
+![위치](./res/poe2/witch.png)
+![전염](./res/poe2/WitchContagion.png)
 
 
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
