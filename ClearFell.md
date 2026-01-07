@@ -1,7 +1,7 @@
 # Clear Fell
 
 
-### 우레와같은 울부짖음 
+### Witch's Essence Drain 
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
