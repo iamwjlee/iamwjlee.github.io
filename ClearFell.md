@@ -13,6 +13,8 @@ public delegate void ValueCallback(int value);
 이 메타데이터는 이진 형식으로 존재하므로 IDE에서 직접적인 소스 코드 파일 형태로 확인할 수는 없습니다. 대신, Visual Studio와 같은 IDE에서 외부 라이브러리의 클래스 정의로 이동할 때 보이는 내용은 컴파일된 어셈블리를 역컴파일하여 생성된 의사 코드(metadata-as-source)입니다. 이는 실제 작성된 소스 코드가 아니라 메타데이터를 기반으로 재구성된 코드입니다.     
 
 C# 9.0에서 도입된 소스 생성기는 컴파일러 파이프라인에 연결되어 컴파일 시점에 새로운 C# 소스 파일을 생성하고 기존 코드와 함께 컴파일되도록 하는 기능입니다.
+
+NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 ```
 
 ### Witch's Essence Drain 
