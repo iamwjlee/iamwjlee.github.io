@@ -1,12 +1,5 @@
 # Clear Fell
 
-``` cpp
-"정수 하나를 받고, 아무것도 반환하지 않는 함수 포인터 타입"
-typedef void (*ValueCallback)(int value);
-
-"c#에서는 정수 하나를 받고, 아무것도 반환하지 않는 함수를 가리킬 수 있는 타입을 만들기" 
-public delegate void ValueCallback(int value);
-```
 
 ### C# ide에서 자동생성된 메타데이터 소스
 ``` 
