@@ -14,7 +14,8 @@ public delegate void ValueCallback(int value);
 ```
 [.NET Framework 버전 확인 방법](https://maaani.tistory.com/417)
 
-```cmd
+```cmd 
+cmd 에서 확인하는 방법
 reg query "HKLM\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full" /v Release
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full
     Release    REG_DWORD    0x70bf6(461814) -> .NET Framework 4.7.2(현재 Arya)
