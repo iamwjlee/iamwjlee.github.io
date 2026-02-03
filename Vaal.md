@@ -4,8 +4,68 @@
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
-C# Dev Kit only supports SDK-style projects. Upgrade your project to an SDK-style project.
-Canonical.cs 프로젝트를 로드하는 동안 문제가 발생했습니다.
+### GSC 개발환경 
+```
+1. C# Dev Kit only supports SDK-style projects. 
+   Upgrade your project to an SDK-style project.
+2. Canonical.cs 프로젝트를 로드하는 동안 문제가 발생했습니다.
+```
+### GSC DLL(250207)과 명세서(2025.02.00)에 대한 질의
+```
+1. GetDllVersion() okay
+1. InitState() okay
+1. DeviceLED() okay
+1. ResetDevice() okay  //시작화면 전환 전 장치 초기화 작업 필요 시 코드 작성
+1. SelectDevice()사용 여부및 예시 //사용 시작할 디바이스
+	- 디바이스(BAR,MSR,PRN)사용시 매번 호출되는지 여부?
+	- 실제로 'BAR'를 읽을수도 있고 'MSR'도 사용될수 있는데 동시에 사용못 하고 한개만 사용하게끔 되어 있는지
+1. Dispose() okay
+
+2. PollingTargetAdd(string sNozzleNo) 사용여부및 예시 //사용할 노즐을 추가한다
+2. PollingTargetClear()
+2. RequestPumpClose(stringNozzleID, string WCC) 사용여부및 예시
+2. ResetDevice 주유기리셋  사용여부및 예시설명
+2. GSC DLL(250207) 에서 ProcessStatus(string _oStatus, string _oID) //노즐 상태값 전송예제,사용여부및 예시
+2. getNozzleNo/getID함수는 장위에서 뭔가 해줘야 될게 있는지?
+2. enable/disable 사용여부및 예시 
+
+3. SetReaderInfo() 는 com포트 번호만 하드코딩으로 끝
+3. RegisterWindowMsg() 사용여부및 예시
+
+4. 영수증 프린터 - 특이사항무
+
+5. 바코드리더기는 com포트에서 직접 통신 안됨 (요청시 바코드데이터전송하는 방법으로)
+
+GSC DLL에서 
+
+OnPropertyDataChanged(new DataPropertyChangedArgs("DataChange", clsData.StringData));
+[JWD PP]InternalLubricatorData: A05000130760000934000000000
+[JWD PP]InternalLubricatorData: A05000142950001021100000000
+[JWD TR]ProcessRefuelComplete: A05000150000001071400000000
+[JWD CT]ProcessRefuelComplete: A06987654321
+이런식으로 보내면 되는지여부?
+코드주석에 보면 예제1,2,3번이 있던데,다른 방식에 대해 설명 ?
+
+InternalCommandHandler,InternalLubricatorData,DataPropertyChangedArgs 클래스 소스제공여부는?
+
+
+6. 검량에 필요한 기차값변동등 법정파라미터의에 대한 api
+
+ 
+1. 이엔이 양병화 부장 
+2. 충전기에서 UI/결제 - 사무실/후방 포스 맞는지
+3. 현재 충전기기능(UI,결제등등)은 완료 되었고, 어느회사와 같이 개발완료/진행 중인지 ?
+3. 장위DLL를 테스트 할수 있게  GS충전기 어플리케이션을 제공할 수 있는지 ?
+	- 장위DLL테스트시 애로사항/질문등등은 어느분이 담당 하시는지
+	- 어떤식으로 개발하고 있는지
+	- 장위는 DLL만 제공하면되는지 
+
+
+
+
+```
+
+
 
 ``` cpp
 "정수 하나를 받고, 아무것도 반환하지 않는 함수 포인터 타입"
