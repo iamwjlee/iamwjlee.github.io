@@ -13,45 +13,77 @@
 
 ### GSC DLL(250207)과 명세서(2025.02.00)에 대한 질의
 ```
-1. GetDllVersion() okay
-1. InitState() okay
-1. DeviceLED() okay
-1. ResetDevice() okay  //시작화면 전환 전 장치 초기화 작업 필요 시 코드 작성
+1. GetDllVersion() 
+1. InitState(string strState1 = "",string strState2 = "",string strState3 = "") //디바이스 상태 초기화 ,초기화면 전환시 필요 작업 
+	- 3개의 인자에 대한 사용예시, State에 대한 장위에서 처리 해야 할일,실제 사용하고 있는 예시
+1. DeviceLED() 
+1. ResetDevice()  //시작화면 전환 전 장치 초기화 작업 필요 시 코드 작성
+	- 현재 사용되고 있는 예시를 설명 부탁
 1. SelectDevice()사용 여부및 예시 //사용 시작할 디바이스
 	- 디바이스(BAR,MSR,PRN)사용시 매번 호출되는지 여부?
 	- 실제로 'BAR'를 읽을수도 있고 'MSR'도 사용될수 있는데 동시에 사용못 하고 한개만 사용하게끔 되어 있는지
-1. Dispose() okay
+1. Dispose() // 필요시 공통 사용중인 리소스 해제
 
 2. PollingTargetAdd(string sNozzleNo) 사용여부및 예시 //사용할 노즐을 추가한다
-2. PollingTargetClear()
-2. RequestPumpClose(stringNozzleID, string WCC) 사용여부및 예시
-2. ResetDevice 주유기리셋  사용여부및 예시설명
+2. PollingTargetClear() //사용할 노즐 Clear 한다.
+2. RequestPumpClose(stringNozzleID, string WCC) 사용여부및 예시, 1리터마감/100원마감/1000원마감
+2. ResetDevice 주유기리셋  실제 사용여부및 예시설명
 2. GSC DLL(250207) 에서 ProcessStatus(string _oStatus, string _oID) //노즐 상태값 전송예제,사용여부및 예시
+	2018-11-20 주유 완료 후 노즐을 걸어야 신용승인 및 영수증 출력 되도록 수정하기 위해 추가
 2. getNozzleNo/getID함수는 장위에서 뭔가 해줘야 될게 있는지?
-2. enable/disable 사용여부및 예시 
-
+2. enable/disable //사용여부및 예시 - 실제 사용예시, 매번 콜되는지 여부
+	
 3. SetReaderInfo() 는 com포트 번호만 하드코딩으로 끝
-3. RegisterWindowMsg() 사용여부및 예시
+3. RegisterWindowMsg() 사용여부및 설명
 
-4. 영수증 프린터 - 특이사항무
+4. 영수증 프린터 
 
 5. 바코드리더기는 com포트에서 직접 통신 안됨 (요청시 바코드데이터전송하는 방법으로)
 
 GSC DLL에서 
-
 OnPropertyDataChanged(new DataPropertyChangedArgs("DataChange", clsData.StringData));
 [JWD PP]InternalLubricatorData: A05000130760000934000000000
 [JWD PP]InternalLubricatorData: A05000142950001021100000000
 [JWD TR]ProcessRefuelComplete: A05000150000001071400000000
 [JWD CT]ProcessRefuelComplete: A06987654321
 이런식으로 보내면 되는지여부?
-코드주석에 보면 예제1,2,3번이 있던데,다른 방식에 대해 설명 ?
+
+    /// <remarks>
+    /// 지원하는 CMD 타입:
+    /// - PP: 주유 중 데이터 (Price, Liter 사용)   단가(?),리터 
+    /// - TR: 주유 완료 데이터 (PRICE, Liter 사용)
+    /// - CT: 적산값 데이터 (TOTAL_Liter 사용)
+    /// - ER: 에러 데이터 (ERRNO 사용)  ///실제 예시 설명
+    /// 
+    /// 사용 예제:
+    /// <code>
+    /// // 예제 1: PP (주유 중) 데이터 처리
+    /// // 바이트 배열 형식: [시작바이트][CMD 2바이트][ID 2바이트][기타데이터...]
+    /// byte[] ppBytes = CreateLubricatorDataBytes("PP", "01");
+    /// var ppData = new EnELubricatorData(ppBytes);
+    /// // 주의: Price와 Liter는 실제 주유기 프로토콜에 맞게 FullByteData에 포함되어야 함
+    /// this.LubricatorData(ppData);
+    /// 
+    /// // 예제 2: 실제 주유기에서 받은 데이터 사용
+    /// // 주유기에서 수신한 바이트 배열을 직접 사용
+    /// byte[] receivedData = /* 주유기에서 수신한 데이터 */;
+    /// var receivedLubricatorData = new EnELubricatorData(receivedData);
+    /// this.LubricatorData(receivedLubricatorData);
+    /// 
+    /// // 예제 3: onReceiveData에서 사용하는 방법
+    /// // 실제 주유기 통신에서 데이터를 받았을 때
+    /// EnELubricatorData lubricatorData = /* 파싱된 데이터 */;
+    /// this.LubricatorData(lubricatorData);
+    /// </code>
+    /// 
+    /// 실제 사용은 주유기 프로토콜에 맞는 바이트 배열을 생성하거나,
+    /// 주유기에서 수신한 실제 데이터를 사용해야 합니다.
+    /// </remarks>
 
 InternalCommandHandler,InternalLubricatorData,DataPropertyChangedArgs 클래스 소스제공여부는?
 
 
 6. 검량에 필요한 기차값변동등 법정파라미터의에 대한 api
-
  
 1. 이엔이 양병화 부장 
 2. 충전기에서 UI/결제 - 사무실/후방 포스 맞는지
