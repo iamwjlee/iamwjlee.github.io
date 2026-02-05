@@ -16,6 +16,17 @@ typedef void (*ValueCallback)(int value);
 
 "c#에서는 정수 하나를 받고, 아무것도 반환하지 않는 함수를 가리킬 수 있는 타입을 만들기" 
 public delegate void ValueCallback(int value);
+
+
+//$는 C#의 문자열 보간(String Interpolation) 기호입니다.
+//문자열 앞에 $를 붙이면 {} 안에 변수나 식을 직접 삽입할 수 있습니다.
+
+// 보간 방식 ($ 사용)
+string message = "Hello";
+string result = $"[JWD] {message}";  // "[JWD] Hello"
+
+// 기존 방식 (String.Format)
+string result = string.Format("[JWD] {0}", message);  // "[JWD] Hello"
 ```
 
 ### 싱글톤과 static review...
