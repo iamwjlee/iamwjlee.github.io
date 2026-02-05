@@ -18,6 +18,10 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 ## POE2(0.4.0) 12월 13일 새시즌 시즌4
 
 [poe2 way](https://www.poe2way.com/)
+1. 원소착취,용승 사용 , 무기 1,2번 사용예 등등
+
+
+[카키카키의 소서리스 바라시타 성장가이드](https://www.youtube.com/watch?v=hCo7F4JeNMk)
 
 [CI 바라시타 빌드](https://www.youtube.com/watch?v=B6E8vnWorOE)
 1. 고통의 공물 : 지속시간연장2,희생의공물,섬뜩한 무도,브루투스의 두뇌,소환수 숙련 
