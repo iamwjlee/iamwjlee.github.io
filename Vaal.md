@@ -10,6 +10,26 @@
    Upgrade your project to an SDK-style project.
 2. Canonical.cs 프로젝트를 로드하는 동안 문제가 발생했습니다.
 ```
+``` cpp
+"정수 하나를 받고, 아무것도 반환하지 않는 함수 포인터 타입"
+typedef void (*ValueCallback)(int value);
+
+"c#에서는 정수 하나를 받고, 아무것도 반환하지 않는 함수를 가리킬 수 있는 타입을 만들기" 
+public delegate void ValueCallback(int value);
+```
+
+### 싱글톤과 static review...
+```
+CtlLubricator 는 static 으로 생성하므로 getObject() 함수를 사용할 필요가 없다.
+CtlLubricator 는 static 이므로 인스턴스 없이 호출 가능하고 여러번 호출해도 같은 인스턴스를 반환한다.(싱글톤)
+CtlLubricator 는 콜백 함수를 등록하는 함수를 가지고 있다.
+CtlLubricator 는 static 인스턴스 멤버인 _reader 를 가지고 있다.
+CtlLubricator 는 _reader를 통해 콜백 함수(네이티브 DLL의 콜백은 static 함수이므로 인스턴스 멤버를 호출할 수 없다.)를 호출한다.
+
+ProcessStatus("FDS", "01"); 호출이 static 메서드인 OnDeviceDataReceived 내에서 ProcessStatus(인스턴스 메서드)를 직접 호출하여 에러 _reader. 객체를 통해 호출해야 합니다.
+```
+
+
 
 ### GSC DLL(250207)과 명세서(2025.02.00)에 대한 질의(2026-02-04)
 ```
@@ -96,22 +116,6 @@ InternalCommandHandler,InternalLubricatorData,DataPropertyChangedArgs 클래스 
 ```
 
 
-``` cpp
-"정수 하나를 받고, 아무것도 반환하지 않는 함수 포인터 타입"
-typedef void (*ValueCallback)(int value);
-
-"c#에서는 정수 하나를 받고, 아무것도 반환하지 않는 함수를 가리킬 수 있는 타입을 만들기" 
-public delegate void ValueCallback(int value);
-```
-
-### 싱글톤과 static review...
-```
-CtlLubricator 는 static 으로 생성하므로 getObject() 함수를 사용할 필요가 없다.
-CtlLubricator 는 static 이므로 인스턴스 없이 호출 가능하고 여러번 호출해도 같은 인스턴스를 반환한다.(싱글톤)
-CtlLubricator 는 콜백 함수를 등록하는 함수를 가지고 있다.
-CtlLubricator 는 static 인스턴스 멤버인 _reader 를 가지고 있다.
-CtlLubricator 는 _reader를 통해 콜백 함수(네이티브 DLL의 콜백은 static 함수이므로 인스턴스 멤버를 호출할 수 없다.)를 호출한다.
-```
 [.NET Framework 버전 확인 방법](https://maaani.tistory.com/417)
 
 ```c#
