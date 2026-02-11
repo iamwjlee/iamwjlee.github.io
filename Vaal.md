@@ -10,12 +10,18 @@
    Upgrade your project to an SDK-style project.
 2. Canonical.cs 프로젝트를 로드하는 동안 문제가 발생했습니다.
 ```
-``` cpp
+``` c#
 "정수 하나를 받고, 아무것도 반환하지 않는 함수 포인터 타입"
 typedef void (*ValueCallback)(int value);
 
 "c#에서는 정수 하나를 받고, 아무것도 반환하지 않는 함수를 가리킬 수 있는 타입을 만들기" 
 public delegate void ValueCallback(int value);
+
+// ?? 널 병합 연산자 : Null-coalescing operator
+// 왼쪽이 null 이 아니면 그값을 반환하고 null 이면 오른쪽값을 반환
+
+FullByteData = _data ?? new byte[0];
+print("Command:{0},ID:{1}",d3.Command ?? "(null)", d3.ID ?? "(null)");
 
 
 //$는 C#의 문자열 보간(String Interpolation) 기호입니다.
