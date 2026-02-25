@@ -14,8 +14,11 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
+## POE1 3.27 리그 2025년 11월 1일(3개월간 진행 예정)   Keepers of the Flames(불길의 수호자들)
+## POE1 3.28 확장팩은 2026년 3월 7일 예정
+1. 2026-02-27에 라이브스트림으로 세부정보 공개
 
-## POE2(0.4.0) 12월 13일 새시즌 시즌4
+## POE2(0.4.0) 2025년 12월 13일 새시즌 시즌4
 
 [poe2 way](https://www.poe2way.com/)
 
