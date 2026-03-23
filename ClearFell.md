@@ -38,6 +38,9 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 5. 3돌 4돌과 지도장치 작업
 
+[자동함성과 무한아드 지며분쇄 10디바인 빌드 콘테스트](https://www.youtube.com/watch?v=aTo7sCONOFo)
+[젤또의 버서커 지면 분쇄 총포런](https://www.youtube.com/watch?v=UeI6MTsE2Ow)
+
 [출혈 글래디 1일차 산산조각](https://www.youtube.com/watch?v=9wHDeoGrNm8)
 
 ```
