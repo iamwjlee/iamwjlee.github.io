@@ -63,6 +63,9 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 [출혈 글래디 1일차 산산조각](https://www.youtube.com/watch?v=9wHDeoGrNm8)
 
+[아르의 소환수 스타터](https://www.youtube.com/watch?v=gfzC46yBKZA)
+
+
 ```
 출혈 글래디 1일차  
     영원의 투쟁 오닉스 목걸이 + 도끼마 잭 바알 손도끼(고유) + 아자디 문양 옻칠한 버클러( 실혈의 피부찢기: 출혈피해 증폭)
