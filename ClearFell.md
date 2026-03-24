@@ -44,6 +44,7 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 1. 비-집중 유지 스킬의 총마나 소모 -5
 1. 비-집중 유지 스킬의 총마나 소모 -4
 1. 자동전력 함성 5~6개
+
 [까까모리 출혈 피부찍기 글레디에이터](https://www.youtube.com/watch?v=qM1c_gk4WB0)
 1. 액트6 파우스투스 npc한테 골드 사용해서 패시브 포인트 반환해서 다시 찍을 수 있다.
 1. 스킬의 점유효율 증가(대의의 용사,무리의 우두머리)
@@ -55,7 +56,9 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
     - 보스전에 칼날폭풍-마무리타격보조-힘줄절단보조
     - 피격시 시전보조 -용암방패(액트 1에서 구매) : 피격시 시전보조 2레벨,용암방패 8레벨 고정!
     - 실혈의 피부찢기 변성젬 노가다 
-[자동함성과 무한아드 지며분쇄 10디바인 빌드 콘테스트](https://www.youtube.com/watch?v=aTo7sCONOFo)
+
+[자동함성과 무한아드 지면분쇄 10디바인 빌드 콘테스트](https://www.youtube.com/watch?v=aTo7sCONOFo)
+
 [젤또의 버서커 지면 분쇄 총포런](https://www.youtube.com/watch?v=UeI6MTsE2Ow)
 
 [출혈 글래디 1일차 산산조각](https://www.youtube.com/watch?v=9wHDeoGrNm8)
@@ -71,12 +74,11 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 [포이지 아틀라스초반](https://www.youtube.com/watch?v=i8nOmPGSPX4)
     - 3:20/8.16
+
 [포이지 POE1 3.28 아틀라스 ](https://www.youtube.com/watch?v=V5mePBz2a2M)    
     - 아틀라스 스킬(6:06/21:40)
 
 [게이머비누의 아틀라스](https://www.youtube.com/watch?v=nQO-fNMQo1w)
-
-
 
 
 
