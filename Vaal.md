@@ -4,6 +4,41 @@
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
+
+### J.JWD에서 -Wl,--out-implib,lib\libjwd.dll.a가 하는 일
+```
+gcc -shared -o lib\jwd.dll obj\jwd.o obj\device.o -Wl,--out-implib,lib\libjwd.dll.a -lpthreadGC2
+gcc -o lib\main.exe obj\main.o -Llib -ljwd -lpthreadGC2
+
+1. -Wl,... 의미
+gcc가 아니라 링커(ld)에게 넘기는 옵션입니다.
+-Wl, 뒤에 오는 문자열이 그대로 링커로 전달됩니다.
+여기서는 링커 옵션 --out-implib=... (경로 형태로는 --out-implib,경로)를 넘깁니다.
+2. --out-implib 의미
+공유 라이브러리(DLL)를 만들 때, 그 DLL을 **다른 실행 파일이 링크할 때 쓰는 “가짜 정적 라이브러리”**를 추가로 만들라는 뜻입니다.
+MinGW에서는 보통 libjwd.dll.a 같은 이름의 import library(임포트 라이브러리, .dll.a)가 생성됩니다.
+즉, 한 번의 링크로 두 가지가 나옵니다.
+
+결과물	                역할
+lib\jwd.dll	            실행 시 실제로 로드되는 동적 라이브러리
+lib\libjwd.dll.a	    링크 전용: gcc ... -Llib -ljwd 할 때 “이 심볼들은 jwd.dll에 있다”고 알려 주는 역할
+
+3. 왜 필요한가
+main.exe를 obj\main.o만 넣고 jwd의 .o들은 빼고 링크하려면, 링커가 add, GetCost 같은 심볼을 어디서 가져올지 알아야 합니다.
+그때 **libjwd.dll.a**를 쓰면, 링커는 “이 심볼은 런타임에 jwd.dll에서 해결된다”고 처리하고, 실제 코드는 DLL에만 들어갑니다.
+--out-implib가 없으면 이런 import lib가 자동으로 안 생기거나, 수동으로 dlltool 등으로 만들어야 할 수 있습니다.
+4. 경로 lib\libjwd.dll.a
+생성될 import library 파일의 저장 위치와 이름입니다.
+관례상 MinGW에서 -ljwd는 libjwd.dll.a 또는 **libjwd.a**를 찾습니다. 그래서 lib 폴더에 libjwd.dll.a를 두고 -Llib -ljwd로 링크하는 패턴과 맞습니다.
+5. 주의할 점
+**실행 파일이 필요로 하는 건 여전히 jwd.dll**입니다.
+libjwd.dll.a는 빌드(링크)할 때만 쓰이고, 사용자 PC에 배포할 때는 보통 jwd.dll만 같이 두면 됩니다(import lib는 개발/빌드용).
+DLL을 다시 빌드할 때마다 import lib도 같이 갱신되는 것이 좋습니다(내보내기 심볼이 바뀌면 링크 오류 방지).
+한 줄로 말하면, **--out-implib는 “DLL을 만들면서, 그 DLL을 쓰는 main.exe를 링크할 때 쓸 libjwd.dll.a도 같이 만들어라”**는 옵션입니다.
+
+
+```
+
 ### GSC 개발환경 
 ```
 1. C# Dev Kit only supports SDK-style projects. 
