@@ -37,6 +37,11 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 4. 이건 퀘스트 후 2돌 획득 : 11시 지역에 효과  
 
 5. 3돌 4돌과 지도장치 작업
+[할배(가디언,인퀴지터,하이로펀트) 종낙시소 ](https://www.youtube.com/watch?v=plii6LcbHwI&t=277s)
+
+[카키카키 종말낙인 시체소각 엑트가이드 위치 엘리 1~5장 완전정복](https://www.youtube.com/watch?v=XsG_bMqeNcI)
+
+[하이로펀트 역학일제사격토템 스타터](https://www.youtube.com/watch?v=7MgznAmeWuA)
 
 [김발라 버서커 지면분쇄](https://www.youtube.com/watch?v=5vDzfRpu-xM)
 1. 7:07/8:07
