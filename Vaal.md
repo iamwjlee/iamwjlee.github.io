@@ -5,6 +5,18 @@
 ![전염](./res/poe2/WitchContagion.png)
 
 
+### C# <-> C
+```
+C#에서 OpenEvent를 사용하려고 [DllImport("kernel32.ddd")]하고 OpenEvent를 extern 하여 사용한다.
+동영상 종료시점에 신호를 외부(C)로 보낸다
+h=OpenEvent(,,"aaa");
+SetEvent(h)
+
+C에서는 CreateEvent(), WaitForSingleObjects()로 감지
+
+
+```
+
 ### J.JWD에서 -Wl,--out-implib,lib\libjwd.dll.a가 하는 일
 ```
 gcc -shared -o lib\jwd.dll obj\jwd.o obj\device.o -Wl,--out-implib,lib\libjwd.dll.a -lpthreadGC2
