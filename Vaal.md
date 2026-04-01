@@ -7,12 +7,14 @@
 
 ### C# <-> C
 ```
-C#에서 OpenEvent를 사용하려고 [DllImport("kernel32.ddd")]하고 OpenEvent를 extern 하여 사용한다.
-동영상 종료시점에 신호를 외부(C)로 보낸다
-h=OpenEvent(,,"aaa");
-SetEvent(h)
+C#에서: 
+    OpenEvent를 사용하려고 [DllImport("kernel32.ddd")]하고 OpenEvent를 extern 하여 사용한다.
+    동영상 종료시점에 신호를 외부(C)로 보낸다
+    h=OpenEvent(,,"aaa");
+    SetEvent(h)
 
-C에서는 CreateEvent(), WaitForSingleObjects()로 감지
+C에서:
+    CreateEvent(), WaitForSingleObjects()로 감지
 
 
 ```
