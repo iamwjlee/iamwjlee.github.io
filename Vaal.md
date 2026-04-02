@@ -4,7 +4,35 @@
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
+### c# 접근제한자 + 키워드 +(변수/클래스)타입 + 타입명(변수명)
 
+```
+public event EventHandler Tick;
+private Timer _playStateTimer; 
+    Timer는 클래스 타입, 
+    _playStateTimer는  그 타입의 인스턴스를 담는 참조 변수
+_playStateTimer = new Timer { Interval = 16 };
+    WinForms 타이머를 새로 만들고 주기를 16ms로 설정합니다.
+_playStateTimer.Tick += (sender, args) => { ... }
+    타이머가 16ms마다 발생시키는 Tick 이벤트에 람다 핸들러를 연결
+    즉 { ... } 안의 코드가 주기적으로 실행됩니다.
+람다 핸들러 란?
+    이름 없는 짧은 함수(람다식)를 이벤트 처리 함수로 바로 연결한 것
+    여기서 (sender, args) => { ... }가 람다식이고, 이 람다를 Tick 이벤트의 핸들러로 붙였기 때문에 람다 핸들러라고 부릅니다.
+
+기존 방식(이름 있는 메서드)과 비교:
+
+    _playStateTimer.Tick += OnPlayStateTick;
+    private void OnPlayStateTick(object sender, EventArgs args)
+    {
+        // 처리 코드
+    }
+.Tick은 함수(method)가 아니라 이벤트(event) 입니다.
+이벤트는 내부적으로 delegate(함수 포인터 리스트) 를 저장하고,
+타이머가 만료될 때마다 클래스 내부 코드가 그 delegate를 호출합니다.
+
+
+```
 ### C# <-> C
 ```
 C#에서: 
