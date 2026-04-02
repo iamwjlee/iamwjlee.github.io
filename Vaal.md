@@ -41,9 +41,16 @@ C#에서:
     h=OpenEvent(,,"aaa");
     SetEvent(h)
 
+    외부 이벤트를 받기위해서는 
+        e=new EventWaitHandle(false, AutoReset, "bbb");
+        하고 쓰레드를 만들어 그안에서 e.WaitOne(200) 으로 주기적으로 대기한다
+        200ms는 “폴링 주기”라기보다 “블로킹 대기 중에도 주기적으로 깨워서 종료 플래그를 볼 수 있게 하는 상한 시간
+        
 C에서:
+    이벤트를 받을시 
     CreateEvent(), WaitForSingleObjects()로 감지
-
+    또는 이벤트를 보낼시
+    c=CreateEventW(,,"bbb"),SetEvent(c)
 
 ```
 
