@@ -17,7 +17,14 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개
 
+Mageblood Heavy Belt : **마법사의 피** 허리띠 //플라스크에  상시 유지로 효과25%증가 접두어 와 효과 증가 70% 인첸트
+
+Svalinn(**스발린**) 둘러싼 거대 방패
+
+1. 약제사(The Apothecary) 카드 5장
+
 [번역 펍건 - 3.28 아틀라스 진행 가이드](https://gall.dcinside.com/mgallery/board/view/?id=pathofexile&no=1161528)
+[How to Progress your Atlas in 3.28 Mirage League - Path of Exile 1](https://www.youtube.com/watch?v=HlCwgdALnNo)
 1. 17등급 지도가 이제는 악몽지도로 변경됨
 2. 두번째 공허석은 일반 쉐이퍼 1번, 일반 엘더 1번 잡으면 두번째 공허식
 3. 화신(기억보스) 세명을 잡으면 세번째 공허식을 얻는다.
