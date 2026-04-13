@@ -17,6 +17,17 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개
 
+
+카드 
+    - 어둠의 현자(The Apothecary) - 마법사의 피 허리띠
+    - 불타는 학자(The Fiend) - 헤드 헌터 벨트
+    - 아키텍트의 영혼(The architect)
+    - 허무한 결말(The void) - 도박카드
+    - 세상의 주인(The Immortal) 
+    - 부의 재분재(The Wealthy Exile)
+    - 제작자의 소원(The Crafter's wish)
+    - 완벽한 형태(The Perfect Form)
+
 Mageblood Heavy Belt : **마법사의 피** 허리띠 //플라스크에  상시 유지로 효과25%증가 접두어 와 효과 증가 70% 인첸트
 
 Svalinn(**스발린**) 둘러싼 거대 방패
@@ -28,12 +39,16 @@ Svalinn(**스발린**) 둘러싼 거대 방패
 
 [번역 펍건 - 3.28 아틀라스 진행 가이드](https://gall.dcinside.com/mgallery/board/view/?id=pathofexile&no=1161528)
 [How to Progress your Atlas in 3.28 Mirage League - Path of Exile 1](https://www.youtube.com/watch?v=HlCwgdALnNo)
+1. 1돌(섬뜩한 공허석)
+1. 2돌(기원의 공허석): 새로추가,기억보스를 처치해야
+1. 3돌(메이븐의 공허석) 메이븐
+1. 4돌(부패한 공허석) 엘더+쉐이퍼: 효율이 별로,고로 맨 마지막
 1. 17등급 지도가 이제는 악몽지도로 변경됨
 2. 두번째 공허석은 일반 쉐이퍼 1번, 일반 엘더 1번 잡으면 두번째 공허식 (난이도 높아)
 3. 화신(기억보스) 세명을 잡으면 세번째 공허식을 얻는다.
     - '이건(Egan)'이 주는 세명의 화신 처치 퀘스트 라인을 꼭 완료해야 16.5등급이라고 볼수 있는 '악몽지도'를 열수 있다. 
-    - 방치의 화신(IgnoranceBossUBER),두려움의 화신(AngerBossUBER), 불안의 화신(BenevolenceBoss)(퀘스트아이템,숭배의 메아리)
-    을 물리치고   **기원의 공허석** 획득 - 특출난 보조젬드랍
+    - 방치의 화신(IgnoranceBossUBER),두려움의 화신(AngerBossUBER), 불안의 화신(BenevolenceBoss,퀘스트아이템,숭배의 메아리)
+    을 처치하고   **기원의 공허석(Ominous VoidStone)** 획득 - 특출난 보조젬(Exceptional Support Gems)드랍
     - Incarnation of Neglect(방치의 화신)
     - Incarnation of Fear(두려움의 화신)
     - Incarnation of Dread(불안의 화신)
