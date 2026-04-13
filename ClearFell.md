@@ -21,7 +21,7 @@ Mageblood Heavy Belt : **마법사의 피** 허리띠 //플라스크에  상시 
 
 Svalinn(**스발린**) 둘러싼 거대 방패
 
-마피 스발린까지 rf하시고 마니 모으시면
+마피 스발린까지 rf하시고 머니 모으시면
 대세인 맹약빌드 or 수호파괴시시전빌드하시면됩니다
 
 1. 약제사(The Apothecary) 카드 5장
@@ -31,7 +31,13 @@ Svalinn(**스발린**) 둘러싼 거대 방패
 1. 17등급 지도가 이제는 악몽지도로 변경됨
 2. 두번째 공허석은 일반 쉐이퍼 1번, 일반 엘더 1번 잡으면 두번째 공허식
 3. 화신(기억보스) 세명을 잡으면 세번째 공허식을 얻는다.
-    - '이건'이 주는 세명의 화신 처치 퀘스트 라인을 꼭 완료해야 16.5등금이라고 볼수 있는 '악몽지도'를 열수 있다. 
+    - '이건(Egan)'이 주는 세명의 화신 처치 퀘스트 라인을 꼭 완료해야 16.5등급이라고 볼수 있는 '악몽지도'를 열수 있다. 
+    - 방치의 화신(IgnoranceBossUBER),두려움의 화신(AngerBossUBER), 불안의 화신(BenevolenceBoss)(퀘스트아이템,숭배의 메아리)
+    을 물리치고   **기원의 공허석** 획득 - 특출난 보조젬드랍
+    - Incarnation of Neglect(방치의 화신)
+    - Incarnation of Fear(두려움의 화신)
+    - Incarnation of Dread(불안의 화신)
+    - [퀘스트 태초자 보스](https://www.youtube.com/watch?v=Ga6yf--qHCI)
 4. 네번재 공허석은 메이븐
 
 [대형 스킬군주얼 작업](https://www.youtube.com/watch?v=3dNIYy8aSvg)
