@@ -21,6 +21,9 @@ Mageblood Heavy Belt : **마법사의 피** 허리띠 //플라스크에  상시 
 
 Svalinn(**스발린**) 둘러싼 거대 방패
 
+마피 스발린까지 rf하시고 마니 모으시면
+대세인 맹약빌드 or 수호파괴시시전빌드하시면됩니다
+
 1. 약제사(The Apothecary) 카드 5장
 
 [번역 펍건 - 3.28 아틀라스 진행 가이드](https://gall.dcinside.com/mgallery/board/view/?id=pathofexile&no=1161528)
