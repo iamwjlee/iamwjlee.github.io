@@ -36,15 +36,18 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
     - 제작자의 소원(The Crafter's wish)
     - 완벽한 형태(The Perfect Form)
 
-Mageblood Heavy Belt : **마법사의 피** 허리띠 //플라스크에  상시 유지로 효과25%증가 접두어 와 효과 증가 70% 인첸트
+Mageblood Heavy Belt : 
 
-Svalinn(**스발린**) 둘러싼 거대 방패
+    - **마법사의 피** 허리띠 
+    - 플라스크에  상시 유지로 효과25%증가 접두어 와 효과 증가 70% 인첸트
+    - 약제사(The Apothecary) 카드 5장으로 획득
 
-마피 스발린까지 rf하시고 머니 모으시면
-대세인 맹약빌드 or 수호파괴시시전빌드하시면됩니다
+Svalinn(**스발린**) 둘러싼 거대 방패:
+
+**마피** **스발린**까지 rf로 하시고 머니 모으시면
+대세인 **맹약빌드** or **수호파괴시시전빌드** 하시면됩니다
 
 
-약제사(The Apothecary) 카드 5장
 
 [번역 펍건 - 3.28 아틀라스 진행 가이드](https://gall.dcinside.com/mgallery/board/view/?id=pathofexile&no=1161528)
 
