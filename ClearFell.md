@@ -29,7 +29,7 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 ### 중요 카드 
 
-    - 어둠의 현자(The Apothecary) - 마법사의 피 허리띠
+    - 어둠의 현자(The Apothecary) - 마법사의 피 허리띠,더럽혀진 대성당 지도에서 드랍
     - 불타는 학자(The Fiend) - 헤드 헌터 벨트
     - 아키텍트의 영혼(The architect)
     - 허무한 결말(The void) - 도박카드
