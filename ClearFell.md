@@ -30,14 +30,14 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 ### 중요 카드 
 
-    - 약제사(The Apothecary) - 마법사의 피 허리띠,더럽혀진 대성당 지도에서 드랍
-    - 불타는 학자(The Fiend) - 헤드 헌터 벨트
-    - 아키텍트의 영혼(The architect)
-    - 허무한 결말(The void) - 도박카드
-    - 세상의 주인(The Immortal) 
-    - 부의 재분재(The Wealthy Exile)
-    - 제작자의 소원(The Crafter's wish)
-    - 완벽한 형태(The Perfect Form)
+    - 점술카드 약제사(The Apothecary) - 마법사의 피 허리띠,더럽혀진 대성당 지도에서 드랍
+    - 점술카드 마귀(The Fiend) DivinationCardTheFiend - HeadHunter 벨트
+    - 아키텍트의 영혼(The Architect) ?
+    - 점술카드 공허(The Void) - 도박카드
+    - 점술카드 불멸자(The Immortal) - 거울의 집
+    - 부의 재분재(The Wealthy Exile) ?
+    - 제작자의 소원(The Crafter's wish) ?
+    - 완벽한 형태(The Perfect Form) ?
 
 ### Mageblood Heavy Belt : 
 - **마법사의 피(Wizard's Blood)** 허리띠 
