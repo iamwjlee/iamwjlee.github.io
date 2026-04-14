@@ -39,7 +39,7 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
     - 완벽한 형태(The Perfect Form)
 
 ### Mageblood Heavy Belt : 
-- **마법사의 피** 허리띠 
+- **마법사의 피(Wizard's Blood)** 허리띠 
 - 플라스크에  상시 유지로 효과25%증가 접두어 와 효과 증가 70% 인첸트
 - 약제사(The Apothecary) 카드 5장으로 획득
 
