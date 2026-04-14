@@ -14,9 +14,11 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
+
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개
 
+![저거넛](./res/poe1/Juggernaut.png)
 
 ### 중요 지도
 |고속 맵핑| 카드파밍/수익
@@ -62,7 +64,7 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 3. 화신(기억보스) 세명을 잡으면 세번째 공허식을 얻는다.
     - '이건(Egan)'이 주는 세명의 화신 처치 퀘스트 라인을 꼭 완료해야 16.5등급이라고 볼수 있는 '악몽지도'를 열수 있다. 
     - 방치의 화신(IgnoranceBossUBER),두려움의 화신(AngerBossUBER), 불안의 화신(BenevolenceBoss,퀘스트아이템,숭배의 메아리)
-    을 처치하고   **기원의 공허석(Ominous VoidStone)** 획득 - 특출난 보조젬(Exceptional Support Gems)드랍
+    을 처치하고   **기원의 공허석(Ominous VoidStone)** 획득하면 11시방향의 지도에서 특출난 보조젬(Exceptional Support Gems)이 드랍될 수도 
     - Incarnation of Neglect(방치의 화신)
     - Incarnation of Fear(두려움의 화신)
     - Incarnation of Dread(불안의 화신)
