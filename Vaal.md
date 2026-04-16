@@ -4,6 +4,8 @@
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
+[Claude code, Terminal,IDE,CLI 개념](https://www.youtube.com/watch?v=UNd1Cb5aIoU)
+
 ### c# 접근제한자 + 키워드 +(변수/클래스)타입 + 타입명(변수명)
 
 ```
