@@ -22,16 +22,17 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 ![투별 아틀라스](./res/poe1/Twobyul-Atlas.png)
 
-Main skills
-Boneshatter of Complex Trauma 복합 외상의 뼈 파열 32%
-Eviscerate  내장을 꺼내다 20%
-Lacerate of Haemorrhage  실혈의 피부찢기10%
-Flicker strike 7%
-Sunder    산산조각 7%
-Static Strike of Gathering Lightning 정전기 3%
-Static Strike 3%
-Blade Vortex  회전칼날 2%
-Earthquake  지진
+|Main skills|-|-|
+|---|---|---|
+|Boneshatter of Complex Trauma |복합 외상의 뼈 파열| 32%
+|Eviscerate  |내장을 꺼내다 |20%
+|Lacerate of Haemorrhage  |실혈의 피부찢기 |10%
+|Flicker strike |-|7%
+|Sunder    |산산조각 |7%
+|Static Strike of Gathering Lightning |정전기 |3%
+|Static Strike |정전기|3%
+|Blade Vortex  |회전칼날 |2%
+|Earthquake  |지진 |2%
 
 Arzadi Crest
 
