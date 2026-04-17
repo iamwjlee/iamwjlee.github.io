@@ -22,6 +22,24 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 ![투별 아틀라스](./res/poe1/Twobyul-Atlas.png)
 
+Main skills
+Boneshatter of Complex Trauma 복합 외상의 뼈 파열 32%
+Eviscerate  내장을 꺼내다 20%
+Lacerate of Haemorrhage  실혈의 피부찢기10%
+Flicker strike 7%
+Sunder    산산조각 7%
+Static Strike of Gathering Lightning 정전기 3%
+Static Strike 3%
+Blade Vortex  회전칼날 2%
+Earthquake  지진
+
+Arzadi Crest
+
+Resolute Technique 확고한 기술(무조건 명중)
+Versatile Combatant 다재다능한 전투원(주문피해 차단확률 2%)
+Blood Magic 혈마법(마나 제거)
+Unwavering Stance  흔들림 없는 자세(기절 면역)
+Iron Reflexes 철의 반사신경( 회피가 방어력)  
 
 
 [평아의 글래디 CWS 무자본](https://www.youtube.com/watch?v=UAO4uxFCQ68)
