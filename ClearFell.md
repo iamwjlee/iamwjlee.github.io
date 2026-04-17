@@ -22,6 +22,8 @@ NET SDK 7.0이 설치되어 있어 .NET Framework 4.5 gs프로젝트
 
 ![투별 아틀라스](./res/poe1/Twobyul-Atlas.png)
 
+[꽃와재 SSF 정전기 저거넛](https://www.youtube.com/watch?v=VrGuO1RADEY&t=553s)
+
 |Main skills|-|-|
 |---|---|---|
 |Boneshatter of Complex Trauma |복합 외상의 뼈 파열| 32%
@@ -60,7 +62,7 @@ Arzadi Crest
 - 이 행운적용이 아자디로 3번 돌려 
 - 저항성소 벨트(약10디바인)
 - 갈매기
-- 원소의 순수함사용하여 일반저항은 안맞추어, 카오스는 챙겨야
+- **원소의 순수함**사용하여 일반저항은 안맞추어, 카오스는 챙겨야
 - 성운 무기  주문피해,화염피해  
 - 저거넛의 히네코라 시폭딜(치프틴 전직노드?)은 절대적
 
