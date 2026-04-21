@@ -236,6 +236,7 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 ```
 ## GSC Project
 
+- GSC ODT표준 DLL 자료: D:\wj\DOCU\GS
 - 소스 위치: D:\wj\A19-JDS\
     - StdCtlODT_JDS.dll
     - jwd.dll 
