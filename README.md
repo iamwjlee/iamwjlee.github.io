@@ -28,8 +28,8 @@
 [Toss Core workspace](https://tossteam.slack.com/)
 <br/>
 
-<!-- [DownLoad Arya](https://iamwjlee.github.io/res/mainU.rpm)    -->
-[DownLoad wj.json](https://iamwjlee.github.io/res/wj.json)   
+[DownLoad Arya](https://iamwjlee.github.io/res/test.zip)   
+<!-- [DownLoad wj.json](https://iamwjlee.github.io/res/wj.json)    -->
 
 ### 장위데이타시스템(주)
 
