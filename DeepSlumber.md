@@ -230,8 +230,24 @@ D:\wj\Gnomeregan\J.odt>make
 실행파일은 D:\wj\Gnomeregan\J.odt\release\main.exe
 업데이트 파일은 D:\wj\Gnomeregan\J.odt\release\mainU.exe
 
-```
+1호기에 mainU.exe를 카피하고, 1호기 재실행
+xcopy mainU.exe "\\odt01\Aryastark\release" /y
 
+```
+## GSC Project
+
+- 소스 위치: D:\wj\A19-JDS\
+    - StdCtlODT_JDS.dll
+    - jwd.dll 
+        - pthreadGC2.dll
+        - libgcc_s_dw2-1.dll
+
+- GSC DLL: D:\wj\A19-JDS\GSC4StdODT_DLL\SteCtlODT_JDS\bin\Debug\*.dll
+- 장위 DLL: D:\wj\A19-JDS\J.JWD
+- D:\wj\A19-JDS\Apps\AryaPlayer : test
+- D:\wj\A19-JDS\Apps\AryaRunner : test   
+- D:\wj\A19-JDS\Apps\AryaUI : test   
+- D:\wj\A19-JDS\Apps\DispenserConfig : used in GSC config    
 
 
 <!-- ### Input form in markdown -->
