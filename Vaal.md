@@ -6,6 +6,11 @@
 
 [Claude code, Terminal,IDE,CLI 개념](https://www.youtube.com/watch?v=UNd1Cb5aIoU)
 
+### c# 속성 Text,BackColor,BackgroundImage
+- obj.속성=값 형태로 쓰는 .NET property입니다
+- 클래스가 가진 값을 읽고/쓰기 위한 창구
+- 클래스는 필드,속성,메서드,생성자,이벤트/핸들러
+
 ### c# 접근제한자 + 키워드 +(변수/클래스)타입 + 타입명(변수명)
 
 ```
