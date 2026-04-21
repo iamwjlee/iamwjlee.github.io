@@ -134,7 +134,7 @@ ProcessStatus("FDS", "01"); 호출이 static 메서드인 OnDeviceDataReceived �
 
 
 
-### GSC DLL(250207)과 명세서(2025.02.00)에 대한 질의(2026-02-04)
+### GSC DLL(250207)과 명세서(2025.02.00)에 대한 예상 질의 (2026-02-04)
 ```
 1. GetDllVersion() 
 1. InitState(string strState1 = "",string strState2 = "",string strState3 = "") //디바이스 상태 초기화 ,초기화면 전환시 필요 작업 
