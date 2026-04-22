@@ -155,41 +155,43 @@ B. 펌웨어 유지보수
 1. [인터페이스보드](./res/jpos5000int.jpg)
 
 1. 보드 정보
-
-    - **유량계 메인보드**: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
-    - **인터페이스 보드**: High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
-    - **터치 마더보드**: Intel Bay trail Soc Chipset INX-N29 Motherboard
+    |보드|정보|
+    |---|---|
+    |**유량계 메인보드** | High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
+    |**인터페이스 보드** |High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
+    |**터치 마더보드**  |Intel Bay trail Soc Chipset INX-N29 Motherboard
 
 2. 메인보드 부트로더및 메인코드
 
-    **부트로더** 다운로드: using atmel sam-ice with Sam70BootJPos_main
+    |**부트로더** | Download by using atmel sam-ice with Sam70BootJPos_main|
+    |---|---|
+    |실행파일 | Sam70Boot.bin,Sam70Boot_main.bin ?
+    |위치 | D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_485_ID1_Main\Sam70Boot\Debug
+    |오리진 | \\\Jposnas\hw\_Lym\_JobSync\_SamBoot\Sam70BootJPosV1.3_485_ID1
 
-        - 실행파일: Sam70Boot.bin,Sam70Boot_main.bin ?
-        - 위치: D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_485_ID1_Main\Sam70Boot\Debug
-        - 오리진위치: \\Jposnas\hw\_Lym\_JobSync\_SamBoot\Sam70BootJPosV1.3_485_ID1
-
-    **메인코드** 다운로드: using SAmUploaderV40.exe in the Kiosk
-
-        - 실행파일:flowmeter-ads1118.bin
-        - 위치:D:\wj\A.PROJECTS\J.jpos5000.main.ads1118\flowmeter\Release
+    |**메인코드** | Download by using SAmUploaderV40.exe in the Kiosk|
+    |---|---|
+    |실행파일 |flowmeter-ads1118.bin
+    |위치 | D:\wj\A.PROJECTS\J.jpos5000.main.ads1118\flowmeter\Release
 
 3. 버퍼보드 부트및 버퍼코드(키오스크와 동일)
 
-    부트로더 다운로드: using atmel sam-ice with Sam70BootJPos_buffer
+    | 부트로더 | Download using atmel sam-ice with Sam70BootJPos_buffer|
+    |---|---|
+    |실행파일 | Sam70Boot.bin,Sam79BootJos_bufer.bin 확인요망?
+    |위치 | D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_Com3_ID2_Buffer\Sam70Boot\Debug
+    |오리진 | \\\Jposnas\hw\_Lym\_JobSync\_SamBoot\Sam70BootJPosV1.3_Com3_ID2
 
-        - 실행파일: Sam70Boot.bin,Sam79BootJos_bufer.bin 확인요망??
-        - 위치: D:\wj\A.PROJECTS\jpos5000\Sam70BootJPosV1.3_Com3_ID2_Buffer\Sam70Boot\Debug
-        - 오리진위치: \\Jposnas\hw\_Lym\_JobSync\_SamBoot\Sam70BootJPosV1.3_Com3_ID2
-
-    버퍼코드 다운로드: using SAmUploaderV40.exe in the jpos5000 touch screen
-
-        - 실행파일: J5000Buffer.bin,J5000Buffer-PR.bin
-        - 위치: D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
+    |버퍼코드 |  Download using SAmUploaderV40.exe in the jpos5000 touch screen|
+    |---|---|
+    |실행파일 | J5000Buffer.bin,J5000Buffer-PR.bin
+    |위치 | D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
 
 4. Touch B'd App
-
-    - 위치: D:\wj\Gnomeregan\J.odt
-    - 메인코드 다운로드: 컴파일된  mainU.exe를 키오스크의 \\odt01\AryaStark\odt\release 로 카피
+    |항목|내용
+    |---|---|
+    |위치 | D:\wj\Gnomeregan\J.odt
+    |테스트 | xcopy release\mainU.exe "\\odt01\AryaStark\odt\release" /y
 
 5. KTC인증 관련자료
 
@@ -257,9 +259,9 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 
 - GSC DLL: D:\wj\A19-JDS\GSC4StdODT_DLL\SteCtlODT_JDS\bin\Debug\*.dll
 - 장위 DLL: D:\wj\A19-JDS\J.JWD
-- D:\wj\A19-JDS\Apps\AryaPlayer : test
-- D:\wj\A19-JDS\Apps\AryaRunner : test   
-- D:\wj\A19-JDS\Apps\AryaUI : test   
+- D:\wj\A19-JDS\Apps\AryaPlayer : only test and consider later
+- D:\wj\A19-JDS\Apps\AryaRunner : test and consider later   
+- D:\wj\A19-JDS\Apps\AryaUI : only test   
 - D:\wj\A19-JDS\Apps\DispenserConfig : used in GSC config    
 
 ## GSC Project KTC(한국기계전기전자시험연구소) 고려 사항
