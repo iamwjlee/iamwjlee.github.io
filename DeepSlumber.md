@@ -234,7 +234,7 @@ D:\wj\Gnomeregan\J.odt>make
 xcopy mainU.exe "\\odt01\Aryastark\release" /y
 
 ```
-## GSC Project
+## GSC Project SW
 
 - GSC ODT표준 DLL 자료: D:\wj\DOCU\GS
 - 소스 위치: D:\wj\A19-JDS\
@@ -250,18 +250,17 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 - D:\wj\A19-JDS\Apps\AryaUI : test   
 - D:\wj\A19-JDS\Apps\DispenserConfig : used in GSC config    
 
-- KTC(한국기계전기전자시험연구소)
+## GSC Project KTC(한국기계전기전자시험연구소) 고려 사항
 
-        시험성적서(T2021-04846) 
-        시동시 소프트웨어 식별 번호[디스플레이]
-            유량계 FW [JPOS5000A0010031]
-            유량계 HASH [b439c5]
-            유량계 제조사 [000011]
-            유량계 uSD [181802438]
-
-        시동시 소프트웨어 체크섬 검증[디스플레이]
-            유량계 연결상태: 정상
-            유량계 무결성: 성공  
+시동시 소프트웨어 식별 번호와 체크섬 화면상에서 확인 필요
+|디스플레이|식별번호|
+|---|---|        
+|유량계 FW |JPOS5000A0010031
+|유량계 HASH |b439c5
+|유량계 제조사 |000011
+|유량계 uSD |181802438
+|유량계 연결상태  |정상
+|유량계 무결성 |성공  
 
 <!-- ### Input form in markdown -->
 
