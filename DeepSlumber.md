@@ -269,6 +269,7 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 ## GSC Project KTC(한국기계전기전자시험연구소) 고려 사항
 
 시동시 소프트웨어 식별 번호와 체크섬 화면상에서 확인 필요
+
 |디스플레이|식별번호|
 |---|---|        
 |유량계 FW |JPOS5000A0010031
