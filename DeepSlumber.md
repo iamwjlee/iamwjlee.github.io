@@ -155,6 +155,7 @@ B. 펌웨어 유지보수
 1. [인터페이스보드](./res/jpos5000int.jpg)
 
 1. 보드 정보
+
     |보드|정보|
     |---|---|
     |**유량계 메인보드** | High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
@@ -188,6 +189,7 @@ B. 펌웨어 유지보수
     |위치 | D:\wj\A.PROJECTS\J.jpos5000.buffer\J5000Buffer\Debug
 
 4. Touch B'd App
+
     |항목|내용
     |---|---|
     |위치 | D:\wj\Gnomeregan\J.odt
