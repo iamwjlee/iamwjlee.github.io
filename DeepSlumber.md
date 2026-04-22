@@ -250,6 +250,12 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 - D:\wj\A19-JDS\Apps\AryaUI : test   
 - D:\wj\A19-JDS\Apps\DispenserConfig : used in GSC config    
 
+KTC(한국기계전기전자시험연구소)
+시험성적서(T2021-04846) 
+시동시 소프트웨어 식별 번호[디스플레이]
+    유량계 FW [JPOS5000A0010031]
+시동시 소프트웨어 체크섬 검증[디스플레이]
+
 
 <!-- ### Input form in markdown -->
 
