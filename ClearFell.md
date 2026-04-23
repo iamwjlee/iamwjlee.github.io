@@ -62,6 +62,7 @@ Boneshatter 뼈박살
 - '영원한 투쟁' 목걸이 
 
 [poe3.22 뼈박살 저거넛](https://www.youtube.com/watch?v=1nHYLJ6JGOM&list=PLsWwn9abKI19sbfKYHFeURCqqNaCTA8Pt&index=1)
+
 Boneshatter of Complex Trauma
 
 LifeLeech(거머리,생명력흡수)

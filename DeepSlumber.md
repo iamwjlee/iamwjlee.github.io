@@ -259,8 +259,15 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
         - pthreadGC2.dll
         - libgcc_s_dw2-1.dll
 
-- GSC DLL: D:\wj\A19-JDS\GSC4StdODT_DLL\SteCtlODT_JDS\bin\Debug\*.dll
-- 장위 DLL: D:\wj\A19-JDS\J.JWD
+- GSC ODT표준 DLL: D:\wj\A19-JDS\GSC4StdODT_DLL\SteCtlODT_JDS\bin\Debug\StdCtlODT_JDS.dll
+    - Targeting .NET Framework 4.5 on Win32
+    - The GSC4StdODT_DLL dirctory is a C# DLL project that uses the jwd.dll created in the J.JWD directory 
+    - use StdCtlODT_JDS.dll Library only. ohters StdCtlODT_DHP,StdCtlODT_SMO,StdCtlODT_TSN are for another vender
+
+- 장위 아리아 소스 DLL: D:\wj\A19-JDS\J.JWD
+    - J.JWD dirctory is a project that creates dll with gcc
+    - after excuting 'setenv.bat', excute 'build.bat'
+
 - D:\wj\A19-JDS\Apps\AryaPlayer : only test and consider later
 - D:\wj\A19-JDS\Apps\AryaRunner : test and consider later   
 - D:\wj\A19-JDS\Apps\AryaUI : only test   
