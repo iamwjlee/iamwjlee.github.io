@@ -42,6 +42,7 @@
 5. jpos3000-KTC인증받은 uSD카드 업보드
     KTC인증관련 작업 디렉토리: D:\wj\JPOS3000 (이용민이사님)
     메인 소스 : JPOS3000\uSD_Ver39_Rtc_인증버젼
+        - 이폴더에 컴파일 결과물이 없다!
         - 부트로더 ? 
         - refer to \\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50 
         - 시리얼통신 다운로드툴 ? 
@@ -51,8 +52,18 @@
     [확인]\\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50\BootBodyF2F
     AT91SAM7X256.h,AT91SAM7X256.inc 
 
+    업보드 정보
+        AT91SAM7X256 (Atmel SAM7, ARM7TDMI, 플래시 256KB)
+        uSD와 연결하려고  하드웨어적으로 SPI 모드를 사용
+        미디어에 있는 FAT 계열 파티션을 읽는 라이브러리사용 FatFs(ChaN) 
+        소스: ff.c, ff.h, ffconf.h, diskio.h
 
 ```
+
+## JPOS3000 업보드 소스 코드 문제점
+- 소스: D:\wj\JPOS3000\uSD_Ver39_Rtc_인증버젼
+- 소스 상에 컴파일 결과물 실행파일(bin,hex)이 없다, 컴파일러(Keil,IAR,)는 ?
+
 ```
 How to debug/maintenance regacy jpos3000 firmware 
 A. 하드웨어 구성에 대한 이해
