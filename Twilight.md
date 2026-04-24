@@ -9,7 +9,7 @@
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
 Autoexertion Support(자동전력) Vulner
-Sunder 
+Sunder(산산조각) 
 
     - Fist of War Support(전쟁의 주먹 보조) 
     - Ruthless Support(무자비 보조) 
