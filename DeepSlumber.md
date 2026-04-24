@@ -41,7 +41,7 @@
 
 5. jpos3000-KTC인증받은 uSD카드 업보드
     KTC인증관련 작업 디렉토리: D:\wj\JPOS3000 (이용민이사님)
-    메인 소스 : JPOS3000\uSD_Ver39_Rtc_인증버젼
+    메인 소스 : JPOS3000\uSD_Ver39_Rtc_인증버전
         - 이폴더에 컴파일 결과물이 없다!
         - 부트로더 ? 
         - refer to \\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50 
@@ -55,21 +55,24 @@
 
 ```
 
-## JPOS3000 업보드 소스 코드 문제점
+## JPOS3000 업보드 
 
-        업보드 정보
-        AT91SAM7X256 (Atmel SAM7, ARM7TDMI, 플래시 256KB)
-        uSD와 연결하려고  하드웨어적으로 SPI 모드를 사용
-        미디어에 있는 FAT 계열 파티션을 읽는 라이브러리사용 FatFs(ChaN) 
-        소스: ff.c, ff.h, ffconf.h, diskio.h
+    업보드 정보
+    AT91SAM7X256 (코어: arm7tdmi 32bit RISC Architecture,시리즈: SAM7X/XC,메모리 256Kb/64kb)
+    spi모드로 하드웨어적으로 uSD와 연결
+    미디어에 있는 FAT 계열 파티션을 읽는 라이브러리사용 FatFs(ChaN) 
+    소스: ff.c, ff.h, ffconf.h, diskio.h
+    SW는 AT91SAM7X256용 펌웨어로, SD 카드(FatFs) + RTC(DS1307) + KISA SHA-256 + SDSE 인증 모듈이 핵심입니다.
 
-- 소스: D:\wj\JPOS3000\uSD_Ver39_Rtc_인증버젼
-- 소스 상에 컴파일 결과물 실행파일(bin,hex)이 없다, 컴파일러(Keil,IAR,)는 ?
+- 소스: D:\wj\JPOS3000\uSD_Ver39_Rtc_인증버전
+- 소스 상에 컴파일 결과물 실행파일(bin,hex,map file등)이 없다, 컴파일러(Keil,IAR,)는 ?
+- IDE/프로젝트 루트의 _AT7xOrg.prj — Keil µVision 형식 프로젝트(Signature=UE Proj: v.1)
 
 
+## How to Debug/Maintenance Regacy JPOS3000 FW
 
 ```
-How to debug/maintenance regacy jpos3000 firmware 
+
 A. 하드웨어 구성에 대한 이해
     -메인보드+업보드(uSD카드)
     -통신보드(External Interface Board) : 
