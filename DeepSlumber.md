@@ -180,7 +180,7 @@ B. 펌웨어 유지보수
     |**인터페이스 보드** |High-Performance Cortex-M7 SAMe70n21b 100-lead LQFP
     |**터치 마더보드**  |Intel Bay trail Soc Chipset INX-N29 Motherboard
 
-2. 메인보드 부트로더및 메인코드
+2. 유량계 메인보드 부트로더및 메인코드
 
     |**부트로더** | Download by using atmel sam-ice with Sam70BootJPos_main|
     |---|---|

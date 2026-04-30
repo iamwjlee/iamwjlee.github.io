@@ -8,12 +8,20 @@
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
+[POB Fork 2.63.0 다운로드](https://swallow91.tistory.com/460) 
+[PoeCharm3.exe에 대한 자세한 설명](https://gall.dcinside.com/mgallery/board/view?id=pathofexile&no=991032)
+- poe1 연동하는 방법(가져오기) 설명
+
 Autoexertion Support(자동전력) Vulner
 Sunder(산산조각) 
 
     - Fist of War Support(전쟁의 주먹 보조) 
     - Ruthless Support(무자비 보조) 
     - Cruelty Support(잔혹 보조) 
+    - Brutality Support(포악함 보조)
+    - Volatility Support(일촉즉발 보조)
+    - Pulverize Support(분쇄 보조)
+    - Melee Physical Damage Support(근접 물리 피해 보조)
     - Elemental Damage with Attacks Support(공격시 원소 피해 보조) 
     - Damage on Full Life Support(최대 생명력 시 피해 보조)
 
