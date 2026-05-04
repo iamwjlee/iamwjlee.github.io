@@ -8,6 +8,9 @@
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
+[95% Block Immortal Cyclone Slayer](https://www.youtube.com/watch?v=gqpnSK7fGCc)
+- pob 확인해봐!!
+
 [POB Fork 2.63.0 다운로드](https://swallow91.tistory.com/460) 
 [PoeCharm3.exe에 대한 자세한 설명](https://gall.dcinside.com/mgallery/board/view?id=pathofexile&no=991032)
 - poe1 연동하는 방법(가져오기) 설명
