@@ -11,7 +11,7 @@
 [95% Block Immortal Cyclone Slayer](https://www.youtube.com/watch?v=gqpnSK7fGCc)
 - pob 확인해봐!!
 - 이름 없는 혈맹
-- 회색 바람 영체 도끼(The Grey Wind Spectral Axe) 높은 생명력과 격노를 동시에 활용하는 화염 지속 피해 빌드 의 핵심
+- 회색 바람 영체 도끼(The Grey Wind Spectral Axe,33렙) 높은 생명력과 격노를 동시에 활용하는 화염 지속 피해 빌드 의 핵심
 
 [POB Fork 2.63.0 다운로드](https://swallow91.tistory.com/460) 
 [PoeCharm3.exe에 대한 자세한 설명](https://gall.dcinside.com/mgallery/board/view?id=pathofexile&no=991032)
