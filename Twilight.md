@@ -8,6 +8,16 @@
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
+[poe3.28 엄청나게 재미있는 빌드 10가지](https://www.youtube.com/watch?v=VzyucShW9gA)
+- 1위 포이즌 스파크빌드 
+- 2위 Impending Doom(임박한 멸망) 엘리멘탈리스트(위치)
+- 3위 blade Vortex 블레이드 볼텍스 오컬티스트(위치)
+- 4위 홀리 해머 인퀴지터(템플러) Holy Hammers Inquisitor: 원소피해,치명타시 적 원소저항 무시
+- 5위 ElementalHit(원소의 일격) 슬레이어(듀얼리스트)
+- 6위 사이클론 충격파(회오리바람 + 충격파 보조, Cyclone Shockwave) 슬레이어
+- 7위 프로스트 블레이드 슬레이어,FrostBlade(서리칼날)
+- 8위 프로스트블링크 오브 윈드리 블래스트 엘리
+- 10위 스테틱 스트라이크 버서커
 
 [까까모리 의 도살의 피부찢기 장군의 함성 챔피언](https://www.youtube.com/watch?v=X-gvPLZFjTU)
 - 허리띠 '바싹 마른 자의 비명' 가죽 허리띠 : 다이아몬드의 성소 버프 
