@@ -8,6 +8,24 @@
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
+[할배 쇼크노바 아크메이지빌드](https://www.youtube.com/watch?v=qlv1yHyJNyE)
+- Vortex of Projection(투영의 소용돌이)
+- Frost Shield(서리방패), Sigil of Power(힘의부적)
+- Arcane Cloak(비전의망토), Automation(자동화)
+- Grace(은총) Punishment(응징), Vaal Discipline(바알단련)
+- Frostblink of Wintry Blast(차가운폭발의서리점멸), Frostblink(서리점멸)
+- Frostbolt(서리구체)
+
+임박한 멸망?
+
+[슬레이어 가장강력한 원소공격빌드](https://www.youtube.com/watch?v=0bCAGMlm8Tg)
+- 처음에 Spectral Throw(환영무기투척) -> 12레벨에 Elemental Hit - Ruthless(무자비 보조) - Elemental Damage with Attacks(공격시 원소 피해 보조)
+- 공격속도, 치명타, 
+- 무기 Mortem Morsu(고통스러운 죽음 섬뜩한 클로 레벨 34)
+- 머리 RAT'S NEST(쥐의 둥지 곰 가죽모 레벨 55)
+- 반지 THE TAMING(조련 분광반지)
+
+
 [poe3.28 엄청나게 재미있는 빌드 10가지](https://www.youtube.com/watch?v=VzyucShW9gA)
 - 1위 포이즌 스파크빌드 
 - 2위 Impending Doom(임박한 멸망) 엘리멘탈리스트(위치)
