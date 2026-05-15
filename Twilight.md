@@ -8,6 +8,8 @@
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들)
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
+[네크 망령 획득에 대해](https://www.youtube.com/watch?v=hVGxQuH6OlI)
+
 [할배 쇼크노바 아크메이지빌드](https://www.youtube.com/watch?v=qlv1yHyJNyE)
 - Vortex of Projection(투영의 소용돌이)
 - Frost Shield(서리방패), Sigil of Power(힘의부적)
@@ -15,6 +17,8 @@
 - Grace(은총) Punishment(응징), Vaal Discipline(바알단련)
 - Frostblink of Wintry Blast(차가운폭발의서리점멸), Frostblink(서리점멸)
 - Frostbolt(서리구체)
+
+
 
 임박한 멸망?
 
