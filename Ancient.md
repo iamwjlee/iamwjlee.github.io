@@ -11,6 +11,8 @@
 - 엑잘 -> 신성한오브 로 바꿔둬
 - 쉬프트 + 알트 + 좌클릭으로 인게임 시세 조회 가능
 
+[아이스샷 스피릿워커 레벨린 가이드](https://www.youtube.com/watch?v=Y257tXINcAU)
+
 [0.5 액트별 필수 퀘스트](https://www.youtube.com/watch?v=W71fDQ55w2k)
 
 [0.5시즌 변경사항및 필독](https://www.youtube.com/watch?v=xY1pgSVUx5M)
