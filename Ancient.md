@@ -3,8 +3,17 @@
 ### Witch's Essence Drain 
 ![위치](./res/poe2/witch.png)
 
-## POE2(0.5.0) 시즌5 2026년 5월 30일 고대의 귀환 
 
+## POE2(0.5.0) 시즌5 2026년 5월 30일 고대의 귀환 
+- 미가공 정신력 젬(8레벨)은 무조건 아껴야!!!! -> 나중에 비싸지면 팔어
+- '별의 목걸이'/'무거운 허리띠' 흰색은 무조건 모아둬 
+- 유니크 아이템은 인챈트 해제하면 '기회의오브'가 된다
+- 엑잘 -> 신성한오브 로 바꿔둬
+- 쉬프트 + 알트 + 좌클릭으로 인게임 시세 조회 가능
+
+[0.5 액트별 필수 퀘스트](https://www.youtube.com/watch?v=W71fDQ55w2k)
+
+[0.5시즌 변경사항및 필독](https://www.youtube.com/watch?v=xY1pgSVUx5M)
 
 [아르 소서리스 바라시타 소환 스타터](https://www.youtube.com/watch?v=OzFljJ38Gag)
 - 바라시타 전직노드 
