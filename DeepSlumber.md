@@ -53,7 +53,7 @@
     AT91SAM7X256.h,AT91SAM7X256.inc 
 
 ```
-## JPOS3000 uSD 인증서 갱신(uSD메모리 16Gbyts -> 1Gbytes로 변경예정)
+## JPOS3000 uSD 인증서 갱신(uSD메모리 8Gbyts -> 1Gbytes로 변경예정)
 - uSD를 PC에 연결하여 인식후에 아래의 내용을 확인
     - SDINFO.SYS
     - SDNFC.SYS
