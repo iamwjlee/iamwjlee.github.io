@@ -52,8 +52,26 @@
     [확인]\\Jposnas\hw\_Lym\__JPOS_3000\ATBoot1SRamFlash2000V50\BootBodyF2F
     AT91SAM7X256.h,AT91SAM7X256.inc 
 
-
 ```
+**JPOS3000 uSD에 인증서를 갱신하는 방법**
+- uSD를 PC에 연결하여 인식 시키다.
+
+- ktc에서 제공받은 JuUGI_Flash.exe를 실행시키다.
+    - 사용자ID에 '1',사용자PS에 '1'을 각각입력후 '발급기능접근'버튼을 누른다.
+    - 'uSD연결' 버튼을 누른다
+    - 'DV인증서' 버튼옆에 있는 '읽기' 버튼을 누른다.
+    - 파일선택창에서 **적절한 인증서**를 선택한다.
+    - '현재날자'와 'CheckSum'에 내용이 들어오면 옆에 있는 '갱신'버튼을 눌러서 인증서 갱신 성공여부를 확인한다. 
+    - 성공적으로 갱신된후 'uSD해제'버튼을 눌르고 uSD를 리더기에서 빼 내도록 한다
+- uSD를 pc에 연결후    
+    - JPOS.SET 파일을 만들고 기물번호(예, 00240012)를 적어둔다.
+    - uSD카드내용 확인
+        - [2019_04_30_10_49_10][[KTC01_JWData_010016_900101-KTC01_JWData_010016_900101]]certs.dat
+        - SDINFO.SYS
+        - SDNFC.SYS
+        - SDSE.SYS
+        - JPOS.SET
+
 
 ## JPOS3000 업보드 
 
