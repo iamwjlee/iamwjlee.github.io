@@ -53,7 +53,7 @@
     AT91SAM7X256.h,AT91SAM7X256.inc 
 
 ```
-**JPOS3000 uSD에 인증서를 갱신하는 방법**
+## JPOS3000 uSD 인증서 갱신
 - uSD를 PC에 연결하여 인식 시키다.
 
 - ktc에서 제공받은 JuUGI_Flash.exe를 실행시키다.
@@ -71,7 +71,7 @@
         - SDNFC.SYS
         - SDSE.SYS
         - JPOS.SET
-
+- http://otp.ktc.re.kr/ 에 접속하여 '기물번호/SD카드연결' 바로가기를 누르고 '+기물추가'를 눌러 등록해 준다
 
 ## JPOS3000 업보드 
 
