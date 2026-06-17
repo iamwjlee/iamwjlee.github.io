@@ -57,10 +57,18 @@
     - 4장...
 
 [김김두부의 데드아이 아즈메리 얼음화살 2차 가이드](https://www.youtube.com/watch?v=L_3jZ6NyedA)
-1. '주변부 심목단궁'(19레벨 아즈메리 무리) 고유 활 84렙 
 
+- Herald of Ice(얼음의 전령)
+    - Elemental Armament2,Magnified Area2, Elemental Focus, Longshot2,Cold Mastery
+- Herald of Thunder
+    - Elemental Armament2,Concentrated Area,Elemental Focus, Excute 2,Lightning Mastery    
+- Herald of Ash
+-
+
+1. '주변부 심목단궁'(19레벨 아즈메리 무리) 고유 활 84렙 
 1. '파편의 고대 룬' : 추가 화살을 발사할 초과 확률 +50%
 1. '사카왈의 하늘으 룬' : 피해의 5%를 모든 원소의 추가 피해로 획득
+1. '고통의 멍에' 고유목걸이에 성유인챈트는 '폭풍파괴자' 
 2. 우두머리의 울부짖음(65렙) 투구: 베리시움 모루를 통해 룬벼림 강화를 한다
     - 타락하여 홈을 한개더 '타카티의 영혼 핵' : 카오스저항 +11%
 3. 대재난 갑옷 룬벼림하여 '심장의 수호하는 룬(생명력의 5% 추가 룬 수호 )','보강의 수호하는 룬'(룬 수호 20%증가)
