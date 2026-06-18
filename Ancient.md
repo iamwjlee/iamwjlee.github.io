@@ -58,10 +58,22 @@
 
 [김김두부의 데드아이 아즈메리 얼음화살 2차 가이드](https://www.youtube.com/watch?v=L_3jZ6NyedA)
 
+- 룬수호를 가장 높게 할수 있는 투구 - 검투사 헬름/난해한 왕관/웃는가면
+- '보강의 수호하는 룬' 룬수호 20%증가 사용
+- 장갑은 '콜르의 사냥룬'을 사용해서 지정사수 옵션을 붙힌다.(모든 투사체레벨+2)
+    - '세를의 승리룬을 사용하면 접미어가 하나더 추가
+    - '검은강철' 건틀릿이 룬수호가 가장 높다!
+- 장화는 '난해한 레깅스' + 보강의 수호하는 룬  
+- 목걸이에는 '폭풍파괴자'로 인챈트
+    목걸이 퀄리티는 조프/툴/에쉬의 기폭제를 사용해서 원소피해와 저항의 수치를 올릴수 있다.
+- 반지는 균열의 에센스와 바알 촉진시키는 주입기를 사용해서 퀄리티를 최대 75%까지 올릴수 있다.
+    - 그래서 균열 반지를 사용하나봐
+    - 기폭제는 공격속성을 높여주는 강탈자 기폭제를 사용 한다.
+    - 칼란드라의 손길 고유템은 반대쪽 반지를 투영
 - Herald of Ice(얼음의 전령)
-    - Elemental Armament2,Magnified Area2, Elemental Focus, Longshot2,Cold Mastery
+    - Elemental Armament2(원소병기2),Magnified Area2(범위확대2), Elemental Focus(원소집중), ,Longshot2(원거리사격2),Cold Mastery
 - Herald of Thunder
-    - Elemental Armament2,Concentrated Area,Elemental Focus, Excute 2,Lightning Mastery    
+    - Elemental Armament2,Concentrated Area(범위는 반토막,피해는 30% 업),Elemental Focus(원소집중), Excute 2,Lightning Mastery    
 - Herald of Ash
 -
 
