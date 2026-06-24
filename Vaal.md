@@ -4,6 +4,17 @@
 ![위치](./res/poe2/witch.png)
 ![전염](./res/poe2/WitchContagion.png)
 
+### C++ 포인터 * vs 참조 &
+|       |포인터 *| 참조 &|
+|-------|-------|-------|
+| 의미 | "이 객체 주소" | "이 객체 자체의 별칭"|
+| null | null 가능 | null 불가(반드시 유효 객체)|
+| 재지정 | 다른객체를 가리키도록 바꿀수 있음 | 선언후 객체를 바꿀수 없음 |
+| 문법 | ->/* 필요|.로 바로 접근 |
+| 호출부 | if(p) p->comm.port | ctx.comm.port(null검사없음) |
+
+
+
 [Claude code, Terminal,IDE,CLI 개념](https://www.youtube.com/watch?v=UNd1Cb5aIoU)
 
 ### c# 속성 Text,BackColor,BackgroundImage
