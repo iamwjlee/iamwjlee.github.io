@@ -13,7 +13,15 @@
 | 문법 | ->/* 필요|.로 바로 접근 |
 | 호출부 | if(p) p->comm.port | ctx.comm.port(null검사없음) |
 
-
+``` c++
+//v20.cpp
+static KikurasContext *s_ctx = NULL;
+static KikurasContext& v20_ctx()
+{
+    assert(s_ctx != NULL);
+    return *s_ctx;
+}
+```
 
 [Claude code, Terminal,IDE,CLI 개념](https://www.youtube.com/watch?v=UNd1Cb5aIoU)
 
