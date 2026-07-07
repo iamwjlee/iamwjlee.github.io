@@ -110,3 +110,8 @@ else {
 | 복합결제 | `KL`/`KC`/`KD`/`KM` | `KX`/`KA`/`K2`/`KR` 중심 |
 | 유외상품 | **NA** (`EnableGoods=0`) | `OC` 첨부 가능 |
 | 외상거래 | `BP` 묶음 (`skccCCDebug=1`) | 신용결제 |
+
+
+
+## AryaBuild: [jw/AryaBuild.md](jw/AryaBuild.md)
+## Protocol ODT and POS: [protocol.md](protocol.md)
