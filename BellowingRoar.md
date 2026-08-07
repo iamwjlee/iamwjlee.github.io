@@ -113,5 +113,32 @@ else {
 
 
 
+### 자영 모바일 간편결제: A2,EW,AZ,K2,KT
+```
+A2 모바일 간편결제(카카오,네이버,토스) 바코드
+EW 모바일 간편결제 바코드 취소 
+AZ 모바일 간편결제 신용+적립/ AZ easy-pay+bonus AZ[A2+NY] /현장할인이적용되려면 AN[A2+NY]
+
+복합 KI(현금)+K2(모바일)
+복합 KF(포인트)+K2(모바일)
+복합 KP(쿠폰)+K2(모바일) , 쿠폰단독시 영수증 내용이상해!
+
+만약에 복합결제진입시 적립카드를 먼저읽혔으면 K2->KT[K2+KZ]
+
+```
+
+### 자영 NFC 간편결제: AP,EP,AY,AF,KR,KX,KY 
+```
+  AP(NFC)  : 단독 
+  EP(NFC)  : 직전 AP 취소
+  AY[IY+NY]: NFC 신용+적립: CA와 동일 
+  AF[IY+NY]: NFC 현장할인: CN과 동일 
+
+  KI(현금) + KR(NFC)
+  KI(현금) + KY[KX(NFC)+KZ] ;적립사용
+  KF(포인트) + KY[KX(NFC)+KZ] ;적립사용
+```
+
+
 ## AryaBuild: [jw/AryaBuild.md](jw/AryaBuild.md)
 ## Protocol ODT and POS: [protocol.md](protocol.md)
