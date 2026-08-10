@@ -152,9 +152,9 @@ AZ 모바일 간편결제 신용+적립/ AZ easy-pay+bonus AZ[A2+NY] /현장할�
   AY[IY+NY]: NFC 신용+적립: CA와 동일 
   AF[IY+NY]: NFC 현장할인: CN과 동일 
 
-  KI(현금) + KR(NFC)
-  KI(현금) + KY[KX(NFC)+KZ] ;적립사용
-  KF(포인트) + KY[KX(NFC)+KZ] ;적립사용
+  NFC복합: KI(현금) + KR(NFC)
+  NFC복합: KI(현금) + KY[KX(NFC)+KZ] ;적립사용
+  NFC복합: KF(포인트) + KY[KX(NFC)+KZ] ;적립사용
 ```
 ### 현금영수증 미발행
 ```
