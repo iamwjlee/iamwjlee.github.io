@@ -163,7 +163,19 @@ AZ 모바일 간편결제 신용+적립/ AZ easy-pay+bonus AZ[A2+NY] /현장할�
     else if '2' 설정금액 영수증
     else if '3' 세차권
     else if '4' 포인트세차권
-``
+```
+
+### Lioneye
+
+```
+Gasmst.거래처관리.거래구분=2 이면 미수 집계 대상
+Gasmst.차량관리.거래구분=2는 무의미!
+
+외상전표출력하려면(법인코드여야 하고)
+Gasmst.거래처관리.전표출력=1
+Gasmst.거래처관리.ReceiptCount=1  //1이면 1장,0이면 2장의 전표(보관용,고객용)
+Gasmst.거래처관리.WashTicketKind=1  //세차권타입 #1
+```
 
 ## AryaBuild: [jw/AryaBuild.md](jw/AryaBuild.md)
 ## Protocol ODT and POS: [protocol.md](protocol.md)
