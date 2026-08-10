@@ -77,14 +77,15 @@ else {
 
 | 결제 유형          | SKCC 모드     | JW 모드      |   비고 |
 |--------------------|---------------|-------------|------|
+| 적립 조회          | `KG`(?)       | `KG`         |  조회 |
 | 현장할인 조회      | `CC`         | `SF`         |  조회 |
 | 쿠폰 조회          | `KQ`          | `KQ`        |  조회 |
-| 적립+O포인트+신용C  | `KL[KX+KZ+KF]` |`KF`(포인트)+`KA[KX+KZ]`|   |
-| 적립+현금+신용C     | `KL[KX+KZ+KI]` |`KI`(현금)+`KA[KX+KZ]`|현금(키인/미발행)|
-| 할인+현금+신용C    | `KC[KX+KZ+KI]` |`KI`(현금)+`CN[IY+NY]` |
-| B포인트+신용C      | `KL[KX+KF]`    |`KF`(포인트)+`KA[KX+KZ]` | |
-| 할인+B포인트+신용C | `KD[KX+KZ+KF]` |`KF`(포인트)+`CN[IY+NY]` |  |
-| 쿠폰+신용          | `KM[KX+KP]`   |`KP`(쿠폰)+`KX`(신용)  |  |
+| 적립+O포인트+신용C  | `KL[KX+KZ+KF]` |`KF`(포)+`KA[KX+KZ]`| |
+| 적립+현금+신용C     | `KL[KX+KZ+KI]` |`KI`(현)+`KA[KX+KZ]`| |
+| 할인+현금+신용C    | `KC[KX+KZ+KI]` |`KI`(현)+`KA[KX+KZ]` | |
+| B포인트+신용C      | `KL[KX+KF]`    |`KF`(포)+`KA[KX+KZ]` | |
+| 할인+B포인트+신용C | `KD[KX+KZ+KF]` |`KF`(포)+`KA[KX+KZ]` | |
+| 쿠폰+신용          | `KM[KX+KP]`   |`KP`(쿠)+`KX`(신)  | |
 | 쿠폰 단독          |    **NA**     |`KP`(쿠폰)             | 단일결제  |
 | 포인트 단독        |    **NA**       |`KF`(포인트)            | 단일결제  |
 | 신용C 단독         |    **NA**       |`KX`                  | 단일결제 Card  |
@@ -112,6 +113,20 @@ else {
 | 외상거래 | `BP` 묶음 (`skccCCDebug=1`) | 신용결제 |
 
 
+### 자영 현장할인
+```
+CN[IY+NY]
+SF+KI+KA[KX+KZ] //현장할인+현금+신용+적립
+```
+### 자영 비회원활인- 신용과 동일 패턴사용
+```
+NX 단독
+CA[IY+NY] 적립+신용
+KI+KX 복합 현금+신용
+KI+KA[KX+KZ] 복합 현금+신용+적립
+```
+
+
 
 ### 자영 모바일 간편결제: A2,EW,AZ,K2,KT
 ```
@@ -127,6 +142,9 @@ AZ 모바일 간편결제 신용+적립/ AZ easy-pay+bonus AZ[A2+NY] /현장할�
 
 ```
 
+
+
+
 ### 자영 NFC 간편결제: AP,EP,AY,AF,KR,KX,KY 
 ```
   AP(NFC)  : 단독 
@@ -138,7 +156,14 @@ AZ 모바일 간편결제 신용+적립/ AZ easy-pay+bonus AZ[A2+NY] /현장할�
   KI(현금) + KY[KX(NFC)+KZ] ;적립사용
   KF(포인트) + KY[KX(NFC)+KZ] ;적립사용
 ```
-
+### 현금영수증 미발행
+```
+  NR : 현금영수증미발행으로 '설정금액영수증'을 요청 
+    if payload='1' 직전영수증
+    else if '2' 설정금액 영수증
+    else if '3' 세차권
+    else if '4' 포인트세차권
+``
 
 ## AryaBuild: [jw/AryaBuild.md](jw/AryaBuild.md)
 ## Protocol ODT and POS: [protocol.md](protocol.md)
