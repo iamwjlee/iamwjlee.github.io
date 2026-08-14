@@ -189,5 +189,26 @@ Grelwood에서 거래처 코드(01) 등록 하고,Lioney의 거래처관리에�
 
 ```
 
+### 정유사 - 밴사
+```
+S-OIL : NICE/KIS
+E1 : KICC/KSNT/SMRT
+현대 OIL-BANK : KICC/KSNT
+GS : SMRT/KICC
+
+NICE로 E1 진행이 있었음
+
+```
+
+### 유가보조카드(거래카드)
+
+```
+법인유가보조카드: 정해진 충전소에서만 사용
+개인유가보조카드:
+주로 신한유류,롯데유류,현대유류카드가 있음
+
+화물차,택시,버스운전자에게 지급되는 정부지원금 지급, 전용 복지/유류구매카드를 통해 결제하면, 국토교통부 화물 유가보조금 통합한도관리시스템,택시유가보조금 통합관리시스템에서 발급사별 혜택을 확인
+```
+
 ## AryaBuild: [jw/AryaBuild.md](jw/AryaBuild.md)
 ## Protocol ODT and POS: [protocol.md](protocol.md)
