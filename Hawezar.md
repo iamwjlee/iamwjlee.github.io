@@ -66,20 +66,26 @@ if (newWay.TryGetValue(inputCode, out var label))
   등록작업.개인고객등록 선택시  CustomerForm(M db)
 
 ``` c#
-//VendorForm.cs
+//VendorForm.cs(거래처)
 var sql = $"""  
     SELECT {string.Join(", ", DetailColumns)}
     FROM 거래처관리
     WHERE (? = '' OR 거래처코드 LIKE ? OR 거래처명 LIKE ?)
     ORDER BY 거래처코드
     """;
-//CustomerForm.cs
+//CustomerForm.cs(개인고객)
+//CorporateVehicleForm.cs(법인차량)
 var sql = $"""
     SELECT {string.Join(", ", DetailColumns)}
     FROM 고객관리
     WHERE (? = '' OR 코드번호 LIKE ? OR 차량번호 LIKE ? OR 성명 LIKE ?)
+    AND Left(Trim(코드번호), 2) = ?
     ORDER BY 코드번호
     """;
+
+//첫 번째 물음표 ? = '' (빈값 체크용):
+//이 자리에는 %가 없는 순수한 keyword인 p0가 들어가야 합니다.
+//두 번째/세 번째 물음표  LIKE ? (포함 검색용):이 자리에는 앞뒤로 %가 붙은 p1이 들어가야 SQL이 정상적으로 부분 검색을 수행할 수 있습니다.
 
 //C#의 하수 표기법(Raw String Literal - """)과 문자열 인터폴레이션($)을 사용    
 //사용자가 입력한 검색어(?)가 비어있으면 전체를 조회하고, 값이 있으면 '거래처코드'나 '거래처명'에 해당 단어가 포함된 데이터만 골라내어 코드로 정렬
