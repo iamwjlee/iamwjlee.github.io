@@ -145,6 +145,20 @@ public static TSource? FirstOrDefault<TSource>(
 	여기에 전달한 람다식 path => path.Contains(...)가 바로 이 Func<string, bool> 형식에 딱 맞기 때문에 컴파일이 가능한 것입니다.
 */
 
+var receiptInfoExpr = """
+    IIF(
+        IIF(ISNULL(a.Receipt), 0, a.Receipt) = 0,
+        '',
+        IIF(
+            Trim(IIF(ISNULL(r.ProcessUseNum), '', r.ProcessUseNum)) <> '',
+            Trim(r.ProcessUseNum),
+            '발행'
+        )
+    )
+    """;
+//Trim(...) <> '': 그 값의 앞뒤 공백을 제거(Trim)했을 때 빈 값이 아니라면(즉, 무언가 번호가 채워져 있다면) 공백을 제거한 실제 이용 번호(Trim(r.ProcessUseNum))를 반환합니다. 
+//이용 번호가 비어 있다면 '발행'이라는 텍스트를 반환합니다.
+
 ```
 
 
