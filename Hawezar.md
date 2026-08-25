@@ -95,6 +95,50 @@ string text = "ABCDE";
 string result = text[..3]; // 결과: "ABC"
 
 int[] subArray = numbers[1..4]; // 1번 인덱스부터 4번 직전까지
+
+public static void PopulateCombo(ComboBox combo);  //지정한 콤보박스(ComboBox) 컨트롤에 데이터 목록을 채워 넣어라
+
+public static void PopulateShiftCombo(); //  교대 근무(Shift) 콤보 박스(Combo)에 데이터를 채워 넣다(Populate)
+
+FormatNumericColumns(_acquirerGrid, "금액", "N0");  //숫자 열의 서식을 지정한다"라는 의미,"N0" (표준 숫자 서식 문자열) 기본 3자리마다 콤마 찍는다
+FormatNumericColumns(_acquirerGrid, "공급가", "N0"); 
+public override string ToString() => Label; //ToString() 메서드 재정의 (Override)
+// C#의 모든 객체는 원래 글자로 출력하려고 하면 프로젝트명.ShiftOption 같은 클래스 이름이 툭 튀어 나옵니다.
+// 하지만 이 메서드 앞에 override(재정의)를 붙이고 앞서 배운 =>를 사용해 Label을 반환하도록 설정했습니다. 
+// 이제 이 객체를 글자로 바꿀 때는 무조건 "2교대" 같은 화면 이름이 출력됩니다.
+public bool TableHasColumn(string dbPath, string tableName, string columnName, string? jetDatabasePassword = null)
+{
+    using var connection = OpenConnection(dbPath, jetDatabasePassword);
+    var schema = connection.GetOleDbSchemaTable( //데이터베이스 내부를 직접 뒤지는 것이 아니라, 데이터베이스가 가진 구조 정보(스키마)를 요청
+        OleDbSchemaGuid.Columns,
+        new object?[] { null, null, tableName, columnName });
+    return schema is { Rows.Count: > 0 };
+}
+
+.FirstOrDefault(path => path.Contains(token, StringComparison.OrdinalIgnoreCase))
+//독립된 함수를 파라미터로 넘겨준 것과 완전히 같습니다.
+
+public static TSource? FirstOrDefault<TSource>(
+    this IEnumerable<TSource> source, 
+    Func<TSource, bool> predicate
+);
+/*
+- this IEnumerable<TSource> source
+	this 키워드는 이 메서드가 확장 메서드임을 나타냅니다
+	덕분에 Enumerable.FirstOrDefault(파일목록, 조건) 대신, 파일목록.FirstOrDefault(조건) 처럼 물 흐르듯 마침표(.)를 찍어 호출할 수 있습니다.
+	하지만 우리가 코드를 실제 사용할 때는 파라미터로 넣지 않고 생략하게 됩니다. 그 이유는 this 키워드 때문에 이 함수가 C#의 특수 기능인 '확장 메서드(Extension Method)'로 동작하기 때문입니다.
+	컴퓨터가 실제로 바꾸어 실행하는 코드 (원래 함수 형태)
+	Enumerable 클래스의 정적 메서드에 첫 번째 인자로 source를 직접 채워 넣습니다.
+	Enumerable.FirstOrDefault(Directory.EnumerateFiles(...), path => path.Contains(...));
+	즉, 문법적인 편리함(가독성)을 위해 첫 번째 파라미터를 앞으로 빼서 마침표(.)로 연결할 수 있도록 허용해 준 것입니다.
+	확장 메서드를 만들 때 꼭 지켜야 할 규칙 3가지:static,첫 번째 파라미터 앞에 반드시 this 키워드
+	자주 반복되거나 코드가 길어지는 특정 로직이 있으신가요?  그걸 깔끔한 확장 메서드로 리팩토링하는 방법을 제안해 드릴게요!
+
+- Func<TSource, bool> predicate (조건식 파라미터)
+	TSource(여기서는 파일 경로 문자열)를 입력받아서 bool(true/false) 값을 반환하는 대리자(Delegate/함수)를 의미합니다.
+	여기에 전달한 람다식 path => path.Contains(...)가 바로 이 Func<string, bool> 형식에 딱 맞기 때문에 컴파일이 가능한 것입니다.
+*/
+
 ```
 
 
