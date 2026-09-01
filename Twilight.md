@@ -6,7 +6,6 @@
 
 
 ## POE1 3.27 리그 2025년 11월 1일(3개월간) Keepers of the Flames(불길의 수호자들) 
-
 ## POE1 3.28 확장팩은 2026년 3월 7일(토요일) 공개 Mirage League
 
 [16마리 서리운반자의 샷건](https://www.youtube.com/watch?v=VpI4vrWM_Gc)

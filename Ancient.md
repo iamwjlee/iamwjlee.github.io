@@ -3,6 +3,7 @@
 ### Witch's Essence Drain 
 ![위치](./res/poe2/witch.png)
 
+## POE2 0.5.5 이벤트 리그 2026년 9월 5일(토요일) 
 
 ## POE2(0.5.0) 시즌5 2026년 5월 30일 고대의 귀환 
 
