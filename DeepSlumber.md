@@ -330,6 +330,97 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 제출 <input type="submit" value="제출"/> -->
 
 
+## JPOS4000_User_Board Review
+
+| Component | Pins | Detail | Interface |
+|---------|------|---------|-----------|
+| JTAG | 8pin | programming | - |
+| ext nozzle sw | - | external input | Input |
+| buzzer | - | buz | Output |
+| EEPROM | - | AT24C512 | I2C |
+| LED | - | 12V/5V/3V | Power |
+| RS232 debug | 3pin | [RX, TX, GND] | UART PD25/26 |
+| Keypad | 8pin | [Key0, 1, 2, 3, 5VCC, GND, GND, GND] | key input |
+| DISPENSER main | 3pin | [D+, D-, GND] | 485 UART PA5/4 |
+| POS 485/422 | 6pin | [A, B, A, B, 5VCC, GND] | 485/422 UART PB0/1 |
+| VFD display | 10pin | [DSIN, DCLK, DSTB, DBLK, 12VCC, 5VCC, GND...] | x2 parallel conn |
+| gLcd | 20pin | [glDB0~7, RS, CS1, CS2, RST, R/W, E, 5VCC, GND] | LCD interface | 
+
+
+
+
+## JPOS4000_User_Board Connecter Review
+
+| 위치 | 커넥터 | 인터페이스 / 핀 수 | 기능 및 비고 |
+|---|---|---|---|
+| 좌상 (Upper Left) | J15 | VFD1, 10핀 | VFD1 연결 |
+| 좌상 (Upper Left) | J16 | gLCD, 10핀 | LCD 연결 |
+| 좌상 (Upper Left) | J14 | VFD2, 10핀 | VFD2 연결 |
+| 우상 (Upper Right) | J17 | Key In, 8핀 | 키패드 연결 |
+| 우상 (Upper Right) | J10 | RS-485, 4핀 | 메인보드 연결 |
+| 우상 (Upper Right) | JP2 | 점퍼, 2핀 | Erase 옵션 |
+| 우 (Right Side) | J2 | 프린터, 4핀 | 프린터 연결 |
+| 우 (Right Side) | J18 | RS-485, 5핀 | 옆 호기 연결 |
+| 우 (Right Side) | J19 | RS-485, 5핀 | 옆 호기 연결 |
+| 우 (Right Side) | JP4 | 점퍼, 3핀 | 485A 옵션 |
+| 좌 (Left Side) | — | — | 기재된 내용 없음 |
+| 아래 (Bottom) | J9 | 12V, 2핀 | 전원 입력 |
+| 아래 (Bottom) | J8 | Nozzle, 3핀 | 노즐 스위치 연결 |
+| 아래 (Bottom) | J1 | RX/TX, 5핀 | 예비 |
+| 아래 (Bottom) | J4 | RX/TX, 3핀 | 예비 |
+| 아래 (Bottom) | JP5 | 점퍼, 3핀 | 485B 옵션 |
+
+> 참고: 향후에 카드리더기사용을 위한 UART 포트및 커넥터 리뷰해야!
+
+
+## JPOS4000 Block diagram
+```mermaid
+graph BT;
+    DIS[Dispenser Mainboard
+     SAM70] <--> |nc| BUF[Interfaceboard not required]
+    BUF <--> |nc| LB[jpos4000 user board
+    SAM70]
+    DIS <--> |rs485| LB
+    LB <--> |8pin| Q[Keypad]
+    LB <--> |10pin| W[gLCD]
+    LB <--> |10pin| E[VFD1]
+    LB <--> |10pin| R[VFD2]
+    LB <--> |3pin| V[Nozzle SW]
+    LB <--> |rs232| w[Debug]
+    LB <--> |rs232/a,b,a,b,5vcc,gnd| R485[422/485]
+    R485 <--> |rs485/a,b,gnd| T[External POS
+    PC]
+    R485 <--> |rs485/a,b,gnd| U[Other Dispenser 
+        jpos4000 user board 
+        SAM70]
+```  
+## JPOS3000 Block 
+```mermaid
+
+graph LR;
+    A1[JPOS3000 1호기]
+    A2[JPOS3000 2호기]
+    A3[JPOS3000 3호기]
+    A4[JPOS3000 4호기]
+    A5[JPOS3000 5호기]
+    A6[JPOS3000 6호기]
+
+    C1[485/422통신보드#1]
+    C2[485/422통신보드#2]
+    C3[485/422통신보드#3]
+    LINE[485라인\n 2선식]
+    DONGLE[422/232]
+    PC[JW POS]
+    A1 <--> C1 <--> LINE 
+    A2 <--> C1
+    A3 <--> C2 <--> LINE
+    A4 <--> C2 
+    A5 <--> C3 <--> LINE
+    A6 <--> C3
+    C1 <--> DONGLE <--> PC
+    
+```
+
 <script>
     
 </script>
