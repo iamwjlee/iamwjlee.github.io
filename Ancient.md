@@ -8,7 +8,12 @@
 ## POE2 0.5.0 시즌5 2026년 5월 30일 고대의 귀환 
 ## POE2 0.4.0 2025년 12월 13일 새시즌 시즌4
 
-[바라시타](https://www.youtube.com/watch?v=GkKE6ooiQFQ)
+
+[임성빈 바라시타](https://www.youtube.com/watch?v=PBWgtjN4Amw)
+
+[톡식맨 바라시타](https://www.youtube.com/watch?v=WH8Suenf06c)
+
+[그레시아 바라시타](https://www.youtube.com/watch?v=GkKE6ooiQFQ)
 
     패스브스킬트리  5:12/5:24
     셉터,투구,목걸이,집중구에서 소환수스킬레벨
