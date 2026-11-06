@@ -2,7 +2,15 @@
 
 ![디아4](../res/D4/디아4.png)
 
-### Diablo 4 Sorcerer Skills - Season 4
+
+## World of Warcraft Forever released 2026-12-5
+
+    시점은 마우스,이동은 adws
+    
+
+
+
+## Diablo 4 Sorcerer Skills - Season 4
 
 ![순간이동](./res/D4/순간이동.png)
 ![얼음칼날](./res/D4/IceBlade.png)
@@ -11,7 +19,7 @@
 ![번개창](./res/D4/LightningSpear.png)
 ![화염탄](./res/D4/FireBolt.png)
 
-### Diablo 4 
+## Diablo 4 
 
 [강령 입문가이드 절단 강령은 어케싸우나요](https://gall.dcinside.com/mgallery/board/view/?id=diablo4&no=142458)
 
