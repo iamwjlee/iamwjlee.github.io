@@ -6,9 +6,16 @@
 ## World of Warcraft Forever released 2026-12-5
 
     시점은 마우스,이동은 adws
-    
+    어스름 사제:
+    #showtooltip 상급 치유
+    /cast [@mouseover,help,nodead][help,nodead][@targettarget,help,nodead][@player] 상급 치유
+    // 아군(help),살아있다면(nodead)
+    // 1순위 마우스오버,2순위 현재대상,3순위 적타겟의 대상
+    필드퀘:  암흑에 정신력누출 5포,수양의 법봉 2포, 명상찍고 수양으로 쭉
+        정분,고통하고 법봉질
 
-
+    수양: 법봉(2),빛의힘(3) / 신성한 정밀함(1),정신력(4) / 명상(3),내면의집중력(1),보호막(1/3) / 내면의열정(3/3),보호막(3/3)
+    암흑: 법봉(2),정신력누출(5/5),어둠의권능:고통연마(2/2),암흑마법집중(1/5),정신의 채찍(2/2),암흑마법집중(3/5)
 
 ## Diablo 4 Sorcerer Skills - Season 4
 
