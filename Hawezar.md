@@ -6,6 +6,8 @@
 
 ## World of Warcraft Forever released 2026-12-5
 
+[ForG](https://forg.gg/forever/dungeons/city-of-dalaran)
+
     시점은 마우스,이동은 adws
     어스름 사제/역병걸린 사제/
     #showtooltip 상급 치유
