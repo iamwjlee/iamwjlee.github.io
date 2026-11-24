@@ -385,7 +385,7 @@ graph BT;
     LB <--> |10pin| R["VFD2"]
     LB <--> |3pin| V["Nozzle SW"]
     LB <--> |rs232| w["Debug"]
-    LB <--> |rs232/a,b,a,b,5vcc,gnd| R485["422/485"]
+    LB <--> |"rs232/a,b,a,b,5vcc,gnd"| R485["422/485"]
     R485 <--> |"rs485/a,b,gnd"| T["External POS<br/>PC"]
     R485 <--> |"rs485/a,b,gnd"| U["Other Dispenser<br/>jpos4000 user board<br/>SAM70"]
 ```
