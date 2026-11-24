@@ -376,24 +376,19 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 ## JPOS4000 Block diagram
 ```mermaid
 graph BT;
-    DIS[Dispenser Mainboard
-     SAM70] <--> |nc| BUF[Interfaceboard not required]
-    BUF <--> |nc| LB[jpos4000 user board
-    SAM70]
+    DIS["Dispenser Mainboard<br/>SAM70"] <--> |nc| BUF["Interfaceboard not required"]
+    BUF <--> |nc| LB["jpos4000 user board<br/>SAM70"]
     DIS <--> |rs485| LB
-    LB <--> |8pin| Q[Keypad]
-    LB <--> |10pin| W[gLCD]
-    LB <--> |10pin| E[VFD1]
-    LB <--> |10pin| R[VFD2]
-    LB <--> |3pin| V[Nozzle SW]
-    LB <--> |rs232| w[Debug]
-    LB <--> |rs232/a,b,a,b,5vcc,gnd| R485[422/485]
-    R485 <--> |rs485/a,b,gnd| T[External POS
-    PC]
-    R485 <--> |rs485/a,b,gnd| U[Other Dispenser 
-        jpos4000 user board 
-        SAM70]
-```  
+    LB <--> |8pin| Q["Keypad"]
+    LB <--> |10pin| W["gLCD"]
+    LB <--> |10pin| E["VFD1"]
+    LB <--> |10pin| R["VFD2"]
+    LB <--> |3pin| V["Nozzle SW"]
+    LB <--> |rs232| w["Debug"]
+    LB <--> |rs232/a,b,a,b,5vcc,gnd| R485["422/485"]
+    R485 <--> |rs485/a,b,gnd| T["External POS<br/>PC"]
+    R485 <--> |rs485/a,b,gnd| U["Other Dispenser<br/>jpos4000 user board<br/>SAM70"]
+```
 ## JPOS3000 Block 
 ```mermaid
 
