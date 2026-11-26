@@ -450,6 +450,10 @@ graph LR;
     [jpos4000] inboard 485/422
     - same70n21보드  <--a/b--> [Smart Controller] <-> 큐맨텍포스
 
-<script>
-    
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: false });
+  await mermaid.run({
+    querySelector: '.language-mermaid',
+  });
 </script>
