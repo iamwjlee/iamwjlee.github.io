@@ -329,6 +329,7 @@ xcopy mainU.exe "\\odt01\Aryastark\release" /y
 비밀번호 <input type="password"  name="password" />
 제출 <input type="submit" value="제출"/> -->
 
+## JPOS4000 [PCB Board]((./res/jpos4000board.png))
 
 ## JPOS4000_User_Board Review
 
@@ -381,15 +382,16 @@ graph BT;
     DIS <--> |rs485| LB
     LB <--> |8pin| Q["Keypad"]
     LB <--> |10pin| W["gLCD"]
-    LB <--> |10pin| E["VFD1"]
-    LB <--> |10pin| R["VFD2"]
+    LB <--> |10pin x2| E["VFD1/VFD2"]
     LB <--> |3pin| V["Nozzle SW"]
     LB <--> |rs232| w["Debug"]
-    LB <--> |"rs232/a,b,a,b,5vcc,gnd"| R485["422/485"]
-    R485 <--> |"rs485/a,b,gnd"| T["External POS<br/>PC"]
+    LB <--> |"rs232/a,b,a,b,5vcc,gnd"| R485["485 2Line"]
+    R485 <--> |"rs485/a,b,gnd"| T["External SC+<br/>포스 PC"]
     R485 <--> |"rs485/a,b,gnd"| U["Other Dispenser<br/>jpos4000 user board<br/>SAM70"]
 ```
-## JPOS3000 Block 
+## JPOS4000 [WireHarness](./Jpos4000.md)
+
+## JPOS3000 485 Block 
 ```mermaid
 
 graph LR;
@@ -419,7 +421,7 @@ graph LR;
 ## 485통신
 
     - 2선(차등) 반이중방식(하나의 선로를 공유하지만, 다중포인트 통신 최소32개 연결)
-    - sn65176bdr 
+    - SN65176BDR(차동버스트랜시버) 
         - output,out_en(DE)
         - input,!in_en(!RE)
         - A
@@ -428,8 +430,12 @@ graph LR;
 
     - 1호기 tx/rx - 485 - a/b 
     - 2호기 tx/rx - 485 - a/b  
-
-    
+```mermaid
+graph LR;
+    C0[SN65176BDR]
+    A[1호기 TX/RX] <-->|"TX/RX,DE"| C0 <--> C[A/B]
+    B[2호기 TX/RX] <-->|"TX/RX,DE"| C0 <--> C
+```    
 
     [jpos3000] 
     at91sam메인보드 <-> [빨간색통신보드:422보드] <-> [422/232쪽보드] <-> 장위포스
