@@ -420,16 +420,17 @@ graph LR;
 
 ## 485통신
 
-    - 2선(차등) 반이중방식(하나의 선로를 공유하지만, 다중포인트 통신 최소32개 연결)
-    - SN65176BDR(차동버스트랜시버) 
-        - output,out_en(DE)
-        - input,!in_en(!RE)
-        - A
-        - B
-        DE,!RE 같이연결하여  1이면 출력, 0이면 입력
+- 2선(차등) 반이중방식(하나의 선로를 공유하지만, 다중포인트 통신 최소32개 연결)
+- SN65176BDR(차동버스트랜시버) 
+    - output,out_en(DE)
+    - input,!in_en(!RE)
+    - A
+    - B
+    DE,!RE 같이연결하여  1이면 출력, 0이면 입력
 
-    - 1호기 tx/rx - 485 - a/b 
-    - 2호기 tx/rx - 485 - a/b  
+- 1호기 tx/rx - 485 - a/b 
+- 2호기 tx/rx - 485 - a/b  
+
 ```mermaid
 graph LR;
     C0[SN65176BDR]
@@ -438,24 +439,27 @@ graph LR;
     B[2호기 TX/RX] <-->|"TX/RX,DE"| C1 <--> |c/d| C
 ```    
 
-    [jpos3000] 
-    at91sam메인보드 <-> [빨간색통신보드:422보드] <-> [422/232쪽보드] <-> 장위포스
-    - 1호기 tx/rx - 422(출력) - a/b 
-    - 2호기 tx/rx - 422(입력) - c/d  
+### jpos3000 
+at91sam메인보드 <-> [빨간색통신보드:422보드] <-> [422/232쪽보드] <-> 장위포스
 
-    - [422/232쪽보드](in:a/b/c/d,out 2,3,5,8 @rs232-db9) 12345/6789 에서 2(rx),3(tx),5(gnd),8(cts:clear to send,0이어야 전송) 
-    - 빨간색통신보드는 정말로 422로 셋팅되어 있나?
+- 1호기 tx/rx - 422(출력) - a/b 
+- 2호기 tx/rx - 422(입력) - c/d  
 
-    at91sam메인보드 <-> [녹색통신보드:485보드] <--a/d--> [Smart Controller] <-> 큐맨텍포스
+- [422/232쪽보드](in:a/b/c/d,out 2,3,5,8 @rs232-db9) 12345/6789 에서 2(rx),3(tx),5(gnd),8(cts:clear to send,0이어야 전송) 
+- 빨간색통신보드는 정말로 422로 셋팅되어 있나?
+
+- at91sam메인보드 <-> [녹색통신보드:485보드] <--a/d--> [Smart Controller] <-> 큐맨텍포스
 
 
-    [jpos3000 kiosk]
-    at91sam메인보드 <-> [녹색통신보드:485보드]
-    - 1호기 tx/rx - 485 - a/b 
-    - 2호기 tx/rx - 485 - c/d  
+### jpos3000 kiosk
+at91sam메인보드 <-> [녹색통신보드:485보드]
+- 1호기 tx/rx - 485 - a/b 
+- 2호기 tx/rx - 485 - c/d  
 
-    [jpos4000] inboard 485/422
-    - same70n21보드  <--a/b--> [Smart Controller] <-> 큐맨텍포스
+### jpos4000 inboard 485/422
+- same70n21보드  <--a/b--> [Smart Controller] <-> 큐맨텍포스
+
+
 
 <script type="module">
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
