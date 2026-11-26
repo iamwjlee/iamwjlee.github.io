@@ -433,8 +433,9 @@ graph LR;
 ```mermaid
 graph LR;
     C0[SN65176BDR]
-    A[1호기 TX/RX] <-->|"TX/RX,DE"| C0 <--> C[A/B]
-    B[2호기 TX/RX] <-->|"TX/RX,DE"| C0 <--> C
+    C1[SN65176BDR]
+    A[1호기 TX/RX] <-->|"TX/RX,DE"| C0 <--> |a/b| C[A/B 485 3선 반이중통신]
+    B[2호기 TX/RX] <-->|"TX/RX,DE"| C1 <--> |c/d| C
 ```    
 
     [jpos3000] 
